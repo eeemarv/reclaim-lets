@@ -1,0 +1,12 @@
+baseURL: https://reclaim.letsa.net/
+languageCode: nl-be
+title: LETS reclaim LETS
+theme: kiera
+publishDir: docs
+params:
+  tagline: LETS is geen Tijdsbank
+author:
+  name: Maarten Vandekeybus
+  github: eeemarv
+  facebook: martti
+  twitter: martti
