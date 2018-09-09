@@ -6,9 +6,20 @@
     <description>Recent content on LETS reclaim LETS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-be</language>
+    <lastBuildDate>Sun, 09 Sep 2018 12:48:28 +0200</lastBuildDate>
     
 	<atom:link href="https://reclaim.letsa.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://reclaim.letsa.net/</link>
+      <pubDate>Sun, 09 Sep 2018 12:48:28 +0200</pubDate>
+      
+      <guid>https://reclaim.letsa.net/</guid>
+      <description>LETS reclaim LETS is een promotie-actie voor het LETSysteem en tevens een protestactie gericht tegen LETS Vlaanderen vzw die volstrekt foute informatie omtrent LETS verspreidt. Namelijk, deze organisatie doet al jaren alsof LETS een soort van Tijdsbank is. LETS en Tijdsbanken zijn beide concepten van gemeenschapsmunten die wel overeenkomsten vertonen maar die ook heel verschillend zijn.
+LETS is voor alledaags gebruik in de bestaande economie. LETS* werd in 1982-1983 ontworpen in Canada door Michael Linton.</description>
+    </item>
     
   </channel>
 </rss>
