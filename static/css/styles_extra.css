@@ -1,0 +1,4 @@
+.float-image-right, img[src*="float-right"], .float-image, img[src*="float"] {
+    margin: .5em;
+    box-shadow: none;
+}

@@ -1,0 +1,21 @@
+{{ $title := .Title }}
+{{ $url := printf "%s" .Permalink | absLangURL }}
+{{ $body := print $title "\n\n" $url "\n" }}
+
+<li>
+    <a href="http://twitter.com/share?url={{ $url }}&text={{ $title }}&via={{with .Site.Social.twitter }}{{ . }}{{ end }}" title="Deel op Twitter">
+        <i class="fa fa-twitter fa-lg" aria-hidden="true"></i>
+    </a>
+</li>
+
+<li>
+    <a href="http://www.facebook.com/sharer.php?u={{ $url }}" title="Deel op Facebook">
+        <i class="fa fa-facebook fa-lg" aria-hidden="true"></i>
+    </a>
+</li>
+
+<li>
+    <a href="mailto:?subject={{ $title }}&body={{ $body }}" title="Deel per e-mail">
+        <i class="fa fa-envelope-o fa-lg" aria-hidden="true"></i>
+    </a>
+</li>
