@@ -3,100 +3,57 @@ date: 2018-09-09T12:48:28+02:00
 layout: single
 ---
 
-**LETS reclaim LETS** is een promotie-actie voor het LETSysteem en tevens een protestactie gericht tegen _LETS Vlaanderen vzw_ die volstrekt foute informatie omtrent LETS verspreidt. Namelijk, deze organisatie doet al jaren alsof LETS een soort van _Tijdsbank_ is. LETS en Tijdsbanken zijn beide concepten van gemeenschapsmunten die wel overeenkomsten vertonen maar die ook heel verschillend zijn.
+## LETS is geen Tijdsbank
+
+**LETS reclaim LETS** is een promotie-actie voor het LETSysteem en tevens een protestactie gericht tegen de organisatie _LETS Vlaanderen vzw_ die foute informatie omtrent LETS verspreidt. Namelijk, zij doet al jaren alsof LETS een soort van _Tijdsbank_ is. LETS en Tijdsbanken zijn beide concepten van gemeenschapsmunten die wel overeenkomsten vertonen maar die ook heel verschillend zijn.
 
 ## LETS is voor alledaags gebruik in de bestaande economie.
 
-LETS* werd in 1982-1983 ontworpen in Canada door Michael Linton. Hij beoogde een toegankelijk geldsysteem voor alle kleine dagelijkse transacties. LETS is "street money" zoals hij het zelf noemt[]. Daarom dat de maateenheid van LETS-geld gelijk is aan die van het nationale geld. Het officiële geld is de maat-eenheid waarin mensen denken en handelen in het leven van alledag. En één op één pariteit laat eveneens gemakkelijke integratie toe van het LETSysteem met de bestaande economie en het bedrijfsleven. ![euro](images/note_1.jpg#float-right) Gecombineerde betalingen in euro's en LETS-euro's zijn zo mogelijk. Het procentuele aandeel in LETS-euro's vormt dan een toegevoegde component in de marktwerking.[*] Hierover zou inzake het LETSysteem geen misverstand mogen bestaan. Vanaf het begin heeft Michael Linton het concept van LETS helder uiteengezet in verscheinende publicaties[*][*] en in 1994 schreef hij de definitieve gids "The LETSystem Design Manual". Deze is sinds 1995 online te vinden.
+LETS* werd in 1982-1983 ontworpen in Canada door Michael Linton. Hij beoogde een toegankelijk geldsysteem voor de kleine dagelijkse transacties. LETS is "street money" zoals hij het zelf noemt(). Daarom dat de maateenheid van LETS-geld gelijk is aan die van het nationale geld. Dat is immers waarin mensen denken en handelen in het leven van alledag. Eén op één pariteit laat tevens gemakkelijke integratie toe van het LETSysteem met de bestaande economie en het bedrijfsleven. ![euro](images/note_1.jpg#float-right) Gecombineerde betalingen in euro's en LETS-euro's zijn zo mogelijk. Het procentuele aandeel in LETS-euro's vormt zo een toegevoegde component in de marktwerking.() Hierover zou inzake het LETSysteem geen misverstand mogen bestaan. Vanaf het begin heeft Michael Linton het concept van LETS helder uiteengezet in verscheidene publicaties()() en in 1994 schreef hij de definitieve gids "The LETSystem Design Manual". Deze is sinds 1995 online te vinden.
 
 ## LETS Vlaanderen vzw negeert
 
-_LETS Vlaanderen vzw_, sinds enige jaren door de Vlaamse Overheid gesubsidieerd, een organisatie die zichzelf in de media benoemd als "expertisenetwerk inzake LETS", negeert echter volledig het werk van Michael Linton. De organisatie stelt namelijk sinds jaar en dag dat LETS een soort van Tijdsbank zou zijn. Transacties in een Tijdsbank worden uitgedrukt in uren en minuten dienst die iemand verleend heeft aan een ander. Maar zulke tijds-transacties kan je niet (gemakkelijk) integreren met het bedrijfsleven of aangeven bij de fiscus. ![Tijd](images/clock_1.jpg#float) Bij Tijdsbanken stelt men gewoonlijk dan ook dat zij enkel bedoeld zijn voor niet-professionele uitwisselingen en slechts die handel waarop geen belasting verschuldigd is. Tijdsbanken zijn zo vrije tijdssystemen die los staan van de gewone economie. Dat is wat _LETS Vlaanderen vzw_ beweert over LETS; dat het volledig staat buiten de conventionele economie. Tekenend is dat _LETS Vlaanderen vzw_ op haar website wel "The Time Dollar how-to Manual"[*], een gids over Tijdsbanken volgens Edgar Kahn plaatst, maar niet "The LETSystem Design Manual"[*], het standaardwerk van Michael Linton over het LETSysteem. _LETS Vlaanderen vzw_ negeert het werk van Michael Linton.
+_LETS Vlaanderen vzw_, sinds enige jaren door de Vlaamse Overheid gesubsidieerd, een organisatie die zichzelf in de media opwerpt als "expertisenetwerk inzake LETS", negeert echter volledig het werk van Michael Linton. De organisatie stelt namelijk sinds jaar en dag dat LETS een soort van Tijdsbank zou zijn. Transacties in een Tijdsbank worden uitgedrukt in uren en minuten dienst die iemand verleend heeft aan een ander. Maar zulke tijds-transacties kan je niet (gemakkelijk) integreren met het bedrijfsleven of aangeven bij de fiscus. ![Tijd](images/clock_1.jpg#float) Bij Tijdsbanken stelt men gewoonlijk dan ook dat zij enkel bedoeld zijn voor niet-professionele uitwisselingen en slechts die handel waarop geen belasting verschuldigd is. Tijdsbanken zijn zo vrije tijdssystemen die los staan van de gewone economie. Dat is wat _LETS Vlaanderen vzw_ beweert over LETS; dat het volledig staat buiten de conventionele economie. Tekenend is dat _LETS Vlaanderen vzw_ op haar website wel ["The Time Dollar how-to Manual", een gids over Tijdsbanken volgens Edgar Kahn]() plaatst, maar niet ["The LETSystem Design Manual", het werk van Michael Linton]().
 
 ## Neutraal
 
 De jarenlange foutieve promotie van LETS in Vlaanderen heeft er toe geleid dat er ondertussen een 40-tal groepen zijn die zich LETS noemen, maar het feitelijk niet zijn. Veel van die groepen zijn opgericht met hulp van _LETS Vlaanderen vzw_ en alle voeren momenteel hetzelfde Tijdsbank-discours en praktijk. We komen de volgende absurde uitspraken tegen:
 
-> * "In LETS-land zijn euro's niet van tel." (website LETS Gent vzw, uit de "tien geboden van LETS")
+> * "In LETS-land zijn euro's niet van tel." ([website LETS Gent vzw](https://lets.gent/hoe-werkt-het), uit de "tien geboden van LETS")
 > * "En bedenk ook, LETS'ers zijn hobbyisten, geen professionals onder elkaar." (idem)
-> * "Binnen Lets is geld taboe. We waarderen elkaar met vlasbloemen (naam van interne tijdsmunt), niet met euro's." (website LETS Leie)
+> * "Binnen Lets is geld taboe. We waarderen elkaar met vlasbloemen (naam van interne tijdsmunt), niet met euro's." ([website LETS Leie](https://www.letsleie.be/vlasbloemen))
 > * "Alle arbeid is gelijkwaardig." (idem)
-> * "Een LETS-eenheid geeft aan hoeveel tijd er in een ruildienst wordt geïnvesteerd: de LETS-groep spreekt af hoeveel LETS-eenheden overeenkomen met één uur." (het LETS starterspakket, uitgave LETS Vlaanderen vzw, met steun van Delhaize fonds)
-> * "Binnen het LETS-netwerk worden diensten en goederen uitgewisseld. Deze diensten en goederen worden vergoed in een systeem met een complementaire munteenheid, gebaseerd op tijd." (Uit het LETS-Charter dat LETS Vlaanderen vzw in aanwezigheid van minister van cultuur Sven Gatz in november 2016 presenteerde)
+> * "Een LETS-eenheid geeft aan hoeveel tijd er in een ruildienst wordt geïnvesteerd: de LETS-groep spreekt af hoeveel LETS-eenheden overeenkomen met één uur." ([het LETS starterspakket, pag. 6, uitgave LETS Vlaanderen vzw](https://anzdoc.com/starterspakket-handleiding.html), met steun van Delhaize fonds)
+> * "Binnen het LETS-netwerk worden diensten en goederen uitgewisseld. Deze diensten en goederen worden vergoed in een systeem met een complementaire munteenheid, gebaseerd op tijd." (Uit [het LETS-Charter](https://letszandland.be/het-lets-charter/) dat LETS Vlaanderen vzw in aanwezigheid van minister van cultuur Sven Gatz in november 2016 presenteerde)
 
 ![Hmm](images/confused.jpg#float-right)
-LETS staat helemaal niet voor zulke ideologie. Het LETSysteem bepaalt niet van bovenaf wat iemands tijd waard is. Het is helemaal aan de partijen onderling om prijzen overeen te komen. () Het kan natuurlijk dat een bepaalde gemeenschap bepaalde regels oplegt voor vergoedingen. Maar zulke bepalingen zijn specifiek voor die bepaalde gemeenschap, niet van het LETS-concept.
+LETS staat helemaal niet voor zulke ideologie. Het LETSysteem bepaalt niet van bovenaf wat iemands tijd waard is. Het is helemaal aan de partijen onderling om prijzen overeen te komen. () Het kan natuurlijk dat een bepaalde gemeenschap eigen regels oplegt voor vergoedingen. Maar zulke bepalingen zijn specifiek voor die gemeenschap, en niet eigen aan het LETS-concept.
 
-Het concept van het LETSysteem is zo neutraal mogelijk. Dit opdat het toegankelijk zou zijn voor iedereen en elke gemeenschap. **Eender welke gemeenschap() met eender welke ideologie of doel die nut ziet in extra LETS-geld kan het systeem ongehinderd in vrijheid toepassen.** ()
+Het concept van het LETSysteem is daarentegen zo neutraal mogelijk. Dit opdat het toegankelijk zou zijn voor iedereen en elke gemeenschap. **Eender welke gemeenschap() met eender welke ideologie of doel die nut ziet in extra LETS-geld kan het systeem ongehinderd in vrijheid toepassen.** ()
 
 LETS bepaalt **NIET** in tegenstelling tot wat _LETS Vlaanderen vzw_ beweert:
 
 * de prijzen die gehanteerd moeten worden.
-* voor welk soort transacties en welke achterliggende daden het gebruikt mag worden.
+* welk soort transacties en welke achterliggende daden toegelaten zijn.
 * hoe gemeenschappen samengesteld moeten zijn. Of wat hun doel of ideologie zou moeten zijn.
 * hoe gemeenschappen bestuurd moeten worden.
 
 _De laatste drie punten worden later nog uiteengezet in extra posts op deze site._
 
-Buiten toegankelijkheid, draagt neutraliteit bij aan een professionele uitstraling. Zoals bepaald in _the LETSystem Design Manual_ (zie "cost of service"), draaien LETSystemen niet op vrijwilligerswerk, maar worden zij beheerd door betaalde kracht, bekostigt door het LETSysteem zelf. Bij systemen die door vrijwilligers geopereerd worden zal er in het algemeen meer neiging zijn tot ideologie.
-
 ## Protest
 
 ![Protest](images/protest.png#float)
-Sinds 2012 sloot ik me aan bij een LETS maar gaandeweg kwam ik er achter dat de
+Er is geen enkel bezwaar tegen dat mensen of organisaties hun eigen concepten van gemeenschapsmunten lanceren. Het zou zelfs verwelkomd moeten worden dat meer experimenten plaatsvinden. Maar het is niet netjes en worden grenzen overschreden wanneer andermans concepten geclaimd of bewust fout voorgesteld worden. Zoiets is nefast. Amateurisme wekt geen vertrouwen. Mensen krijgen een verkeerde voorstelling van het LETSysteem en haken af om de verkeerde redenen. Een heldere voorstelling van concepten en eerlijkheid is nodig. Dat houdt in dat _LETS Vlaanderen vzw_ haar eigen concept een eigen naam moet geven. Noem het simpelweg een _Tijdsbank_, een _Tijdsuitwisselingsysteem_ (TUiS) of _VrijeTijdsLETS_. Wend creativiteit aan om een passende naam te bedenken.
 
+Onafhankelijk van _LETS Vlaanderen vzw_ zette ik me sinds 2012 vrijwillig in voor LETS in Vlaanderen door software te ontwikkelen en gratis hosting te voorzien voor groepen. Ik werd in het begin ook misleid, maar geleidelijk aan kwam ik er achter dat de voorstelling van LETS in Vlaanderen niet klopt. Ik ging op zoek naar de teksten van Michael Linton en zag dat zij een verhaal vertellen dat helemaal niet strookt met wat _LETS Vlaanderen vzw_ allemaal verkondigt. Sinds november 2016 kaart ik deze misstand bij de organisatie aan in meetings, per telefoon en per e-mail maar de boodschap wordt totaal genegeerd. Daarom ga ik over publieke actie. Uit communicatie met bestuursleden van de vzw blijkt dat zij LETS beschouwen als "hun systeem", waar zij autoriteit over hebben en dat het niets te maken heeft met Michael Linton. (Nochtans staat op hun site "LETS begon in 1983 in Canada met Michael Linton" enz.) Die houding blijkt ook uit hun "LETS Charter" een document dat zij lanceerden in november 2016 in tegenwoordigheid van minister van cultuur Sven Gatz. Dit claimen van andermans concept vind ik niet door de beugel kunnen. Temeer dat ik het LETS-concept van Michael Linton zinniger,pragmatischer, toegankelijker, universeler, nuttiger en efficienter beoordeel dan het Tijdsbank-concept van _LETS Vlaanderen vzw_. LETS kan ingezet worden op veel meer domeinen en segmenten in onze maatschappij. Meer mensen zouden hun weg ernaar kunnen vinden. LETS gaat veel ruimer en breder dan de Tijdsbanken van _LETS Vlaanderen vzw_. Na bijna 25 jaar en verscheidene honderdduizenden euro's vanwege de Vlaamse Overheid, zijn deze nog steeds een relatief onbekend randverschijnsel in onze samenleving met ongeveer slechts 5000 leden.
+![boek](images/books.jpg#float-right)
 
-_LETS Vlaanderen vzw_ is het daarmee niet eens en legt de bepalingen op aan gemeenschappen. Volgens hun "LETS-Charter" mogen enkel gemeenschappen die iedereen toelaten zich LETS noemen. Dat is fout. Het LETS concept legt geen enkele bepaling op hoe of op welke basis een gemeenschap samengesteld moet zijn.
+**Jij kan meehelpen!**
 
-Net kwetsbare gemeenschappen kunnen het meeste baat hebben met het opereren van een LETS voor het verwezelijken van hun doelen. Denk bijvoorbeeld aan een vrouwenbeweging, een holebi-rechten beweging enz. Als zij moeten opgenomen moeten worden in een algemene gemeenschap met democratisch bestuur zoals _LETS Vlaanderen vzw_ het stelt (), zal de specifieke stem, focus of doel verloren gaan.
+* In de eerste plaats door niet zomaar alles aan te nemen wat men je zegt. Maar door jezelf te informeren. Hoe heeft Linton het LETSysteem gedefinieerd? Lees [the LETSystem Design Manual](https://manual.letsa.net/en/1.1.html). Om het toegankelijker te maken vertaalde ik [het werk in het Nederlands](https://manual.letsa.net/nl/1.1.html).
+* Informeer anderen.
+* Als je deel uitmaakt van een Tijdsbank die zich LETS noemt, stel voor om de groep een andere naam te geven.
+* Confronteer Tijdsbankers die zich LETS noemen met [Het Nieuwe LETS Charter](het-nieuwe-lets-charter.pdf).
+* Bekijk en overweeg of het misschien de moeite is om in je leefomgeving een echt LETSysteem op te zetten. Dat kan voor elk doel of gemeenschap, groot of klein. Misschien ben je dra bij de pioniers in Vlaanderen?
 
-The LETSystem Design Manual adviseert om LETS _licht_ te houden en stelt dat een democratisch bestuur _te zwaar_ is voor een LETS. Belangrijk hier op te merken is dat LETS geen exclusief recht is. Het maken van wetten van een land die elke burger dient na te leven is een exclusief recht. Het opereren van een LETS is dat niet. De basisregels van LETS zijn reeds een vrijheid-garantie: er is nooit enige verplichting voor de deelnemers en elk mens of gemeenschap kan vrij een LETS opstarten.
-
-Het LETSysteem bemoeit zich ook niet met wat mensen of partijen onderling doen. Net zoals een gewone bank transacties registreert maar zich niet met de achterliggende daden van haar klanten bemoeit. (Maar dezelfde opmerking geldt hier: bepaalde gemeenschappen kunnen bepaalde regels hanteren. Maar dat maakt niet deel uit van het LETS-concept op zich) Dus het volgende is fout:
-
-> * "Transacties die een mogelijk risico inhouden, horen niet in het LETS-systeem: dakwerken, werken op stellingen, grote afbraakwerken, handelingen met open vuren en dergelijke." (het LETS starterspakket, LETS Vlaanderen vzw).
-
-Buiten toegankelijkheid, draagt neutraliteit bij aan een professionele uitstraling. Professionaliteit is voor een LETSysteem een vereiste[*cost of service]. Daar waar Tijdsbanken op vrijwilligerswerk draaien, wordt een LETSysteem professioneel beheerd met betaalde kracht en bekostigt door het LETSysteem zelf. Bij systemen die door vrijwilligers geopereerd worden zal er in het algemeen meer neiging zijn tot ideologie.
-
-Samengevat, het LETSysteem bepaalt NIET
-
-* de prijzen die partijen moeten hanteren.
-* hoe gemeenschappen samengesteld moeten zijn.
-* welke activiteiten wel en niet zijn toegestaan.
-* de vorm van het bestuur.
-
-## Protestactie motivatie
-
-* Komaf maken met foute beeldvorming over LETS
-* Het verschil duidelijk maken met andere systemen.
-
-
-Het wereldje van gemeenschapsmunters is bevolkt met nogal wat acteurs die hun helderheid opzijzetten of werkelijkheidszin opzijzetten door ideologisch bevlogenheid en somtijds uit opportunisme zo is mijn ervaring. Temidden van het tumult schittert het LETSysteem door haar eenvoud en pragmatische aanpak. De ernstige economische situatie destijds noopte tot een praktisch en begrijpelijk systeem. Daarom kreeg het in de jaren negentig wereldwijd veel belangstelling en het geldt nog steeds
-
-Het LETSysteem is een eenzaam krachtig in haar eenvoud in het wereldje van gemeenschapsmunten.
-
-### Doel
-
-- Bekendheid geven aan het echte LETSysteem.
-- Het verschil blootleggen met andere systemen.
-- Desinformatie aanklagen, mensen en instanties wijzen op hun verantwoordelijkheid.
-
-### Acties
-
-- Deze website
-- verassingsacties (ik kan er niet meer over prijsgeven, sorry).
-- Een nieuw Charter voor LETS lanceren waarin simpelweg wordt gesteld:
-
-"Het oude LETS Charter is ongeldig."
-(Het betreft hier het zogenoemd "LETS Charter" dat LETS Vlaanderen vzw in november 2016 in bijzijn van minister Sven Gatz lanceerde.)
-
-Redenen:
-1) LETS Vlaanderen vzw is niet gemachtigd om te bepalen wat LETS is. LETS is een concept dat los staat van deze organisatie en dat door iemand anders werd ontworpen, beschreven en bekend gemaakt.
-2) In het oude LETS Charter staan allerlei zaken die niets met LETS te maken hebben (zoals: LETS is gebaseerd op tijd).
-
-Lancering van het nieuwe Charter kan gepaard gaan met visueel interessante (voor de camera's) vernietiging van het oude Charter. Voorstellen hiervoor zijn welkom en weest allen uitgenodigd om te komen tekenen.
-Noot voor de toekomst: het is onnodig om nog verder Charters te lanceren. Om te weten wat LETS is, raadpleeg the LETSystem Design Manual.
-
-Net zoals de fiets een concept is dat niet eigendom is van de Fietsersbond, is het concept LETS niet de eigendom van LETS Vlaanderen vzw. De Fietsersbond kan niet naar eigen goeddunken gaan bepalen wat een fiets is of wie gemachtigd is om te fietsen. Nee, zij heeft de taak op zich genomen om fietsen te promoten en er zo objectief mogelijke informatie over te verstrekken. Net zo zou dat voor LETS Vlaanderen vzw moeten zijn.
-
-Omdat LETS onbekend is bij het grote publiek kon LETS Vlaanderen vzw dit tot nu wel ongehinderd pretenderen dat LETS haar eigen kind is. Het kapen
+Maarten Vandekeybus

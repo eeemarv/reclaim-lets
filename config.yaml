@@ -4,8 +4,6 @@ title: LETS reclaim LETS
 theme: kiera
 publishDir: docs
 params:
-  tagline: LETS is geen Tijdsbank
+  tagline: Voor een juiste voorstelling van het LETSysteem
 author:
   name: Maarten Vandekeybus
-  facebook: martti
-  twitter: martti
