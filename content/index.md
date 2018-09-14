@@ -52,9 +52,8 @@ Onafhankelijk van _LETS Vlaanderen vzw_ zette ik me sinds 2012 vrijwillig in voo
 
 **Jij kan meehelpen!**
 
-![LETS](lets-card.jpg#float)
-
 * In de eerste plaats door niet zomaar alles aan te nemen wat je leest of wat men je zegt. Maar door jezelf te informeren. Hoe heeft Linton het LETSysteem gedefinieerd en wat zijn de achterliggende motivaties? Lees [the LETSystem Design Manual](https://manual.letsa.net/en/1.1.html). Om het toegankelijker te maken vertaalde ik [het werk in het Nederlands](https://manual.letsa.net/nl/1.1.html).
+![LETS](lets-card.jpg#float)
 * Informeer anderen.
 * Als je deel uitmaakt van een Tijdsbank die zich LETS noemt, stel voor om de groep een andere naam te geven.
 * Confronteer Tijdsbankers die zich LETS noemen met [Het Nieuwe LETS Charter](het-nieuwe-lets-charter.pdf).
