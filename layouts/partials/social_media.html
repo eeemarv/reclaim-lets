@@ -1,15 +1,15 @@
-{{ $title := .Title }}
+{{ $title := .Site.Title }}
 {{ $url := printf "%s" .Permalink | absLangURL }}
 {{ $body := print $title "\n\n" $url "\n" }}
 
 <li>
-    <a href="http://twitter.com/share?url={{ $url }}&text={{ $title }}&via={{with .Site.Social.twitter }}{{ . }}{{ end }}" title="Deel op Twitter">
+    <a href="https://twitter.com/share?url={{ $url }}&text={{ $title }}" title="Deel op Twitter">
         <i class="fa fa-twitter fa-lg" aria-hidden="true"></i>
     </a>
 </li>
 
 <li>
-    <a href="http://www.facebook.com/sharer.php?u={{ $url }}" title="Deel op Facebook">
+    <a href="https://www.facebook.com/sharer.php?u={{ $url }}" title="Deel op Facebook">
         <i class="fa fa-facebook fa-lg" aria-hidden="true"></i>
     </a>
 </li>
