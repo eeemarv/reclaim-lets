@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>LETS reclaim LETS</title>
-    <link>https://reclaim.letsa.net/</link>
-    <description>Recent content on LETS reclaim LETS</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>nl-be</language>
-    <lastBuildDate>Sun, 09 Sep 2018 12:48:28 +0200</lastBuildDate>
-    
-	<atom:link href="https://reclaim.letsa.net/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://reclaim.letsa.net/</link>
-      <pubDate>Sun, 09 Sep 2018 12:48:28 +0200</pubDate>
-      
-      <guid>https://reclaim.letsa.net/</guid>
-      <description>LETS is geen Tijdsbank LETS reclaim LETS is een actie om het LETSysteem bekendheid te geven en tevens een protestactie gericht tegen de organisatie LETS Vlaanderen vzw die foute informatie omtrent LETS verspreidt. Namelijk, zij doet al jaren alsof LETS een soort van Tijdsbank is. LETS en Tijdsbanken zijn beide concepten van gemeenschapsmunten die wel overeenkomsten vertonen maar die ook heel verschillend zijn.
-LETS is voor alledaags gebruik in de bestaande economie.</description>
-    </item>
-    
-  </channel>
+ <channel>
+   <title>LETS reclaim LETS</title>
+   <link>https://reclaim.letsa.net/</link>
+   <description>Recent content on LETS reclaim LETS</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>nl-be</language>
+   <lastBuildDate>Sun, 09 Sep 2018 12:48:28 +0200</lastBuildDate>
+   
+       <atom:link href="https://reclaim.letsa.net/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+ </channel>
 </rss>
