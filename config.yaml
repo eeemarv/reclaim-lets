@@ -3,7 +3,7 @@ languageCode: nl-be
 defaultContentLanguage: nl
 title: Open Money en LETS
 theme: kiera
-publishDir: docs
+# publishDir: docs
 params:
   tagline: Informatie over Open Money en LETS
 author:

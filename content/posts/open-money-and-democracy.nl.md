@@ -1,6 +1,6 @@
 +++
 title = "Open Money en Democratie"
-date = 2020-01-18T18:19:41+01:00
+date = 2019-03-30T18:19:41+01:00
 images = []
 tags = []
 categories = []
@@ -8,7 +8,7 @@ draft = false
 slug = "open-money-en-democratie"
 +++
 
-_Vanaf 2007 hielden Ernie Yacub en Michael Linton geregeld een internet radio show op het platform BlogTalkRadio. Dit is de eerste episode: Open Money en Democratie_
+_Vanaf 2007 hielden Ernie Yacub en Michael Linton een internet radio show op het platform BlogTalkRadio. Dit is de eerste episode._
 
 **Ernie**\
 Dag wereld!
@@ -140,7 +140,7 @@ Ja, machtsystemen neigen ertoe systemen te creëren die machtsystemen beschermen
 En geld als het hoofdzakelijke mechanisme van onze sociaal-economische commerciële wereld is daarvan de grote trots.
 Degenen die het geld controleren, lijken de overheid te controleren. Degenen die de overheid controleren, lijken het geld te controleren.
 En 90% van ons bevinden zich buiten de kern van het spel. En te veel van ons proberen er in te geraken.
-Dat maakt deel uit van de dogmatische ideeën. 80% van de maatschappij lijkt wanhopig begerig om bij het feestje te geraken eerder dan voor hun thuis te zorgen. Het draait niet om economie. Het draait om opwinding en winnen. En dat geldt net zo voor de poltiek.
+Dat maakt deel uit van de dogmatische ideeën. 80% van de maatschappij lijkt wanhopig begerig om bij het feestje te geraken eerder dan voor hun thuis te zorgen. Het draait niet om economie. Het draait om opwinding en winnen. En dat geldt net zo voor de poltiek. ![Open Money](/images/open-money-inv.png#float-right)
 Dus ik denk dat er geen hoop is voor de democratie, de echte democratie, tenzij er zich een verschuiving voordoet in het geld-kader. De wandelgangen van de macht zijn bezet en niemand wil er weg.
 
 **Ernie**\

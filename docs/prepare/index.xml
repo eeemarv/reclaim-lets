@@ -1,13 +1,14 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-   <title>Tags on Open Money en LETS</title>
-   <link>https://reclaim.letsa.net/tags/</link>
-   <description>Recent content in Tags on Open Money en LETS</description>
+   <title>Prepares on Open Money en LETS</title>
+   <link>https://reclaim.letsa.net/prepare/</link>
+   <description>Recent content in Prepares on Open Money en LETS</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>nl-be</language>
+   <lastBuildDate>Tue, 11 Sep 2018 14:06:28 +0200</lastBuildDate>
    
-       <atom:link href="https://reclaim.letsa.net/tags/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="https://reclaim.letsa.net/prepare/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>

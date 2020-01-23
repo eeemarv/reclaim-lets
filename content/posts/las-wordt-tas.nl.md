@@ -12,7 +12,7 @@ slug = "las-wordt-tas"
 
 _**LETS Antwerpen Stad vzw** (LAS) heeft op de algemene vergadering van april 2019 besloten de vereniging te hernoemen naar **Tijdbank Antwerpen Stad vzw** (TAS). Bij de aanwezigen was het besef gegroeid dat de activiteiten van de vereniging niet vallen onder de definitie van een LETSysteem. Groot voorstander van de naamsverandering is Maarten. Hij bestudeerde het LETSysteem en sprak al verschillende keren met bedenker Michael Linton._
 
-*Een ingekorte versie van dit artikel verscheen in het ledenmagazine "Nestel", nummer 48*
+_Een ingekorte versie van dit artikel verscheen in het ledenmagazine "Nestel", nummer 48_
 
 __Maarten, je pleit er al langer voor om onze vereniging niet langer LETS te noemen. Waarom?__
 
