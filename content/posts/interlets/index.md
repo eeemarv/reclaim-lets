@@ -1,11 +1,12 @@
-+++
-title = "InterLETS"
-date = 2018-03-03T18:54:18+01:00
-images = []
-tags = []
-categories = []
-draft = false
-+++
+---
+title: >
+  "InterLETS"
+date: 2018-03-03T18:54:18+01:00
+images: []
+tags: []
+categories: []
+draft: false
+---
 
 _Ik sprak met Michael Linton over intertrading tussen LETSystemen ofwel wat men weleens "interLETS" pleegt te nemen._
 

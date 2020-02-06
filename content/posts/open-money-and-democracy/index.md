@@ -1,12 +1,12 @@
-+++
-title = "Open Money en Democratie"
-date = 2019-03-30T18:19:41+01:00
-images = []
-tags = []
-categories = []
-draft = false
-slug = "open-money-en-democratie"
-+++
+---
+title: Open Money en Democratie
+date: 2019-03-30T18:19:41+01:00
+images: []
+tags: []
+categories: []
+draft: false
+slug: open-money-en-democratie
+---
 
 _Vanaf 2007 hielden Ernie Yacub en Michael Linton een internet radio show op het platform BlogTalkRadio. Dit is de eerste episode._
 

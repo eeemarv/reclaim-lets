@@ -1,12 +1,12 @@
-+++
-title = "Ontwikkeling"
-date = 2017-11-15T18:55:52+01:00
-images = []
-tags = []
-categories = []
-draft = false
-slug = "/ontwikkeling"
-+++
+---
+title: Ontwikkeling
+date: 2017-11-15T18:55:52+01:00
+images: []
+tags: []
+categories: []
+draft: false
+slug: ontwikkeling
+---
 
 Ontwikkeling van LETSystemen
 en financiering van ontwikkeling

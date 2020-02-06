@@ -1,195 +1,239 @@
-
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
- <channel>
-   <title>Open Money en LETS</title>
-   <link>https://reclaim.letsa.net/</link>
-   <description>Recent content on Open Money en LETS</description>
-   <generator>Hugo -- gohugo.io</generator>
-   <language>nl-be</language>
-   <lastBuildDate>Wed, 22 Jan 2020 18:55:52 +0100</lastBuildDate>
-   
-       <atom:link href="https://reclaim.letsa.net/index.xml" rel="self" type="application/rss+xml" />
-   
-   
-     <item>
-       <title>Ontwikkeling</title>
-       <link>https://reclaim.letsa.net/posts/ontwikkeling/</link>
-       <pubDate>Wed, 22 Jan 2020 18:55:52 +0100</pubDate>
-       
-       <guid>https://reclaim.letsa.net/posts/ontwikkeling/</guid>
-       <description>&lt;p&gt;Ontwikkeling van LETSystemen
-en financiering van ontwikkeling&lt;/p&gt;
-&lt;p&gt;_Een voormalig lid van &amp;ldquo;LETS Antwerpen Stad vzw*&amp;quot;, Christine, had gesproken met Michael Linton en had geuit zij het moeilijk vond om deel te nemen. Waarop Michael Linton had geantwoord dat hij drie mankementen zag. Christine kon zich niet precies meer herinneren wat Michael Linton geantwoord had. Dus stelde ik hem zelf de vraag. &amp;ldquo;Wat zijn de drie mankementen die je ziet bij LETS Antwerpen Stad vzw*?&amp;quot;_&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;(*Inmiddels heeft LETS Antwerpen Stad vzw op haar algemene vergadering van april 2019 besloten dat de vereniging hernoemd wordt naar Tijdbank Antwerpen Stad vzw, daar het besef is gegroeid dat haar activiteit niet valt onder de definitie van een LETSysteem.)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Dus, drie dingen:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Kleinschaligheid&lt;/li&gt;
-&lt;li&gt;Niet de bedrijven betrekken: de restaurants, de kleinhandel, de kapsalons, de medische &amp;hellip; En de hele wereld gebruikt geld. Waarom zou de wereld geen geld gebruiken dat rondgaat en terugkomt? Ze niet betrekken is waardeloos denk ik.&lt;/li&gt;
-&lt;li&gt;Waarschijnlijk ging het over &amp;ldquo;interLETS&amp;rdquo;. Ik denk dat Christine dat ten berde bracht en ik zal waarschijnlijk hebben gezegd: Vergeet het. Dat is krankzinnig.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Ik denk dat het allemaal neerkomt op: Zie je opportuniteit of zie je enkel één antwoord, één oplossing? En dat er een gevoel is dat zegt: &amp;ldquo;DIT zal werken! We gaan het ZO doen&amp;rdquo;? Wanneer mensen zo denken worden ze heel gering in hun analyse en benadering. En dat is waarschijnlijk het cruciale probleem.
-Het niet zien van de reikwijdte en de mogelijkheid wat dit inhoudt. &amp;hellip; Dat er niets is van wat we met conventioneel geld doen dat ook niet een gemeenschapsgeldnetwerk ermee verbonden kan hebben. En wij streven naar &amp;hellip; wel, ik bedoel niet echt &amp;ldquo;streven&amp;rdquo;, &amp;hellip; Wij verwachten dat geldnetwerken van het soort dat we beschrijven, eenvoudige wederzijds kredietsystemen, dat deze tot 30 procent van de economie kunnen uitmaken. Dat een stad als Antwerpen misschien 10.000 geldsoorten kan hebben, in werking in Antwerpen zelf. Misschien enkel 15 à 20 of zoiets die groot zijn, substantieel, overheersend. Die &amp;ldquo;het&amp;rdquo; geld zijn. Dit is het geld waar je gewoon aan raakt. Maar daarbuiten, al die sectoren. Al die specifiteiten. Al die tribale relaties&amp;hellip; De kudde mensen die een voetbal club volgen. Degenen die houden van die muziekgroep. De mensen die dat theater volgen. Mensen wiens kinderen op die school zitten. Al die groepen die een reden hebben om naar zichzelf te kijken &amp;hellip; Niet om anderen uit te sluiten, maar om te verbeteren wat ze met zichzelf kunnen doen.
-Dat is niet om te zeggen: wij en niet de anderen, maar om te zeggen: we kunnen het beter doen. We zouden dus iedereen in Antwerpen met Open Money accounts willen zien en zo armoede willen elimineren in Antwerpen. In noord Europa. In de wereld.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Op dit moment is het een nogal exclusief &amp;hellip; De gedachte hier is gewoonlijk min of meer dat je niet meer dan één LETSysteem in hetzelfde gebied kan hebben&amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Kerk? Klinkt je dat niet als een kerk in de oren? Mij lijkt me dat een kerk.
-Weet je. Dit is hoe deze controle mechanismen en angsten over verschillen zich manifesteren. En zich vertonen als institutionele administratieve macht en controle.
-Ik ging eens naar Australië. En in het westen van Australië, in Perth, waren ongeveer 10 LETSystemen. In die stad en regio. En ik dacht: Oh, fantastisch, deze jongens zijn helemaal klaar om deel uit te maken van hun grotere netwerken en zo. Geen &amp;ldquo;interLETS&amp;rdquo;, maar een groter systeem. Waarom hebben we niet eveneens een groter systeem? En dat was wanneer we voor het eerst software hadden die dat mogelijk maakte. Het was feitelijk geschreven in &amp;lsquo;92, in Perth, Australië. Toen ik daar was zat ik naast de programmeur en ik sloeg hem tot hij het resultaat produceerde. Een goede manier! Het waren enkel DOS programma&#39;s echter. En we probeerden die DOS programma&#39;s over te zetten op Windows en later naar het internet. Het was echt &amp;hellip; We konden het nooit echt aantrekkelijk maken. Maar toen we daar in die omstandigheden in West Australië waren met deze 10 systemen en ik zei: Waarom werken we niet allemaal samen? Dan zeiden alle beheerders daarop nee. Het zou hun systeem beschadigen om deel uit te maken van enig iets anders dan henzelf. En er was een soort van sociale psychose onder de beheerders denk ik. Ze waren zelf-afhankelijk en zelf-bevestigend. Ze geloofden hun eigen fantasie. En het leek erop dat ik niets kon doen.
-En ik heb dit vele keren meegemaakt sindsdien. Dat, als een systeem een het een tijdje overleeft, zelfs maar een paar jaar, dat er dan de neiging bestaat dat 2 of 3 mensen het beheren, karakteriseren, definiëren en vormgeven. En ze staan erop dat het enkel zo moet zoals zij het zien. Het is natuurlijk. Het is hoe de menselijke cultuur altijd heeft geassimileerd en zich dingen toegeëigend. We trachten eerder te situatie te beheersen dan er open voor te staan. En dus denk ik dat deze gesloten gedragingen het natuurlijke gevolg zijn van een open opportuniteit. En dat is zwaar. Ik ben erg kritisch, weet je. ERG kritisch. Maar, zo lijken de dingen te zijn.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Wel, misschien als het heel gemakkelijk wordt om systemen te creëren &amp;hellip; Als de software het mogelijk maakt dat je een systeem kan creëren met een muisklik &amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Ja, dat is alles wat je moet doen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-&amp;hellip; Als natuurlijk gevolg zullen dan vele systemen gecreëerd worden.
-&amp;hellip; Maar dan moeten deze nog altijd bekostigd worden op de één of de andere manier. Vele systemen en gebruikers zullen gecreëerd worden.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Ik denk dat het heel wat tijd zal duren eer kosten door trafiek van zodanig belang zullen zijn dat we beginnen nadenken over gelokaliseerde installaties, load shedding, gedistribueerde centers enzovoort. Op dit moment is ons systeem niet volledig gedistribueerd.
-Het einddoel is dat je telefoon een server is. En mijn telefoon is ook een server. En dat we met elkaar kunnen communiceren met het Open Money protocol. En datgene wat in enige mate gecentraliseerd is, zijn enkel de namen van de mensen die toegang hebben tot deze geldsoort. We zouden waarschijnlijk een blockchain gebruiken om vast te leggen dat de Antwerpse munt deze mensen omvat. Of deze bedrijven. Maar dat is alles waar we de blockchain  voor hebben. Het is de enige referentie. En het zou een gelokaliseerde blockchain zijn. We gaan het enkel laten bestaan
-bij mensen voor wie het betekenis heeft,. Bijvoorbeeld de partijen in het Antwerpse systeem. Mijn telefoon, keyboard, desktop, eender wat, &amp;hellip; Mijn toestel zou dan een transactie zenden naar het jouwe. Dat zou cryptografisch geëncodeerd zijn en de transacties bestaan dan enkel tussen de twee spelers en de muntbeheerder.
-De muntbeheerder is degene die de munt geopend en gedeclareerd heeft. En er kunnen meerdere muntbeheerders zijn. Zij zien de hele transactiegeschiedenis. En dat schaft hen gelegenheid om een transactie te blokkeren, of ongedaan te maken, of een persoon te blokkeren in de munt. Maar dat is alles. Er is niet meer dat je kan doen dan te zeggen, je bent een storend element, ga weg, en mensen aldus te blokkeren.
-Maar uiteindelijk moet de situatie zijn dat de kleine gecentraliseerde belasting plaatselijk gelokaliseerd wordt en dat alle trafiek feitelijk gedragen wordt door de toestellen van gebruikers.
-We hebben de werkingskosten van LETSystemen nooit als significant beschouwd.
-De kost van ontwikkeling en propaganda is WEL significant. HEEL significant. En tenzij er een ontwikkelingsprogramma bestaat van misschien 10, 20 mensen die werken aan communicatie, publiciteit, introductie, opleiding, eender wat, &amp;hellip; zonder dat &amp;hellip; groeit het maar heel traag en heel raar. Maar anders ligt het met, zeg maar, een half dozijn mensen in Antwerpen die een degelijk ontwikkelingsprogramma managen dat bedrijven binnenhaalt. VEEL bedrijven.
-En van deze bedrijven krijg je een bijdrage. De bedrijven zullen betalen voor de opleiding om dit nieuwe geld te gebruiken. Je rekent hen niets aan om het geld te hebben. Het geld is gratis. Het systeem is gratis. De opportuniteit is gratis. Er is voor niemand enige belemmering om het systeem te gebruiken. Weze het Unilever of Philips. Zij kunnen toegang hebben tot het systeem. En we zullen niet &amp;hellip; We rekenen hen niets aan. Maar als zij de ontwikkeling willen ondersteunen, dan betalen zij een bijdrage voor de opleiding. Een bijdrage voor een Antwerpse ontwikkelingsgroep, of een Amsterdamse ontwikkelingsgroep, of een Kopenhaagse ontwikkelingsgroep, of eender waar. &amp;hellip; Er moet gelokaliseerde ontwikkeling zijn want lokaal is waar het plaatsvindt.
-En onze visie is dat dat gefinancierd kan worden en dat dat gefinancierd MOET worden en dat dat gefinancierd moet worden vanuit de interne werking. Niet vanuit overheidssubsidie of een filantropisch agentschap of durfkapitalisten of iets van die strekking. Het zou een erg eenvoudig &amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Van onderuit? Want je ziet problemen wanneer het van bovenaf komt? Dat het misschien vergezeld is met een bepaald programma wanneer het van bovenaf komt?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Er is een neiging &amp;hellip; Bij voorbeeld, de mensen in Antwerpen die een subsidie hadden om software te schrijven voor dit, hebben mij nooit gecontacteerd &amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Misschien was je destijds niet zo goed bereikbaar? Ok, ik veronderstel dat ze je een e-mail hadden kunnen sturen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Ja, ik was in Londen destijds. Ik was dus niet ver weg. En, &amp;hellip; maar ze hebben het niet gedaan, zie je? En dat is wat gebeurt wanneer mensen geld vinden dat van ergens komt. Oh, we hebben een subsidie. WIJ hebben een subsidie. WIJ. En ze sluiten zich af. En ze worden een kleine wereld op zichzelf. En dan worden ze gewoon een kleinzielig spelletje. En in het algemeen draait dat spelletje rond de vraag: &amp;ldquo;Wat brengt ons naar de volgende subsidie?&amp;rdquo; Dus probeer je je te schikken naar de veronderstellingen van de subsidie-verstrekker, enzovoorts. Dus, het is een erg armzalig, bekrompen model. En het is een model dat begint met de verklaring: &amp;ldquo;Ons geld heeft geen betekenis. We hebben jouw geld nodig, zodat we ons zielige spelletje kunnen spelen.&amp;rdquo; Dat is wat er echt gezegd wordt. Als we onze systemen niet effectief kunnen gebruiken en vanuit hen de middelen kunnen genereren die we nodig hebben om ze uit te breiden, te ontplooien en te verbeteren, dan werken onze systemen niet. Het is de oude theorie in software: Eat your own dog food. Gebruik je eigen software. Als je niet je eigen software gebruikt. Dan &amp;hellip; waarom? En wat betreft de kwestie van het genereren van inkomsten &amp;hellip; Als ons geld niet goed genoeg is voor ons &amp;hellip; Waar zijn we dan mee bezig? Dus ik denk dat de uitdaging die elke serieuze ontwikkelingsgroep op zich moet nemen, is te kijken hoe dit middel te gebruiken om om zichzelf op te starten.
-En we hebben onze visie hierop gepubliceerd. En onze implementaties vele malen gedemonstreerd. Maar buiten de stad  &amp;hellip; We zijn hier 4 uur verwijderd van Vancouver en 3 uur van Victoria &amp;hellip; Dat zijn onze twee grote steden &amp;hellip; Dat maakt het heel duur om het daar te proberen en een kantoor te openen, een proces op te starten, een ontwikkeling op poten te zetten. We hebben zo vier pogingen gedaan om in een stad te zijn. En we gingen telkens helemaal blut.
-En in mijn eigen lokale plaatsje &amp;hellip; Hoewel het ons niets kost om het hier te doen. Weet je, ik woon hier. Ik moet geen kamer hebben om in te werken en een kamer om in te slapen. Wel, ik HEB een kamer om in te werken en om in te slapen. (lacht) Deze plaats is dus goedkoop. Maar ze is ook &amp;hellip; We hebben gedurende 30 jaar gesproken hier in dit plaatsje. Wat betekent dat gedurende 30 jaar mensen ons genegeerd hebben. En ze zullen het nog een tiental jaren doen. We hebben dus een probleem dat we middelen kunnen ontwikkelen op deze rare plaats die we niet echt kunnen gebruiken. En onze taak is om elders mensen te vinden die deze gereedschappen kunnen gebruiken. Mensen die ze kunnen begrijpen &amp;hellip; om ze tot significant genererende eenheden te maken in hun wereld.&lt;/p&gt;
-&lt;p&gt;Maarten Vandekeybus&lt;/p&gt;
-</description>
-     </item>
-   
-     <item>
-       <title>Charter</title>
-       <link>https://reclaim.letsa.net/posts/charter/</link>
-       <pubDate>Wed, 22 Jan 2020 18:54:36 +0100</pubDate>
-       
-       <guid>https://reclaim.letsa.net/posts/charter/</guid>
-       <description>&lt;h2 id=&#34;het-charter-van-lets-vlaanderen-vzw&#34;&gt;Het Charter van LETS Vlaanderen vzw&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;In november 2016 lanceerde LETS Vlaanderen vzw haar zogenaamde &amp;ldquo;LETS Charter&amp;rdquo;. Een week voor dit evenement sprak ik hierover met Michael Linton.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Vandaag de dag wordt LETS hier in Vlaanderen anders bekeken dan wat ik gelezen heb in uw handboek.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Ja.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Volgende week gaan ze een manifest maken, &amp;hellip; deze organisatie waar ik je over verteld heb &amp;hellip; waarin ze bijvoorbeeld zeggen: &amp;ldquo;LETS is gebaseerd op tijd.&amp;rdquo; (Michael lacht) Het is een Charter dat ze samen gaan tekenen in Brussel in aanwezigheid van de minister van cultuur (Sven Gatz). Ik vertel ze dan: &amp;ldquo;Waarom doen jullie dit? Het is niet jullie concept. Het is een concept dat reeds lang geleden werd uitgebracht door Michael Linton&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Ja, dit is ons eerste &amp;ldquo;handboek&amp;rdquo; (toont flyer van 1982). Onze bekendmaking was gewoon één pagina. Dit is het, weet je. Dit was alles wat we hadden om het LETSysteem uit te leggen, twee pagina&#39;s. En wat we zeiden was dat wederzijds krediet uitgedrukt kan worden in eender wat. Of &amp;hellip; zou uitgedrukt kunnen worden in eender wat. Er zouden tijdbanken moeten zijn. Er zouden op dollar gebaseerde systemen moeten zijn. Er zouden systemen moeten zijn die gebaseerd kunnen zijn op &amp;hellip; oh, ik weet niet &amp;hellip; de toekomstige prijs van suiker, als je het ingewikkeld wil maken op de één of andere manier. En er is geen enkele specifieke weerstand tegen enige van deze, behalve dat wij zeiden dat het LETSysteem, en we zijn heel specifiek over het LETSysteem, &amp;hellip; we zeiden dat het LETSysteem:&lt;/p&gt;
+  <channel>
+    <title>LETS en Open Money</title>
+    <link>https://reclaim.letsa.net/</link>
+      <atom:link href="https://reclaim.letsa.net/index.xml" rel="self" type="application/rss+xml" />
+    <description>LETS en Open Money</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017 - 2020 Maarten Vandekeybus</copyright><lastBuildDate>Fri, 17 Jan 2020 22:54:59 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>LETS en Open Money</title>
+      <link>https://reclaim.letsa.net/</link>
+    </image>
+    
+    <item>
+      <title>LAS wordt TAS</title>
+      <link>https://reclaim.letsa.net/posts/las-wordt-tas/</link>
+      <pubDate>Fri, 17 Jan 2020 22:54:59 +0100</pubDate>
+      <guid>https://reclaim.letsa.net/posts/las-wordt-tas/</guid>
+      <description>&lt;h2 id=&#34;naamsverandering-goedgekeurd-door-algemene-vergadering&#34;&gt;Naamsverandering goedgekeurd door algemene vergadering&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;LETS Antwerpen Stad vzw&lt;/strong&gt; (LAS) heeft op de algemene vergadering van april 2019 besloten de vereniging te hernoemen naar &lt;strong&gt;Tijdbank Antwerpen Stad vzw&lt;/strong&gt; (TAS). Bij de aanwezigen was het besef gegroeid dat de activiteiten van de vereniging niet vallen onder de definitie van een LETSysteem. Groot voorstander van de naamsverandering is Maarten. Hij bestudeerde het LETSysteem en sprak al verschillende keren met bedenker Michael Linton.&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Een ingekorte versie van dit artikel verscheen in het ledenmagazine &amp;ldquo;Nestel&amp;rdquo;, nummer 48
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Maarten, je pleit er al langer voor om onze vereniging niet langer LETS te noemen. Waarom?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Wat momenteel in Vlaanderen LETS genoemd wordt, is eigenlijk geen LETS. LETS is een vastomlijnd concept dat vorm kreeg in de vroege jaren 80 in Canada, Comox Valley (Vancouver Island). Er heerste plaatselijk een hoge werkloosheid en er was een tekort aan geld. Michael Linton zette een gemeenschapsgeldsysteem op en bedacht LETS als naam.&lt;/p&gt;
+&lt;p&gt;Een LETSysteem verschaft de deelnemers extra geld dat blijft circuleren in de eigen gemeenschap. Een LETSysteem, zo stelt Michael Linton, is bedoeld als ‘straatgeld’, ofwel de dagelijkse kleine economie, voor de kleine bedrijven, huishoudens, families. Het is wat je leert kennen als ‘lokaal-is-dit-ons-geld’.&lt;/p&gt;
+&lt;p&gt;Een groot verschil met de huidige systemen in Vlaanderen is dat een bij LETS de  meeteenheid gelijk is aan het wettige betaalmiddel. Dat was het eerste besluit dat genomen werd bij het ontwerp in Comox Valley. Eén LETS-eenheid in Comox Valley (de green dollar) kwam overeen met één Canadese dollar.&lt;/p&gt;
+&lt;p&gt;Dat werd pragmatisch zo bepaald. Iedereen was al gewoon te denken en te handelen in het wettige betaalmiddel. En dit liet toe het eigen gecreëerde geld te integreren in het dagelijkse economische leven. Het maakte deelname van bedrijven mogelijk, en prijszetting, boekhouding en betaling van belastingen helder.&lt;/p&gt;
+&lt;p&gt;LETS Antwerpen Stad vzw is een vereniging met vrijetijd-uitwisselingen gebaseerd op tijd, geen bedrijfsgeoriënteerd geldsysteem. We noemen het dus beter een tijdbank, naar analogie met de timebanks in de Verenigde Staten. Tijdbanken neigen naar de persoonlijke sfeer (vrije tijd en belastingvrij), terwijl LETSystemen bedrijfsgericht zijn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enkele jaren geleden is toch ook geprobeerd om meer kleine bedrijfjes, verenigingen en zelfstandigen te betrekken? Wordt dit dan losgelaten?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ik denk dat het vooral om verenigingen ging. Want bedrijven of zelfstandigen, dat is toch niet realistisch? Zij moeten de transacties in hun boekhouding kunnen opnemen voor de belastingen. Met een tijdeenheid wordt communicatie met de belastingdienst wel heel moeilijk. Voor verenigingen is er geen probleem natuurlijk. Zij zijn perfect voor een tijdbank of timebank.&lt;/p&gt;
+&lt;p&gt;Voor een goede relatie met de overheid en om zweem van zwartwerk weg te nemen zijn bij tijdbanken enkel vrijetijdsactiviteiten toegelaten. Daarbij worden in heel wat  timebanks de uitgewisselde waarden vaak geen &amp;ldquo;geld&amp;rdquo; genoemd.&lt;/p&gt;
+&lt;p&gt;Tjdbanken worden vaak zelfs &amp;ldquo;geleide vrijwilligersnetwerken&amp;rdquo; genoemd. Nadruk wordt gelegd op goed bestuur, verenigingsleven, sociale functies, ethische normen en waarden, zoals bvb. sociale insluiting, gelijkwaardigheid van mensen en respect voor elkaar. Edgar Cahn, de grondlegger van de timebanks in de USA heeft het over de &amp;ldquo;kernwaarden&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Een LETSysteem is wel een geldsysteem en het heeft een andere strategie voor een welwillende overheid, namelijk: belastingen betalen. Daarbij wordt geen beperking opgelegd &amp;ldquo;wat&amp;rdquo; mensen of partijen onder elkaar doen. Of er worden geen kernwaarden naar voren geschoven.&lt;/p&gt;
+&lt;p&gt;Er is in feite helemaal geen sturing of controle in een LETS. &lt;strong&gt;&amp;ldquo;Laten&amp;rdquo; is de essentie&lt;/strong&gt;. Vandaar de benaming &amp;ldquo;LETSystem&amp;rdquo;. Niemand controleert iemand anders. Niemand bepaalt wat goed of fout is. Niemand staat boven een ander. Er is geen hiërarchie. Er is geen bestuur. Er is geen vereniging met huishoudelijk reglement. Geen vzw. Geen lidgelden. Geen limieten op de accounts en geen startsaldo&amp;rsquo;s (zoals die wel gebruikelijk zijn bij de meerderheid van de huidige systemen in Vlaanderen).&lt;/p&gt;
+&lt;p&gt;De keuzevrijheid en verantwoordelijkhed ligt dus helemaal bij de deelnemers zelf. En de keuzes en uitwisselingen van de deelnemende partijen creëren zo een zelfregulerend geheel.&lt;/p&gt;
+&lt;p&gt;Het LETSysteem is daarbij zelf minimaal van opzet. Er is enkel een transactie-systeem en een rekeninghoudersovereenkomst die de deelnemers ondertekenen. De ervaring bij een LETS is dan zoals het hebben van een extra bank-account.&lt;/p&gt;
+&lt;p&gt;Er worden daarbij geen andere services gekoppeld zoals:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Dat het een publieke dienst is.&lt;/li&gt;
-&lt;li&gt;Het opereert aan werkingskosten.&lt;/li&gt;
-&lt;li&gt;Er wordt geen rente geheven.&lt;/li&gt;
-&lt;li&gt;Niemand controleert een ander. Dus er zijn geen kredietlimieten of eender wat in die aard.&lt;/li&gt;
-&lt;li&gt;En fundamenteel meten we in de standaard nationale munteenheid.&lt;/li&gt;
+&lt;li&gt;Een marktplaats ofwel het adverteren van vraag en aanbod&lt;/li&gt;
+&lt;li&gt;Mailinglijsten of sociale media groepen&lt;/li&gt;
+&lt;li&gt;Organisatie van evenementen of activiteiten&lt;/li&gt;
+&lt;li&gt;Verzekering van activiteiten&lt;/li&gt;
+&lt;li&gt;Begeleiding&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Een LETSysteem is bedoeld als &amp;ldquo;straatgeld&amp;rdquo;: het kleine bedrijf, het huishouden, de familie. Het is hetgene dat je leert kennen als lokaal-is-dit-ons-geld. En we wilden dat het duidelijk was dat het &amp;ldquo;geld&amp;rdquo; was en duidelijk dat LETSystemen GEEN tijdbanken zijn.&lt;/p&gt;
-&lt;p&gt;Nu, Open Moneyiv omvat alles. Je kan dus tijdbanken hebben in Open Money. En dat kan je duidelijk apart houden van de bedrijfsgebaseerde en de interactief gebaseerde LETSystemen &amp;hellip;
-Ik denk dat &amp;ldquo;tijd&amp;rdquo; prachtig is als geabstraheerd principe. Het is een prachtig iets om te doen maar het zal de relevantie van het systeem beperken tot 1 of 2 procent van de gemeenschap, 1 of 2 procent van de mensen hun leven er doorheen. 98 procent van de mensen en 98 procent van de mensen die tijdbanken gebruiken zullen nog steeds conventioneel geld gebruiken en nog altijd hun leven leiden op exact dezelfde wijze als zij altijd voorheen gedaan hebben.
-Dus denk ik dat het een klassieker is. En als je kans hebt om dit over te brengen aan de groep die het Charter maakt: Noem het de BELLETS [cfr. België]. Noem het geen LETSystemen. Noem het wat je verdomme leuk vindt. Maar niet &amp;hellip; niet &amp;hellip;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Ja, dat dacht ik ook. Ik had hier geen goed gevoel over.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Wel, dank je. Ik appreciëer je gevoelens. Het zijn ook de mijne. Het IS niet juist. Het is volstrekte bullshit. En ik belet hen niet om tijdbanken te creëren. Noem ze gewoon tijdbanken.&lt;/p&gt;
-&lt;p&gt;Maarten Vandekeybus&lt;/p&gt;
+&lt;p&gt;Dat zijn typische elementen die we wel terugvinden in het verenigingsleven van de timebanks.&lt;/p&gt;
+&lt;p&gt;LETS daarentegen is gewoon extra rondgaand geld in de eigen gemeenschap voor het dagelijkse openbare leven zonder dat daarbij bepaalde keuzes worden opgelegd.&lt;/p&gt;
+&lt;p&gt;Hoe verloopt een LETS-transactie dan? Bijvoorbeeld, een restaurant hangt een LETS-logo &amp;ldquo;dinsdag 50%&amp;rdquo; aan het raam. Dan kunnen leden van dat LETSysteem daar dinsdag 50% met eigen gecreëerd LETS-geld betalen. Je toont je LETS-betaalkaart, of een QR-code op je smartphone en de ober zal dit verrekenen. De resterende 50% betaal je in euro.&lt;/p&gt;
+&lt;p&gt;Het voordeel voor het restaurant is dat het extra (nieuwe) klanten kan aantrekken op een onderbezette dag. En het zorgt voor een positief imago doordat de eigen ecomie van de gemeenschap wordt ondersteund met eigen circulerend geld. Het binnenkomende LETS-geld kan aangewend worden om bijvoorbeeld het personeel een extra te geven.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wat kan het personeel daarmee doen?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Zij kunnen het besteden bij andere deelnemende partijen, particulieren en bedrijven.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h3 id=&#34;de-essentie-van-lets&#34;&gt;De essentie van LETS&lt;/h3&gt;
+&lt;p&gt;Dit is volgens Michael Linton, de LETS-bedenker, de essentie van LETS:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LETS is een publieke dienst.&lt;/li&gt;
+&lt;li&gt;Het systeem opereert aan werkingskosten. Dit betekent: er is een
+vergoeding voor wie het systeem opzet en onderhoudt, het is geen
+vrijwilligerswerk.&lt;/li&gt;
+&lt;li&gt;Het systeem werkt zonder rente.&lt;/li&gt;
+&lt;li&gt;Niemand controleert een ander. Er zijn dus geen krediet- of andere
+limieten.&lt;/li&gt;
+&lt;li&gt;De meeteenheid van een LETSysteem is de nationale munteenheid.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;En waar komt het geld op zo&amp;rsquo;n LETS-betaalkaart dan vandaan?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Een LETS is net als een tijdbank een wederzijds kredietsysteem. Dat is de gemeenschappelijke eigenschap. Dat wil zeggen dat alle deelnemers zelf geld kunnen creëren. Bij het toetreden tot een LETS staat je account op nul.&lt;/p&gt;
+&lt;p&gt;Het reflecteert wat je hebt bij de start: niets. Maar doordat je je account onder nul kan laten gaan, heb je de macht om geld te creëren. Wanneer je een betaling doet, creëert die actie op dat moment geld in het account van de tegenpartij.&lt;/p&gt;
+&lt;p&gt;Het eigen gecreëerd geld is een representatie van jouw belofte om op een later tijdstip een wederdienst te verrichten aan een partij in het betreffende LETSysteem. Als het geld terug bij jou komt is de uitstaande belofte vervult en wordt het geld zo weer vernietigd. Alle deelnemers kunnen zelf geld creëren en vernietigen in wederzijds kredietsystemen. Dat staat in contrast met het wettige conventionele geld (de euro in Europa) waar alleen de erkende banken tot geldcreatie gemachtigd zijn.&lt;/p&gt;
+&lt;p&gt;In een LETS hebben alle deelnemers evenveel macht om geld te creëren en wordt dit proces niet &amp;ldquo;gestuurd&amp;rdquo; terwijl in een tijdbank er een bestuur is dat gewoonlijk &amp;ldquo;bijstuurt&amp;rdquo;. Afhankelijk van de tijdbank in kwestie gebeurt dit in grote of kleine mate.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hoe ontstaat een LETS dan als er geen bestuur is?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Een LETS is een hele lichte structuur. Het is in feite het meest eenvoudige geldsysteem ter wereld. Daarom is de oprichting een licht proces. Zeker in de huidige context waar overal internet beschikbaar is, zou het voor iedereen mogelijk moeten zijn om met een paar muisklikken (kosteloos) online LETS-transactie-systemen aan te maken net zoals je vandaag gemakkellijk Facebook of Google groepen kan aanmaken. Elke persoon of organisatie zou hiertoe in staat moeten zijn voor enig welke gemeenschap.&lt;/p&gt;
+&lt;p&gt;Een gemeenschap is dan elke groep mensen die minstens één element hebben dat hen verbindt. Dat kan een plaats zijn, een hobby, een overtuiging, een doel enz. Het kan een bijvoorbeeld een fietsclub zijn, een vrouwenbeweging, een holebi activisten groep, ouders wiens kinderen naar een bepaalde school gaan, mensen met een bepaald fetisch of overtuiging. Er zijn geen uitzonderingen. Grote of kleine gemeenschappen. Eender welke gemeenschap kan LETS toepassen.&lt;/p&gt;
+&lt;p&gt;Vaak zal een LETS beperkt zijn tot een locatie, omdat logisch gezien er meer kans op verbondendheid is tussen mensen op dezelfde locatie. Maar verbonden zijn door locatie is geen vereiste voor een LETS.&lt;/p&gt;
+&lt;p&gt;Promotie en ontwikkeling op regionaal vlak (voor duizenden systemen) en websoftware staat los, wordt apart gefinancierd en wordt best verzorgd door een professioneel team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarom heet het dan &amp;ldquo;Local Exchange Trading System&amp;rdquo; als een LETS niet per definitie lokaal gebonden is?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Michael Linton zegt dat LETS géén acronym is. De betekenis is &amp;ldquo;laat ons&amp;rdquo; en is dus een uitnodiging, een aanmoediging, een initiëring. En &amp;ldquo;LETSystem&amp;rdquo; wil ook zeggen dat het een systeem is dat &amp;ldquo;laat plaatsvinden&amp;rdquo; en dat het &amp;ldquo;zonder controle&amp;rdquo; is.&lt;/p&gt;
+&lt;p&gt;Doch voelden mensen van in het begin de behoefte om er een acroniem van te maken en werd het &amp;ldquo;Local Exchange Trading System&amp;rdquo;. Michael Linton voelt zich daar wat ongelukkig over omdat het woord &amp;ldquo;local&amp;rdquo; heel wat verwarring teweeg heeft gebracht. Het Engelse woord &amp;ldquo;local&amp;rdquo; dient hier immers niet begrepen te worden in de betekenis van &amp;ldquo;plaatselijk&amp;rdquo;, maar wel in de tweede betekenis van &amp;ldquo;beperkt&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;LETS is een gemeenschapsmunt, beperkt tot een gemeenschap, beperkt in bereik. Dat is de meer nuttige omschrijving. LETS is een antwoord op de problematische eigenschap van het conventionele geld dat geen beperking in bereik heeft.&lt;/p&gt;
+&lt;p&gt;Definiëren hoe de gemeenschap samengesteld is of zou moeten zijn heeft geen nut in het licht daarvan en is overbodige ballast. De gedachte dat LETS enkel plaatselijk zou zijn is contra-productief want dat is zonder reden sterk het toepassingsgebied verengen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wie kan deelnemen aan een LETS en waarom neemt men deel?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Iedereen die extra geld kan gebruiken kan deelnemen. En iedereen kiest de systemen waaraan hij of zij deelneemt.&lt;/p&gt;
+&lt;p&gt;Het voordeel is meer soevereiniteit. Betalen met eigen gecreëerd geld is een krachtige daad van soevereiniteit. Eveneens geldt dat voor het accepteren van eigen gecreëerd geld.&lt;/p&gt;
+&lt;p&gt;Dit extra geld lijkt misschien een beetje op de euro maar is door het ontwerp toch heel anders. Het heeft namelijk niet de destructieve eigenschappen van het conventionele geld die onze relaties corrumperen en onze planeet om zeep helpen. Namelijk:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Door de rentewerking van het conventionele geld onstaan ongezonde machtsconcentraties.&lt;/li&gt;
+&lt;li&gt;Door de wereldwijde schaal concurreren alle partijen op wereldvlak waardoor het geld naar (afgelegen) plaatsen gaat waar mensen uitgebuit worden en waar er minst rekening gehouden wordt met milieu en arbeidsomstandigheden.&lt;/li&gt;
+&lt;li&gt;Je kan zelf geen conventioneel geld maken. Je bent hiervoor afhankelijk van een elite.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dus hoe meer LETS-geld je integreert in het leven, hoe minder je afhankelijk bent van het destructieve spul.&lt;/p&gt;
+&lt;p&gt;Het is perfect legaal en de overheid zou zich geen zorgen hoeven te maken, want zij zal meer geld ontvangen uit belastingen doordat er meer geld in omloop komt.&lt;/p&gt;
+&lt;p&gt;Het LETSysteem verschaft daardoor werk en helpt amoedebestrijding. Het zorgt ervoor dat mensen met minder geld meer aan de maatschappij kunnen deelnemen en aan de economie kunnen bijdragen als verantwoordelijke burgers.&lt;/p&gt;
+&lt;p&gt;Natuurlijk, conventioneel geld is ook nodig. We kunnen het conventionele geld niet weggooien en nu alles in LETS betalen. LETS is geen alternatief. Maar het is een extra middel dat ons ter beschikking staat en waar we zonder al te veel moeilijkheden gebruik van kunnen maken.&lt;/p&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    &lt;h3 id=&#34;uitwisseling-met-euro&#34;&gt;Uitwisseling met euro&lt;/h3&gt;
+&lt;p&gt;Let wel, de maateenheid van een LETS is gelijk aan de euro (in Europa)
+Maar dat wil niet zeggen dat er algemene uitwisselbaarheid is met de
+euro. Zoiets is trouwens niet toegelaten zonder toelating van de
+Nationale Bank.&lt;/p&gt;
+&lt;p&gt;Individuele partijen kunnen echter wel euro-geld
+aanbieden in ruil voor LETS-euro&amp;rsquo;s. Zoals gezegd, er is geen beperking
+op wat er verhandeld wordt met LETS-geld.&lt;/p&gt;
+&lt;p&gt;Dat ligt anders bij de
+tijdbanken. Euro-uitwisselingen stroken niet met de kern-economie
+gedachte van de tijdbanken. Daarom verbieden veel tijdbanken
+euro-uitwisseling en soms zelfs gecombineerde betalingen in hun
+huishoudelijk reglement.&lt;/p&gt;
+&lt;p&gt;De &amp;ldquo;kern-economie&amp;rdquo; is het begrip van Edgar Cahn
+waarmee hij zorgdragende uitwisselingen tussen buren, vrienden en
+verwanten bedoelt en die in de markteconomie niet gewaardeerd worden.
+Deze uitwisselingen die wel in timebanking gewaard worden zijn essentieel
+om de wereld te bouwen die we nodig hebben, zegt hij.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Als het LETS-geld blijft circuleren in de eigen gemeenschap hoe valt dat dan te rijmen met belastingen betalen?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Belastingplicht kan enkel voldaan worden in het wettige betaalmiddel, de euro. En belastingen worden berekend op het totaal ontvangen bedrag, de combinatie van euro en LETS-euro. De ontvanger moet bekijken hoeveel percentage LETS mogelijk is zodat alle kosten in euro gedekt zijn. Daarom zijn LETS-betalingen vaak typisch gecombineerde betalingen.&lt;/p&gt;
+&lt;p&gt;Dat wil niet zeggen dat betalingen die buiten het beroepsmatige vallen en waar geen belastingsplicht voor geldt uitgesloten zijn. Sommige betalingen kunnen zo 100 % in LETS verricht worden.&lt;/p&gt;
+&lt;p&gt;Of er belastingplicht is wordt overigens niet bepaald door het type munteenheid van de gedane transactie, maar wel door het karakter van de onderliggende activiteit, of deze beroepsmatig is of niet. Dus, mocht je in een tijd-systeem een transactie ontvangen van &amp;ldquo;4 uur&amp;rdquo; voor schilderwerk terwijl dat je beroep is, dan moet je daar evengoed belasting op betalen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;En hoe zijn tijdbanken of timebanks ontstaan?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Er bestaat 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Time-based_currency&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;een hele geschiedenis van tijdgebaseerde muntsystemen&lt;/a&gt;
+. Maar we noemen ons nu  &amp;ldquo;tijdbank&amp;rdquo; naar de &amp;ldquo;timebanks&amp;rdquo; in the USA zoals Edgar Cahn die ontwikkeld heeft sinds 1980 en gepromoot sinds de jaren 90.&lt;/p&gt;
+&lt;p&gt;Hij zag dat veel talenten en vaardigheden die intermenselijke banden verstevigen en voor warmte in onze maatschappij zorgen sterk ondergewaardeerd worden in de markteconomie.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;float-right w-50&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://reclaim.letsa.net/posts/las-wordt-tas/time_and_euro_hud59cd57b92bcd02e1ab148c62037afe4_43750_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Tijd en euro&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://reclaim.letsa.net/posts/las-wordt-tas/time_and_euro_hud59cd57b92bcd02e1ab148c62037afe4_43750_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;802&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Tijd en euro
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;De allesoverheersende op winst beluste economie vervormt ernstig onze kijk op de wereld en maakt dat een heleboel mensen als minderwaardig of &amp;ldquo;verloren mensen&amp;rdquo; beschouwd worden. En hij bedacht dat hulporganisaties niet efficient genoeg zijn omdat ze mensen in de rol van ontvanger duwen en daardoor het etiket van hulpbehoevendheid versterkt wordt.&lt;/p&gt;
+&lt;p&gt;Hij concludeerde dat vrijwilligerswerk geen éénrichtingsverkeer zou mogen zijn, want dat tast de waardigheid aan van de ontvangers. Zij worden zo objecten van liefdadigheid.&lt;/p&gt;
+&lt;p&gt;Hij stelde daarom de Time Dollar voor, een nieuwe munteenheid waarbij één Time Dollar gelijk is aan 1 uur dienst voor een ander. Door de waarde in tijd uit te drukken zit hierin de filosofie vervat dat ieder dingen van waarde doet en dat ieder altijd een wederdienst kan doen voor de gemeenschap.&lt;/p&gt;
+&lt;p&gt;De wederkerigheid van de timebank maakt dat niemand uitgesloten wordt als waardig actief lid van de gemeenschap. En mensen worden uit sociaal isolement gehaald. Door de tijdmunt wordt hetgene wat mensen voor elkaar doen losgekoppeld van de markteconomie.&lt;/p&gt;
+&lt;p&gt;De filosofie van onze Antwerpse vereniging is hier sterk mee in overeenstemming. Het is wel zo dat we niet strikt toepassen dat alle tijd evenveel waard is, maar dat er een beperkte ruimte is voor onderhandeling. De &amp;ldquo;3 minuten dienst&amp;rdquo; waarde van onze munt, het  Antwerpse Handje is eerder een richtlijn. Zo staat in het in onze instap-gids. Het lijkt me goed dit verschil van onze tijdbank met de Amerikaanse timebanks duidelijk te maken in onze communicatie.&lt;/p&gt;
+&lt;p&gt;Tussen de timebanks onderling is er overigens veel verschil in concrete werking. Er is veel of weinig begeleiding. Wel of geen professionele kracht. Veel of weinig bijsturing van de transacties. Weinig of veel gemeenschappelijk georganiseerde activiteiten. Weinig (of geen) of veel externe finaniciële middelen al dan niet in de vorm van subsidies.&lt;/p&gt;
+&lt;p&gt;Over subsidies gesproken&amp;hellip; Volgens Michael Linton zouden LETSystemen niet afhankelijk mogen zijn van subsidies. Hij vindt afhakelijkheid van extern geld een uiting van gebrek in geloof in het eigen LETS-geld. Als de systemen zichzelf niet kunnen bekostigen hebben ze geen recht van bestaan. Het zou bewijzen dat ze inefficiënt zijn.&lt;/p&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    Voor alle duidelijkheid: &lt;strong&gt;enkel&lt;/strong&gt; de naam van onze vereniging verandert,
+&lt;strong&gt;LAS&lt;/strong&gt; wordt &lt;strong&gt;TAS&lt;/strong&gt;, wat staat voor &lt;strong&gt;Tijdbank Antwerpen Stad&lt;/strong&gt;.
+Voor de rest blijft alles helemaal hetzelfde.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Volgens Lets Vlaanderen is het oorspronkelijke LETSysteem overvleugeld door verschillende afgeleiden, met tijd als eenheid, en gebruiken veel landen LETS en tijdbankieren door elkaar.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Het is juist dat er verwarring bestaat over het LETSysteem. De overeenkomst tussen LETS en tijdbanken is dat het beide gemeenschapsmunten zijn die werken volgens het principe van wederzijds krediet. Maar daarbuiten zijn er veel verschillen in uitgangspunten, analyse, visie, doelstelling, ontwerp en aanpak.&lt;/p&gt;
+&lt;p&gt;En ik vind dat we helderheid moeten scheppen en onderscheid maken. Zo respecteren we alle systemen en hun ontwerpers. Als wij een foute voorstelling geven van een systeem dan brengen wij de intellectuele eigendom schade toe.&lt;/p&gt;
+&lt;p&gt;Michael Linton promoot zelf de grootst mogelijke diversiteit in systemen in het bredere raamwerk van &amp;ldquo;open money&amp;rdquo;. Als &amp;ldquo;open money&amp;rdquo; een set speelkaarten is, dan zijn het LETSysteem en de tijdbank elks een bepaald spel dat gespeeld kan worden, elks met een eigen functie en eigen spelregels.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Geen controle&amp;rdquo; is een element in het LETSysteem dat voor velen moeilijk te aanvaarden of te bevatten was in het verleden. We bekijken dat in onze maatschappij gewoonlijk niet als efficiënte aanpak. The New Economics Foundation (NEF), een organisatie uit Londen, stelde al van in de jaren 80 LETS foutief voor als een recept voor verenigingsleven waarbij bestuur heel belangrijk is.&lt;/p&gt;
+&lt;p&gt;Zo werd een hoop foute informatie over het LETSysteem verspreid in West Europa. Deze organisatie is hiermee gestopt nadat Michael Linton had laten verstaan dat ze zich blootstelt aan gerechtelijke stappen.  Sindsdien (eind jaren 90) helpt the New Economics Foundation de promotie van timebanks. Zo zijn er inmiddels bijna 270 timebanks in het Verenigd Koninkrijk.&lt;/p&gt;
+&lt;p&gt;Het concept van het LETSysteem is natuurlijk vrij toe te passen door iedereen. Het behoort net zoals open source software tot de &amp;ldquo;commons&amp;rdquo;. Maar als je wijzigingen aanbrengt in het ontwerp dan moet je je systeem wel onder een andere naam promoten. Dat is wel zo netjes. Michael Linton heeft me trouwens gevraagd om de boodschap door te geven dat hij vindt dat je tijdbanken maar tijdbanken moet noemen en geen LETS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maar wat betekent onze naamswijziging voor ons lidmaatschap bij LETS Vlaanderen vzw? Gaan we uit die koepel stappen?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dat LETS Vlaanderen vzw een koepel zou zijn lijkt me een veelvoorkomend misverstand. Ik hoor of lees dat regelmatig. LETS Vlaanderen vzw is helemaal geen koepel (zie haar beleidsplan 2016 - 2020, pagina 25) En de systemen of groepen zijn geen lid bij haar. Alle organisaties zijn onafhankelijk van elkaar. Dus we kunnen er niet uit stappen als we er niet in zitten.&lt;/p&gt;
+&lt;p&gt;Bij LETS Vlaanderen vzw weten ze trouwens allang dat het eigenlijk tijdbanken zijn. Dat vermelden ze zelf sinds jaren op diverse plaatsen in de marge. Op 
+&lt;a href=&#34;https://www.letsvlaanderen.be/wat-is-lets/lets-systeem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;haar website&lt;/a&gt;
+ staat bijvoorbeeld:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;´Een voor de hand liggende en veelgebruikte mogelijkheid in Vlaanderen
+is om de waarde gelijk te maken aan een tijdgebonden gegeven (bijv. een
+uur werken is 20 eenheden). Dat maakt de LETS-groepen zoals wij
+die kennen eigenlijk tot &amp;ldquo;tijdbanken&amp;rdquo;.´&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;En blijft interLETS mogelijk?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Onze werking blijft helemaal hetzelfde, enkel de naamgeving verandert. Intersysteem verbindingen zijn vrijblijvende engagementen die onderling aangegaan worden tussen systemen. Pollekesland en Tijdbank Antwerpen Stad kunnen daar gewoon mee doorgaan als ze willen.&lt;/p&gt;
+&lt;p&gt;Een echt LETSysteem is echter per definitie een gemeenschapsmunt. Het eigen gecreëerde geld blijft enkel circuleren in de eigen gemeenschap. Beloften die gedaan worden binnen de eigen gemeenschap worden daarbuiten niet verhandeld.  Dat zou de opzet van het LETSysteem ondermijnen.&lt;/p&gt;
+&lt;p&gt;In de 
+&lt;a href=&#34;https://eland.letsa.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLAND-software&lt;/a&gt;
+ wordt het daarom al enige tijd de term &amp;ldquo;interSysteem&amp;rdquo; in plaats van &amp;ldquo;interLETS&amp;rdquo; gebruikt.&lt;/p&gt;
+&lt;p&gt;Christine Huyge, Maarten Vandekeybus&lt;/p&gt;
+&lt;p&gt;illustratie Steven de Rie&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://manual.letsa.net/nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LETSystem Design Manual&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.context.org/iclib/ic07/linton/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Een artikel van Michael Linton met een beknopte beschrijving van het LETSysteem&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/M0_KLvczF88&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Het Comox Valley LETSysteem in werking in 1986 (video)&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://timebanks.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Timebanks USA&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/ySzlmwmiHDo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Edgar Cahn vertelt over het ontstaan van timebanking&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://timebanks.org/wp-content/uploads/2016/11/WEBThe-Time-Dollar-How-to-Manual.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Time Dollar How-To Manual&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-     </item>
-   
-     <item>
-       <title>InterLETS</title>
-       <link>https://reclaim.letsa.net/posts/interlets/</link>
-       <pubDate>Wed, 22 Jan 2020 18:54:18 +0100</pubDate>
-       
-       <guid>https://reclaim.letsa.net/posts/interlets/</guid>
-       <description>&lt;p&gt;&lt;em&gt;Ik sprak met Michael Linton over intertrading tussen LETSystemen ofwel wat men weleens &amp;ldquo;interLETS&amp;rdquo; pleegt te nemen.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Ik denk dat ik een probleem zie met &amp;ldquo;interLETS&amp;rdquo;. Wanneer je een ander systeem koppelt, wordt je economisch één groter systeem.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Het hele idee van intersysteem handel heb ik verworpen gedurende bijna 30 jaar. Sinds 1986 heb ik steeds gezegd &amp;hellip; wel, dat is 30 jaar &amp;hellip; doe NIET aan zulke intersysteem handel. Het is een slecht idee, systematisch, sociaal, economisch, technisch. En het is totaal overbodig! Want, het is volstrekt eenvoudig om bijkomende systemen te creëren.  De mensen die over heel Vlaanderen handel willen drijven kunnen een over-heel-Vlaanderen-systeem hebben. En ze moeten niet hun eigen gemeenschap laten opgaan in &amp;hellip;  daar verantwoordelijk voor te zijn of verantwoordelijkheid voor te nemen.  De mensen die handel op grotere schaal willen doen, zouden grote schaal handel moeten doen, op hun voorwaarden, in die wereld. En niet trachten te preken dat mijn munt goed is want ik heb een goed netwerk en zo kunnen we handel drijven met andere netwerken die goed zijn. Heel spoedig begin je te praten over wie goed en wie slecht is. En, ah &amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-&amp;hellip; Dan wordt het moeilijk. Je hebt helemaal geen invloed wat er gebeurt in een ander systeem. Je hebt veel minder controle over wat er gaande is.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-En dus is het argument: we hebben betere controlesystemen nodig, beter bestuur in deze netwerken.  We hebben normen. Mensen moeten het op DEZE manier doen. Anders maken ze geen deel uit van &amp;hellip; Dus ben je terug in een &amp;hellip; centrale bureaucratie met administatieve angsten die vooral passen bij een kerk. Dit is kerk-gedrag dat we zien bij deze &amp;ldquo;interLETS&amp;rdquo; systemen en ik vind ze &amp;hellip; intellectueel absurd, ethisch uitdagend en technisch ridicuul. Dus, ik ben niet hard voor intersysteem handel. Ik heb er sterke gevoelens over (lacht).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Technisch is het ook ingewikkeld. We hebben er heel wat over gedacht. Maar ik ben nu ook tot de conclusie gekomen, na jouw documenten gelezen te hebben vorige week, dat systemen gescheiden moeten blijven. Er moet een veelvoud &amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Ja, veelvouden van initiatieven. Zo dat er ruimte is voor elke vorm, elk type, elke situatie. En we proberen niet alles te repareren met één stuk gereedschap. Eén van de grootste gevechten die plaatsvond op dit terrein waren de mensen die zeiden dat het een tijdbank moest zijn. En andere mensen zeiden, nee, het moet gebaseerd zijn op de euro of de dollar. Weet je? Geld versus tijd. En het gevecht dat in dat soort conversatie plaatsvindt neigt ernaar te eindigen met mensen die ontevreden zijn met de oplossing van de winnaar. Want het is geen winnaar. Het is gewoon een andere manier van verliezen. En we hebben dat soort van fragmentatie de vooruitgang zien blokkeren van wat essentieel de meest eenvoudige vorm van verspreiding is, wat inhoudt &amp;hellip; inloggen en een muntsysteem creëren. Of je er één wil voor dit stuk van Antwerpen of dat stuk van België. Dit stuk van Noord Europa. Deze Verzameling. De homo gemeenschap. De kinderen. De bejaarden. Vrouwen &amp;hellip; Vrouwen moeten hun eigen muntsystemen hebben. Zeker! Dat is wel één ding wat het laatste verkiezingprobleem bewezen heeft: Dat mannen niet nadenken. We moeten de mogelijkheden scheppen die andere sectoren van de maatschappij activeren.&lt;/p&gt;
-&lt;p&gt;Maarten Vandekeybus&lt;/p&gt;
-</description>
-     </item>
-   
-     <item>
-       <title>Wat met Mensen die sterven in je LETSysteem?</title>
-       <link>https://reclaim.letsa.net/posts/account/</link>
-       <pubDate>Wed, 22 Jan 2020 09:51:12 +0100</pubDate>
-       
-       <guid>https://reclaim.letsa.net/posts/account/</guid>
-       <description>&lt;p&gt;Dat is de vraag die ik stelde aan Michael Linton.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Wat te doen met mensen die je systeem verlaten met een account onder nul? Of, mensen die sterven?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Ja! Begraaf ze! Begraaf ze, dat is de hoofdzaak. &amp;hellip; Ken je ons LETSplay spel? Heb je het spel gezien?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Ik heb het vluchtig bekeken maar niet gespeeld of zo.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Wel, het is &amp;hellip; (neemt het spel) &amp;hellip; het is een heel goed spel om mensen wakker te maken. Dit is het spel. (Toont papier met het spel) Juist? 200 dollar Monopoly geld en een stuk papier. &lt;img src=&#34;https://reclaim.letsa.net/images/e-letsplay.png&#34; alt=&#34;LETSplay&#34;&gt; En, het is een goed spel voor rond de tafel, met 10 mensen, 20 mensen &amp;hellip; 200 mensen! Maar we hebben het ook online op &lt;a href=&#34;http://openmoney.ca/letsplay&#34;&gt;http://openmoney.ca/letsplay&lt;/a&gt; Je vind daar een online spel. &amp;hellip; Nu, wat dit spel doet, is dat het je toont wat je moet doen met mensen die sterven &amp;hellip; en mensen die bedriegen en mensen die zwendelaars zijn en mensen die idioten zijn. En het legt uit hoe het systeem zich daar geen zorgen om hoeft te maken &amp;hellip; En iedereen doet het. Iedereen denkt, ow het systeem kan niet werken als er mensen zijn die idioten zijn of die bedriegers zijn of ze zijn &amp;hellip;  of ze sterven. Maar eigenlijk is het geen probleem. En dat is het verschil tussen &amp;ldquo;netwerk-geld&amp;rdquo; en &amp;ldquo;bezits-geld&amp;rdquo;. Al onze geldsystemen waar we gewoon aan zijn is &amp;ldquo;bezits-geld&amp;rdquo;. Dus, het is een hoop spul. Je hebt dat spul. En wanneer je het uitgeeft, heb je het niet meer. Je moet meer hopen spul hebben, nietwaar? Zo, dat zijn onze vaten in een waterval. Het water stroomt in het vat. Het water stroomt uit het vat. Zo werkt het. Nu, in deze systemen is bedrog werkelijk destructief &amp;hellip; Iemand die dat geld steelt maakt iemand anders onmiddelijk arm. Het is een geweldadige daad. Beschadigend. Het is anti-sociaal. Het is diefstal. Het is fraude. En er zijn goede redenen waarom het een probleem is. Maar de redenen waarom het een probleem is is vanwege de aard van het geld. In een wederzijds krediet netwerk, als daar iemand stopt met handel drijven,  ofwel ze een negatief saldo of een heel positief saldo hebben, of een nul saldo &amp;hellip; dat ze stoppen met handel drijven betekent gewoon dat in dat network van oscillatie, één oscillator bevrozen is. &amp;hellip; Bevrozen. Misschien hoog bevrozen, misschien laag bevrozen, misschien op nul bevrozen. Het is niet aan het meespelen. Maar er zijn nog honderd of tweehonderd of tweeduizend knooppunten eromheen die gewoon geld overmaken. Dus het netwerk gaat door als een netwerk. En ofschoon deze persoon misschien een piano gekocht heeft, 3000 euro of zo in een account gestort heeft en verder nooit iets gedaan heeft, breekt dat niet het geldsysteem. Het betekent dat een piano weg is. En dat is niet goed. Maar het geldsysteem is niet aangetast door het feit dat deze persoon niet hier is.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-En wat doe je met het account?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Laat het. Laat het gewoon bevrozen. Het maakt deel uit van de registratie van de realiteit en het maakt &amp;hellip; het laat de persoon toe om eens in het systeem terug te komen en af te lossen, om zich beter te gedragen. Maar wat we niet doen is hen proberen te laten betalen, mensen te achtervolgen, toezicht op hen te houden, hen te controleren. Van zodra je daarmee begint, start je een nieuw politiesysteem.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Maar representeren de accounts niet de beloften van mensen? En als de beloften er niet meer zijn, vertegenwoordigen de accounts dan nog de realiteit?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Ze doen het. En inderdaad als je het probeert en een systeem neemt en het op nul probeert te brengen, juist? We gaan allemaal terugkomen naar nul. Dus, iedereen die geld heeft, moet het uitgeven en de negatieven moeten het verdienen. Dan zal je een afwijking hebben. Want die kerel ging naar Rio de Janeiro. Hij is niet meer hier. Een andere stierf, weet je? Allemaal van dat soort dingen. Dus, als je probeert een systeem te stoppen en na te kijken of het degelijk is, dat is zoals het stoppen van een vliegtuig in de lucht om te kijken of het vliegt. Dat is het NIET wanneer je het stopt. En als je evenzo één van deze systemen brengt in &amp;ldquo;laten we controleren of iedereen wel goed is&amp;rdquo;, dan zal je tot de bevinding komen dat niet iedereen goed is en dat is het bewijs. Maar aan de andere kant, als je negeert, is er geen probleem. Zie je, wat een LETSysteem of wederzijds krediet-systeem echt is, ben ik die dit doet (beweegt hand op en neer). Dit ben ik. Ik ga op en neer. &amp;ldquo;Ik&amp;rdquo; ga op en neer. Ik verdien, ik geef uit, ik verdien, ik geef uit. Ik ga gewoon op en neer. Verdienen en uitgeven, verdienen en uitgeven. Wat gebeurt er met dat geld? Wel, het gaat weg en rond in deze lussen buiten mijn bevattingsvermogen. Ik weet niet wat er gebeurt. Ik geef geld uit. Het gaat weg en cirkelt rond en iemand huurt me. Als ik me zorgen begin te maken over wat daarbuiten gebeurt, dan vestig ik mijn aandacht op zaken waar ik geen zaken mee heb. Mijn taak is om rechtschapen en effectief te zijn in wat ik verdien en uitgeef. Ik ben in het centrum van deze draaikolk, deze kring, rookkring, en het is een rookkring. Dat is echt wat het is. Ik geef uit en het spul stroomt in het rond en komt weer bij mij als een inkomen. En mijn taak is om mezelf te zijn. Me met mijn eigen zaken bezig houden. En als ik me met mijn eigen zaken bezig hou, dat zal het systeem goed voor me werken. Dan moet ik er niet mee inzitten of iemand een dwaas of een idioot is geweest. Want ik ben het niet. Maar van zodra dat we denken dat het systeem vereist dat we allemaal vrienden zijn, van elkaar houden, we elkaar allemaal vertrouwen, we geen v &amp;hellip; Weet je &amp;hellip; Van zodra je in die mentale trip zit &amp;hellip; ben je fout! Het hele
-ding is dan afgegleden naar een heel ander oord. En wat we moeten doen is verantwoordelijke individuen zijn in deze netwerken. Dan zal het netwerk werken. Als we blijven proberen het te controleren en trachten te voorkomen dat het verkeerd gaat en dat mensen geen slechte dingen doen of dat mensen &amp;hellip; Eender wat we proberen op te leggen of op te dringen gaat zich wreken. Het gaat precies datgene bewerkstelligen wat we vrezen. Dus, daarom zeggen we &amp;ldquo;LETSysteem&amp;rdquo;. Daarom zeggen we &amp;ldquo;Open Money&amp;rdquo;. Daarom zeggen we dat het geld in deze netwerken mijn persoonlijke belofte en aflossing is in mijn eigen gemeenschap. Het is &amp;ldquo;ik&amp;rdquo;! Elk systeem waar ik in ben, ben &amp;ldquo;ik&amp;rdquo;. Is alleen ik. En het is alle andere &amp;ldquo;ik&#39;s&amp;rdquo;, maar iedereen moet zichzelf zijn natuurlijk. En daaruit ontstaat een netwerk. Terwijl als we aan de andere kant zeggen dat we het allemaal op de juiste manier gaan doen en we gaan een vereniging vormen, de vereniging is dit, er is een bestuur, er zijn regels, er zijn &amp;hellip; Weet je &amp;hellip; (Schudt het hoofd) &amp;hellip; Zucht &amp;hellip; Je probeert te vliegen met een bus. De bus zal niet vliegen. Als je wil vliegen, bouw dan een vliegtuig.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Betekent dat ook dat je de gemeenschap nooit kan verlaten? Je zal er altijd deel van uitmaken, zodra je toetreedt?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Ik denk het. Ik denk dat het zinnig is hier te beseffen dat dit mij een verslag biedt van wie ik ben en wat ik ben in mijn wereld. Een verslag dat ik zelf schrijf. En dat anderen aan mij schrijven. Iemand zegt, goed werk, Michael, hier heb je veertig dollar of vier honderd dit of dat. Dat is een bevestiging vanwege een ander persoon van mijn waarde. Dus het bevindt zich allemaal op mijn verslag, oftewel mijn waarderingen van anderen en anderen hun waarderingen van mij. Dat is het. En, in twintig verschillende munteenheden. Mijn lokale, mijn technische, mijn voetbal club, mijn kerk, eender wat. Elk van deze is een verslag dat meer of minder publiek zichtbaar kan zijn. Ik denk zeker niet dat accounts publiek gemaakt zouden moeten worden. Ik denk dat dat één van de dingen was die Christine zei, dat alle accounts publiek zijn en iedereen alles kan zien. Nee! (schudt het hoofd)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Publieke accounts, niet eens binnenin de groep, bedoel je?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Nee, niet noodzakelijk. Ik bedoel, wanneer ik naar mijn bank ga &amp;hellip; Of stel dat ik je wat geld wil sturen, Maarten, dan geef jij mij een rekeningnummer. Je geeft me een SWIFT code, een account. Maar ik kan niet naar je bank gaan en zeggen geef me alle namen van de accounts, asjeblieft. En wat is hun rekeningstand? Dat zou een absurde inbreuk zijn van hetgene wat we als privé en persoonlijk beschouwen. En ik zie niet waarom het LETSysteem zou moeten denken dat het publiek is. Nee, wat we willen doen is &amp;hellip; We willen de grafiek van het LETSplay ding beginnen te gebruiken. De distributie van stippen &amp;hellip; is een belangrijke statistiek. Het is een belangrijk stuk data. Maar we zullen niet identificeren wie wie is in die stippenverzameling. Je moet weten wie jij bent in die stippen. Maar je moet weten niet wie al de rest is.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-(krabt het hoofd)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Juist! Nu, ja, er zullen sommige systemen zijn &amp;hellip; Als je een groot vastgoed project doet in het centrum van Antwerpen en er zijn miljoenen en miljoenen euro&#39;s bij betrokken, dan zal elke transactie in een gemeenschapsmunt die deel uitmaakt van dat project natuurlijk heel publiek zichtbaar zijn aan de spelers. Ik zal deze transactie niet toelaten totdat ik instem dat ze consistent is met ons gemeenschappelijk doel in dat project. Weet je, dus ja, sommige dingen zullen geheel publiek zijn. Geheel goedgekeurd. Misschien moet iedereen tekenen voor deze ene transactie alvorens ze uitgevoerd kan worden. Maar in de straat, &amp;hellip; Nah, in de straat, en waar het ook is, ben ik &amp;ldquo;ik&amp;rdquo;. &lt;img src=&#34;https://reclaim.letsa.net/images/8.jpg#float-right&#34; alt=&#34;Michael Linton&#34;&gt; Ik koop en verkoop en verdien en speel en geef en krijg. Dat is het leven. En het is MIJN leven en het is privé.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Nodigt dat niet bepaalde mensen uit om enkel maar te genieten van de diensten en goederen van andere mensen?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Ze zullen heel snel zichtbaar zijn. In het bijzonder in kleine systemen. Nu, in een groter en groter systeem zullen ze minder evident zijn en zal er meer fraude zijn. Dus, als je een systeem hebt dat heel Vlaanderen omvat en je hebt, weet je, 3 miljoen mensen erin betrokken, dan zal er een hele hoop onzin zijn.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Maar je kan niet mensen hun saldo en transacties zien? Je kan niet zien wat ze doen?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Niet meteen. Je kan een benadering van het systeem zien als geheel en dat zal tonen dat sommige mensen zich apart bevinden aan de negatieve kant, extreem. Zij zullen &amp;hellip; Zij zullen reactie krijgen van de munt-beheerders. Zij zullen reactie krijgen van andere mensen. Dingen zullen gebeuren, maar moeten niet afgedwongen worden. En, het is veel beter van niet. Het is veel, veel beter om gewoon dit zelfbegrip van dat netwerk &amp;hellip; zijn eigen extremen te laten beheren. Nu, in een klein systeem zal dat heel snel gebeuren. Met honderd mensen &amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Maar gewoon iemand&#39;s saldo zien is nog geen dwang, nietwaar? Het is gewoon informatie &amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Dat is juist. En wij willen graag de saldi anoniem tonen &amp;hellip; en in de context van alles. Ja. Het LETSplay spel is de beste manier om feitelijk te ervaren wat dit betekent. En het moet ongeveer op dezelfde manier ervaren worden als we ervaren hoe we fietsen vooraleer we een fiets hebben. Weet je, je kan niet denken over fietsen of erover lezen en erop leren rijden door een boek. De enige manier om op een fiets te rijden is, is door het te doen. En wat je leert is niet verbaal. Het is fysisch. En gelijkaardig hebben mensen de vreemdste ideeën over geld en geen manier om ze te verkennen en er iets zinning van te maken. Het LETSplay spel &amp;hellip; is een beetje saai en vervelend. Het is niet bepaald een amusant spel. Alhoewel het leuk is als je twintig mensen in één kamer hebt. Dat is leuk; het is gegiechel. Maar, wat het spelen van het spel doet is dat het in mijn geest deze grafiek brengt (toont de LETSplay grafiek). Weet je? En deze grafiek is heel belangrijk. Het maakt alles begrijpelijk. En zonder die grafiek denk je met de woorden van andere mensen. En proberen iets uit te leggen aan iemand dat is &amp;hellip; systematisch &amp;hellip; En het in woorden proberen te doen. Nah, dat is inderdaad heel heel moeilijk. En beste dat je dikwijls krijgt is dat ze je woorden gehoord hebben en dat je denkt dat ze met je instemmen. Later kom je erachter dat je ze woorden gehoord hebben, maar wat ze voor ogen hadden niet hetgene was waarover je sprak. Want je bracht het ten berde zonder een grafiek. Maar als mensen dit spel spelen, dan wordt de eenvoudige daad van bewegen en markeren met de pen op het papier ingebed in mijn geest. En die inbedding is hetzelfde voor iedereen die het spel speelt. Dus, we hebben begin gemaakt van een gemeenschappelijke taal. Een taal waarin we de slechte handelaar kunnen beschrijven. En uitzoeken, hoe slecht is hij eigenlijk? Welk probleem geeft hij ons? Wel, hij geeft ons geen probleem van zodra we hem hebben opgemerkt en hem negeren. Het is een probleem, ja, als we hem niet opmerken en hij blijft uit het systeem putten en hij verzwakt het en steelt ervan op bepaalde manieren. Maar, &amp;hellip; is het niet aan ons om het op te merken? eh? En in een klein systeem wordt hij snel gevonden. En het zal voor hem dan mogelijk zijn om zijn reputatie te herstellen. Wel, dat is een groot verschil. In de conventionele wereld, als je failliet gaat is het HEEL moeilijk om je situatie te herstellen. Heel moeilijk. Daartegenover in één van deze systemen, als een kerel min 5000 is en niets gedaan heeft, wel, die 5000 maken deel uit van de economie. Alles wat hij maar moet doen is bereid zijn het te verdienen en hij kan het. Dus als er bereidwilligheid is, is er opportuniteit. Terwijl in de gewone economie kan ik bereid zijn mijn schuld te vereffenen. Ik zou graag mijn schuld vereffenen. Ik zou niet graag failliet zijn. Er niets wat ik eraan kan doen. Er is dus een enorm verschil. En het is gewaagd voor mensen om hun weg te vinden vanuit één verzameling van ingebouwde veronderstellingen en inzichten waarmee ze hun hele leven geleefd hebben. Ze begrijpen geld. We begrijpen allemaal geld. Het is dit gevaarlijke spul. Het maakt je kapot. Het is &amp;hellip; grote problemen. En, nu hebben een geldsoort die er ongeveer hetzelfde uitziet en zich hetzelfde gedraagt. Het bevindt zich op een bankkaart of bestaat misschien als papiergeld of misschien gebruiken we munten. We gebruiken houten munten in één van onze systemen, prachtig! Heerlijke kleine dingen, laser gegraveerde munten op een klein dun stukje fineerhout. Ze voelden er zich erg door aangetrokken. Mensen houden ervan. Het doet er niet toe wat het speeltje is. Wat je doet is monetair kopen en verkopen van elkaar met wat we noemen het Rondgaand Geld (Money-Go-Round). Money-Go-Round is onze merknaam voor dit. Het andere geld gaat weg. Elk ander geld op de planeet is een Ga-Geld, Geld-Verdwenen, Geld-Weg. Dat is wat het doet. Dat is hoe het werkt. En alle wederzijds krediet-geldsoorten zijn Money-Go-Rounds. &lt;img src=&#34;https://reclaim.letsa.net/images/4.jpg#float-right&#34; alt=&#34;Michael Linton&#34;&gt; Allemaal. Maak je keuze. Je kan beide hebben. In feite, je zou beide moeten hebben. We zeggen niet, je moet dat wegdoen en hierbij komen. We zeggen, wat is het probleem met met hebben van meer geld dat rondgaat? En, oh God, de problemen die mensen bedenken zijn verbazingwekkend. God zou er niet van houden. Ik weet niet. Het is &amp;hellip; Mensen zijn vijandig ten opzichte van opportuniteit. En dus moet je de opportuniteit aan hen heel zachtjes voorstellen. Het is dat ze zich bedreigd of uitgedaagd voelen of &amp;hellip; Ze denken dat je zegt dat ze idioot zijn (schudt het hoofd) &amp;hellip; Mensen houden er niet van wanneer ze denken dat je zegt dat ze idioot zijn.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
-Ik begrijp het.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
-Ja! We zijn &amp;hellip; We zijn idioot. Het woord idioot is eigenlijk geen afspiegeling van mijn brein. Het is een reflectie dat ik koplampen in mijn aangezicht heb en dat ik niet kan zien. Want het is zo &amp;hellip; Het heeft me te pakken. Ik ben verbijsterd door de situatie. En eigenlijk is onze hele maatschappij verbijsterd. We zijn idioot. We zitten vast. En we weten er niets van en we hebben idee wat te doen. Maar, er is Open Money (glimlacht).&lt;/p&gt;
-&lt;p&gt;Maarten Vandekeybus&lt;/p&gt;
-</description>
-     </item>
-   
-     <item>
-       <title>Open Money en Democratie</title>
-       <link>https://reclaim.letsa.net/posts/open-money-en-democratie/</link>
-       <pubDate>Sat, 18 Jan 2020 18:19:41 +0100</pubDate>
-       
-       <guid>https://reclaim.letsa.net/posts/open-money-en-democratie/</guid>
-       <description>&lt;p&gt;&lt;em&gt;Vanaf 2007 hielden Ernie Yacub en Michael Linton een internet radio show op het platform BlogTalkRadio. Dit is de eerste episode.&lt;/em&gt;&lt;/p&gt;
+    </item>
+    
+    <item>
+      <title>Open Money en Democratie</title>
+      <link>https://reclaim.letsa.net/posts/open-money-en-democratie/</link>
+      <pubDate>Sat, 30 Mar 2019 18:19:41 +0100</pubDate>
+      <guid>https://reclaim.letsa.net/posts/open-money-en-democratie/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Vanaf 2007 hielden Ernie Yacub en Michael Linton een internet radio show op het platform BlogTalkRadio. Dit is de eerste episode.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ernie&lt;/strong&gt;&lt;br&gt;
 Dag wereld!
 Je luistert naar Open Money op BlogTalkRadio.
@@ -208,7 +252,7 @@ Dus vandaag zullen we het hebben over geld en democratie en jullie zijn de kenne
 Dus laten we met jou starten, Colin. Kan je ons vertellen wat &amp;ldquo;democratie&amp;rdquo; betekent?
 Ik bedoel maar &amp;hellip; We moeten eerst de term definiëren, nietwaar?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Colin&lt;/strong&gt;&lt;br&gt;
-Natuurlijk. En ik wil het duidelijk maken dat we het niet hebben over de politieke definitie van &amp;ldquo;democratie&amp;rdquo;. We hebben het hier over directe democratie. Het systeem in Zwitserland dat reeds zo&#39;n 140 jaar in werking is, is waarschijnlijk het beste praktijkvoorbeeld van wat bestaat onder de naam van directe democratie op deze planeet. En we definiëren dat als het recht van de burgers om referenda te houden over enig welke kwestie. Dus het is een recht, geen privilege.
+Natuurlijk. En ik wil het duidelijk maken dat we het niet hebben over de politieke definitie van &amp;ldquo;democratie&amp;rdquo;. We hebben het hier over directe democratie. Het systeem in Zwitserland dat reeds zo&amp;rsquo;n 140 jaar in werking is, is waarschijnlijk het beste praktijkvoorbeeld van wat bestaat onder de naam van directe democratie op deze planeet. En we definiëren dat als het recht van de burgers om referenda te houden over enig welke kwestie. Dus het is een recht, geen privilege.
 En het is een referendum, geen volksraadpleging of nog erger, een enquête.
 En het is een burgerrecht over het &lt;em&gt;eender&lt;/em&gt; welke kwestie gaat. Het is niet zo dat de overheid kan zeggen: &amp;ldquo;Oh, we gaan geen referendum houden over de Olypische Spelen. We willen jullie steun, dus doen we een promotiecampagne om iedereen voor de Olympische Spelen te winnen.&amp;rdquo; Nee! In Zwitserland hebben burgers 4 keer per jaar het recht om voor eender welke kwestie te stemmen waarvoor voldoende mensen tekenen en dit voor het hele land, of het canton, of het district waar ze wonen. En die stem is bindend.
 Het is een referendum. Het is bindend voor de overheid.
@@ -216,7 +260,7 @@ Men kan daarbij alles herroepen wat de overheid doet.
 Dit kan door een eenvoudige meerderheid van 50 percent plus één.
 Er valt veel meer over te vertellen. Maar dat is de eenvoudige definitie.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ernie&lt;/strong&gt;&lt;br&gt;
-Dat klinkt heerlijk en prachtig. En we zullen erover praten waarom er zo&#39;n weerstand tegenover is. Wel, misschien.
+Dat klinkt heerlijk en prachtig. En we zullen erover praten waarom er zo&amp;rsquo;n weerstand tegenover is. Wel, misschien.
 We praten misschien over wat geld ermee te maken heeft. En dat is jouw afdeling, Michael.
 Geld, gemeenschapsmunten, LETSystemen.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
@@ -280,7 +324,7 @@ En ik ga citeren uit het werk van een kerel genaamd Plato &amp;hellip;&lt;/p&gt;
 Ik heb al van hem gehoord! (gelach) Plato! Die speelde toch bij de Boston Red Sox?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Colin&lt;/strong&gt;&lt;br&gt;
 Ja, die is het! (gelach)
-Ik lees vanaf pagina 16 van de vertaling van Plato&#39;s Republiek. En ik wil me niet voordoen als geleerde in de Griekse oudheid, .. maar het punt dat ik wil maken is dat deze zogenaamde democratie ingebakken zit in onze taal.
+Ik lees vanaf pagina 16 van de vertaling van Plato&amp;rsquo;s Republiek. En ik wil me niet voordoen als geleerde in de Griekse oudheid, .. maar het punt dat ik wil maken is dat deze zogenaamde democratie ingebakken zit in onze taal.
 Het is de basis van ons onderwijssysteem. En hier 2000 jaar geleden spreekt Plato over democratie.
 Hij zegt: &amp;ldquo;Gerechtigheid is het belang van de sterken, de sterkeren&amp;rdquo;. En hij legt dit verder uit, &amp;ldquo;De heersende klasse in elke staat zal een zekere manier van gedraging afdwingen van haar onderdanen om haar eigen belangen te dienen. Moraliteit is niets meer dan deze gedragsode. Dus dwing haar af.&amp;rdquo;
 En dan gaat hij daar verder op door in het hele hoofdstuk en het hele boek. Maar ik denk dat we moeten begrijpen dat hetgene wat ons aangeleerd wordt sinds de kindertijd en wordt begrepen als moraliteit in feite niets meer is dan een zeker soort gedrag dat aanhankelijkheid inhoudt aan het geldsysteem,
@@ -296,7 +340,7 @@ Ja, machtsystemen neigen ertoe systemen te creëren die machtsystemen beschermen
 En geld als het hoofdzakelijke mechanisme van onze sociaal-economische commerciële wereld is daarvan de grote trots.
 Degenen die het geld controleren, lijken de overheid te controleren. Degenen die de overheid controleren, lijken het geld te controleren.
 En 90% van ons bevinden zich buiten de kern van het spel. En te veel van ons proberen er in te geraken.
-Dat maakt deel uit van de dogmatische ideeën. 80% van de maatschappij lijkt wanhopig begerig om bij het feestje te geraken eerder dan voor hun thuis te zorgen. Het draait niet om economie. Het draait om opwinding en winnen. En dat geldt net zo voor de poltiek.
+Dat maakt deel uit van de dogmatische ideeën. 80% van de maatschappij lijkt wanhopig begerig om bij het feestje te geraken eerder dan voor hun thuis te zorgen. Het draait niet om economie. Het draait om opwinding en winnen. En dat geldt net zo voor de poltiek. &lt;img src=&#34;https://reclaim.letsa.net/images/open-money-inv.png#float-right&#34; alt=&#34;Open Money&#34;&gt;
 Dus ik denk dat er geen hoop is voor de democratie, de echte democratie, tenzij er zich een verschuiving voordoet in het geld-kader. De wandelgangen van de macht zijn bezet en niemand wil er weg.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ernie&lt;/strong&gt;&lt;br&gt;
 Wel, laat ons het hebben over het verschuiven van het geld-kader, zoals je zei.
@@ -320,7 +364,7 @@ Ok, we zullen later verder op de details ingaan.
 Ik wil Colin er terug bij halen. Colin, jij kent een beetje deze materie.
 Was hetgene wat Michael zojuist vertelde zinnig voor jou?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Colin&lt;/strong&gt;&lt;br&gt;
-Jazeker. En om de advocaat van de duivel te spelen om het een beetje duidelijker te maken, laat me je vertellen dat ik Michael al zo&#39;n 20 jaar ken en zijn vreemde theorieën misschien wel meer dan 20 jaar. En ik begrijp ze tot op zekere hoogte. Maar ik heb nog nooit in een Open Money maatschappij geleefd en in mijn achterhoofd hoor ik nog steeds kleine stemmetjes zeggen: Ja, leuk hoor. We weten wel dat geld niet aan de bomen groeit! Je moet echt werken voor je geld, hoor!
+Jazeker. En om de advocaat van de duivel te spelen om het een beetje duidelijker te maken, laat me je vertellen dat ik Michael al zo&amp;rsquo;n 20 jaar ken en zijn vreemde theorieën misschien wel meer dan 20 jaar. En ik begrijp ze tot op zekere hoogte. Maar ik heb nog nooit in een Open Money maatschappij geleefd en in mijn achterhoofd hoor ik nog steeds kleine stemmetjes zeggen: Ja, leuk hoor. We weten wel dat geld niet aan de bomen groeit! Je moet echt werken voor je geld, hoor!
 En weet je, je zal nergens geraken zonder te werken, hoor! Je bent een luie leegloper!
 En wat bedoel je met dat je een rechtvaardige deel zou moeten hebben?
 Allemaal van dat soort dingen! En ik denk dat dat hetgene is waar Plato het over had wanneer hij zei dat geld &amp;hellip; dat de heersers een systeem oprichten en dat ze het ethiek of moraliteit noemen. En wij geloven erin!
@@ -331,7 +375,7 @@ Goed punt! De taal is heel belangrijk.&lt;/p&gt;
 Ja. Dat is wat Orwell zei, weet je. In &amp;ldquo;1984&amp;rdquo; stond het Ministerie van Informatie helemaal voor de controle van de woorden.
 Goed en goed &amp;hellip; ongoed. Dat waren de woorden. Laat ons het niet te ingewikkeld maken. Taal is een kolossale component van wat we vandaag de dag in moderne taal &amp;ldquo;merknamen&amp;rdquo; zouden kunnen noemen.
 Hoe wordt dat ding gezien in de wereld?
-Wel, het wordt vaak gezien door de etiketten die eraan verbonden werden en de associaties die mensen hebben opgebouwd rond deze etiketten. En rond geld, en rond democratie, en rond sex, drugs en rock&#39;n&#39;roll heeft iedereen meningen, hele diepe, hele persoonlijke. En in het algemeen totaal ononderzocht. En zo zou het machtsysteem het graag laten.
+Wel, het wordt vaak gezien door de etiketten die eraan verbonden werden en de associaties die mensen hebben opgebouwd rond deze etiketten. En rond geld, en rond democratie, en rond sex, drugs en rock&amp;rsquo;n&amp;rsquo;roll heeft iedereen meningen, hele diepe, hele persoonlijke. En in het algemeen totaal ononderzocht. En zo zou het machtsysteem het graag laten.
 Ik bedoel maar, George Bush spreekt over democratie alsof hij het echt meent. Maar, mijn God, waar heeft hij het over?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ernie&lt;/strong&gt;&lt;br&gt;
 Ja, dat herinnert me aan een lied van Leonard Cohen: &amp;ldquo;Democracy is coming to the USA&amp;rdquo;. Briljant!&lt;/p&gt;
@@ -362,7 +406,7 @@ En dat wordt bekend. Dan is dat een productieve manier om je middelen beschikbaa
 Dus ik zie Open Money als de verzameling waarin conventioneel geld een heel kleine en hopelijk verschrompelende deelverzameling is, een gek kankergezwel dat helemaal niets te maken heeft met het bijeenbrengen van de sociale wereld en de economische wereld door het fysieke en het persoonlijke.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ernie&lt;/strong&gt;&lt;br&gt;
 Dus je ziet deze kleine en grote netwerken die gemeenschapsmunten gebruiken als uitwisselingsmiddel schaalbaar?
-Ik bedoel maar, de meeste mensen denken aan, zoals je zegt, een &amp;ldquo;sociale munt&amp;rdquo;. &lt;em&gt;Ithaca Hours&lt;/em&gt; is een voorbeeld van het soort gemeenschapsmunt waar mensen naar kijken en zeggen: &amp;ldquo;Oh, is dat niet leuk? We zouden er zelf ook zo één moeten hebben met mooie foto&#39;s op onze biljetten, zoals de Salt Spring dollars waar ze artiesten hebben die dit mooie geld creëren.&amp;rdquo; (Colin lacht)
+Ik bedoel maar, de meeste mensen denken aan, zoals je zegt, een &amp;ldquo;sociale munt&amp;rdquo;. &lt;em&gt;Ithaca Hours&lt;/em&gt; is een voorbeeld van het soort gemeenschapsmunt waar mensen naar kijken en zeggen: &amp;ldquo;Oh, is dat niet leuk? We zouden er zelf ook zo één moeten hebben met mooie foto&amp;rsquo;s op onze biljetten, zoals de Salt Spring dollars waar ze artiesten hebben die dit mooie geld creëren.&amp;rdquo; (Colin lacht)
 Heb je die ooit gezien, Colin? De Salt Spring dollar?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Colin&lt;/strong&gt;&lt;br&gt;
 Nee. Maar ik heb er een beschrijving van gekregen. En toen Michael aan het praten was, begon ik te begrijpen wat hij bedoelde met Open Money als iets heel fundamenteel, heel begrijpelijk, in haar essentie, heel eenvoudig.
@@ -464,8 +508,16 @@ Opnieuw, het taalprobleem.
 Voor je hier verder gaat, Michael, dacht ik dat ik misschien onze luisteraars even moet laten weten dat er een chatlijn is voor dit programma. En mensen kunnen ons een bericht sturen. Laat ons weten of je daar ergens aan het luisteren bent.
 Of als je een vraag hebt, of als je wil deelnemen aan de conversatie, stuur ons een bericht, een bericht op de chat-lijn van BlogTalkRadio/openmoney.
 Als je meer wil weten over gemeenschapsmunten, Open Money,
-wederzijds kredietsystemen, LETSystemen, ga dan naar &lt;a href=&#34;http://lets.net&#34;&gt;lets.net&lt;/a&gt;.
-En deze URLs zijn ook terug te vinden op de chat lijn: &lt;a href=&#34;http://openmoney.org&#34;&gt;openmoney.org&lt;/a&gt;, &lt;a href=&#34;http://openmoney.editme.com&#34;&gt;openmoney.editme.com&lt;/a&gt; en &lt;a href=&#34;http://openmoney.info&#34;&gt;openmoney.info&lt;/a&gt;.&lt;/p&gt;
+wederzijds kredietsystemen, LETSystemen, ga dan naar 
+&lt;a href=&#34;http://lets.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lets.net&lt;/a&gt;
+.
+En deze URLs zijn ook terug te vinden op de chat lijn: 
+&lt;a href=&#34;http://openmoney.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;openmoney.org&lt;/a&gt;
+, 
+&lt;a href=&#34;http://openmoney.editme.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;openmoney.editme.com&lt;/a&gt;
+ en 
+&lt;a href=&#34;http://openmoney.info&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;openmoney.info&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Colin&lt;/strong&gt;&lt;br&gt;
 En de directe democratie website?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ernie&lt;/strong&gt;&lt;br&gt;
@@ -473,7 +525,9 @@ Oh verdorie, de directe democratie website.
 [&amp;hellip;]
 Kan je ons die URL nog eens geven, Colin?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Colin&lt;/strong&gt;&lt;br&gt;
-Dat is &lt;a href=&#34;http://www.npsnet.com/cdd&#34;&gt;www.npsnet.com/cdd&lt;/a&gt;, wat staat voor Canadians for Direct Democracy. [&amp;hellip;]&lt;/p&gt;
+Dat is 
+&lt;a href=&#34;http://www.npsnet.com/cdd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.npsnet.com/cdd&lt;/a&gt;
+, wat staat voor Canadians for Direct Democracy. [&amp;hellip;]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ernie&lt;/strong&gt;&lt;br&gt;
 Ok. Terug naar jou, Michael. Zacht geld. En ik denk dat we misschien helemaal terug kunnen gaan naar het basisidee van een LETSysteem waar elk account begint op nul.
 Je gaat negatief. Je gaat positief. Ik denk dat het nuttig is om het daar even over te hebben.&lt;/p&gt;
@@ -532,8 +586,8 @@ En elk stuk van de zogeheten &amp;ldquo;democratie&amp;rdquo; die toegebracht we
 Dood door een comité.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ernie&lt;/strong&gt;&lt;br&gt;
 Dood door comité &amp;hellip; Colin?
-Colin, dood door comité. Wat Michael zei over de LETSystemen die overal verschenen met deze comité&#39;s, besturen en bestuursleden, waarvan iedereen zou zeggen, &amp;hellip; wel, dat is de democratische manier.
-Ben je het eens met Michael&#39;s analyse?&lt;/p&gt;
+Colin, dood door comité. Wat Michael zei over de LETSystemen die overal verschenen met deze comité&amp;rsquo;s, besturen en bestuursleden, waarvan iedereen zou zeggen, &amp;hellip; wel, dat is de democratische manier.
+Ben je het eens met Michael&amp;rsquo;s analyse?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Colin&lt;/strong&gt;&lt;br&gt;
 Wel, ik vind het eerlijk gezegd nogal raar, Ernie.
 Aan de ene kant ben ik in vele strikt geleide organisaties geweest, typisch enorme multinationale bedrijven waar ik voor gewerkt heb, en zogeheten democratische organisaties, zonder winstoogmerk, enz. Zelfs kerken, God allemachtig.
@@ -589,7 +643,7 @@ Wel, dat zal wel. En ik begrijp wat je zegt, Ernie. Ik speel hier de rol van de 
 Een reptielenbrein, zei je?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Colin&lt;/strong&gt;&lt;br&gt;
 Een reptielenbrein, ja.
-Laat me je een voorbeeld geven. Zoals je weet, Ernie en ook Michael, zo&#39;n 20 jaar geleden, of het was 25, kwam er een boek uit, getiteld &amp;ldquo;Liefde is Angst laten varen&amp;rdquo;
+Laat me je een voorbeeld geven. Zoals je weet, Ernie en ook Michael, zo&amp;rsquo;n 20 jaar geleden, of het was 25, kwam er een boek uit, getiteld &amp;ldquo;Liefde is Angst laten varen&amp;rdquo;
 Het is nog steeds een courant boek. Je kan het nog steeds vinden en het is nog steeds heel waar.
 Het was misschien het eerste van misshien honderden, zelfs duizenden boeken die gepubliceerd werden over een filosofie die ik in feite zeer aandachtig bestudeerd heb de laatste 18 maanden.
 En liefde en angst zit zo diep geworteld in ons dat er maar twee emoties zijn volgens deze filosofie, liefde en angst.
@@ -626,118 +680,380 @@ Dat is het.&lt;/p&gt;
 &lt;p&gt;transcriptie en vertaling: Maarten Vandekeybus&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/O6V2liEFlY8&#34;&gt;Open Money BlogTalkRadio (1) Money and Democracy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://youtu.be/O6V2liEFlY8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Money BlogTalkRadio (1) Money and Democracy&lt;/a&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-     </item>
-   
-     <item>
-       <title>LAS wordt TAS</title>
-       <link>https://reclaim.letsa.net/posts/las-wordt-tas/</link>
-       <pubDate>Fri, 17 Jan 2020 22:54:59 +0100</pubDate>
-       
-       <guid>https://reclaim.letsa.net/posts/las-wordt-tas/</guid>
-       <description>&lt;h2 id=&#34;naamsverandering-goedgekeurd-door-algemene-vergadering&#34;&gt;Naamsverandering goedgekeurd door algemene vergadering&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;LETS Antwerpen Stad vzw&lt;/strong&gt; (LAS) heeft op de algemene vergadering van april 2019 besloten de vereniging te hernoemen naar &lt;strong&gt;Tijdbank Antwerpen Stad vzw&lt;/strong&gt; (TAS). Bij de aanwezigen was het besef gegroeid dat de activiteiten van de vereniging niet vallen onder de definitie van een LETSysteem. Groot voorstander van de naamsverandering is Maarten. Hij bestudeerde het LETSysteem en sprak al verschillende keren met bedenker Michael Linton.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Een ingekorte versie van dit artikel verscheen in het ledenmagazine &amp;ldquo;Nestel&amp;rdquo;, nummer 48&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maarten, je pleit er al langer voor om onze vereniging niet langer LETS te noemen. Waarom?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Wat momenteel in Vlaanderen LETS genoemd wordt, is eigenlijk geen LETS. LETS is een vastomlijnd concept dat vorm kreeg in de vroege jaren 80 in Canada, Comox Valley (Vancouver Island). Er heerste plaatselijk een hoge werkloosheid en er was een tekort aan geld. Michael Linton zette een gemeenschapsgeldsysteem op en bedacht LETS als naam.
-Een LETSysteem verschaft de deelnemers extra geld dat blijft circuleren in de eigen gemeenschap. Een LETSysteem, zo stelt Michael Linton, is bedoeld als ‘straatgeld’, ofwel de dagelijkse kleine economie, voor de kleine bedrijven, huishoudens, families. Het is wat je leert kennen als ‘lokaal-is-dit-ons-geld’.
-Een groot verschil met de huidige systemen in Vlaanderen is dat een bij LETS de  meeteenheid gelijk is aan het wettige betaalmiddel. Dat was het eerste besluit dat genomen werd bij het ontwerp in Comox Valley. Eén LETS-eenheid in Comox Valley (de green dollar) kwam overeen met één Canadese dollar. Dat werd pragmatisch zo bepaald. Iedereen was al gewoon te denken en te handelen in het wettige betaalmiddel. En dit liet toe het eigen gecreëerde geld te integreren in het dagelijkse economische leven. Het maakte deelname van bedrijven mogelijk, en prijszetting, boekhouding en betaling van belastingen helder.
-LETS Antwerpen Stad vzw is een vereniging met vrijetijd-uitwisselingen gebaseerd op tijd, geen bedrijfsgeoriënteerd geldsysteem. We noemen het dus beter een tijdbank, naar analogie met de timebanks in de Verenigde Staten. Tijdbanken neigen naar de persoonlijke sfeer (vrije tijd en belastingvrij), terwijl LETSystemen bedrijfsgericht zijn.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Enkele jaren geleden is toch ook geprobeerd om meer kleine bedrijfjes, verenigingen en zelfstandigen te betrekken? Wordt dit dan losgelaten?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Ik denk dat het vooral om verenigingen ging. Want bedrijven of zelfstandigen, dat is toch niet realistisch? Zij moeten de transacties in hun boekhouding kunnen opnemen voor de belastingen. Met een tijdeenheid wordt communicatie met de belastingdienst wel heel moeilijk. Voor verenigingen is er geen probleem natuurlijk. Zij zijn perfect voor een tijdbank of timebank.
-Voor een goede relatie met de overheid en om zweem van zwartwerk weg te nemen zijn bij tijdbanken enkel vrijetijdsactiviteiten toegelaten. Daarbij worden in heel wat  timebanks de uitgewisselde waarden vaak geen &amp;ldquo;geld&amp;rdquo; genoemd. &lt;img src=&#34;https://reclaim.letsa.net/images/time_and_euro.png#float-right&#34; alt=&#34;Tijd en euro&#34;&gt; Tjdbanken worden vaak zelfs &amp;ldquo;geleide vrijwilligersnetwerken&amp;rdquo; genoemd. Nadruk wordt gelegd op goed bestuur, verenigingsleven, sociale functies, ethische normen en waarden, zoals bvb. sociale insluiting, gelijkwaardigheid van mensen en respect voor elkaar. Edgar Cahn, de grondlegger van de timebanks in de USA heeft het over de &amp;ldquo;kernwaarden&amp;rdquo;.
-Een LETSysteem is wel een geldsysteem en het heeft een andere strategie voor een welwillende overheid, namelijk: belastingen betalen. Daarbij wordt geen beperking opgelegd &amp;ldquo;wat&amp;rdquo; mensen of partijen onder elkaar doen. Of er worden geen kernwaarden naar voren geschoven. Er is in feite helemaal geen sturing of controle in een LETS. &amp;ldquo;Laten&amp;rdquo; is de essentie. Vandaar de benaming &amp;ldquo;LETSystem&amp;rdquo;. Niemand controleert iemand anders. Niemand bepaalt wat goed of fout is. Niemand staat boven een ander. Er is geen hiërarchie. Er is geen bestuur. Er is geen vereniging met huishoudelijk reglement. Geen vzw. Geen lidgelden. Geen limieten op de accounts en geen startsaldo&#39;s (zoals die wel gebruikelijk zijn bij de meerderheid van de huidige systemen in Vlaanderen). Keuzevrijheid en verantwoordelijkhed ligt helemaal bij de deelnemers. De keuzes en uitwisselingen van de deelnemende partijen creëren zo een zelfregulerend geheel. En het LETSysteem is daarbij zelf minimaal van opzet. Een LETS bestaat enkel uit een transactie-systeem en een rekeninghoudersovereenkomst die de deelnemers ondertekenen. De ervaring bij een LETS is dan zoals het hebben van een extra bank-account. Er worden geen andere services gekoppeld zoals:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Een marktplaats ofwel het adverteren van vraag en aanbod&lt;/li&gt;
-&lt;li&gt;Mailinglijsten of sociale media groepen&lt;/li&gt;
-&lt;li&gt;Organisatie van evenementen of activiteiten&lt;/li&gt;
-&lt;li&gt;Verzekering van activiteiten&lt;/li&gt;
-&lt;li&gt;Begeleiding&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Dat zijn typische elementen die we wel terugvinden in het verenigingsleven van de timebanks. LETS daarentegen is gewoon extra rondgaand geld in de eigen gemeenschap voor het dagelijkse openbare leven zonder dat daarbij bepaalde keuzes worden opgelegd. Hoe verloopt een LETS-transactie dan? Bijvoorbeeld, een restaurant hangt een LETS-logo &amp;ldquo;dinsdag 50%&amp;rdquo; aan het raam. Dan kunnen leden van dat LETSysteem daar dinsdag 50% met eigen gecreëerd LETS-geld betalen. Je toont je LETS-betaalkaart, of een QR-code op je smartphone en de ober zal dit verrekenen. De resterende 50% betaal je in euro. Het voordeel voor het restaurant is dat het extra (nieuwe) klanten kan aantrekken op een onderbezette dag. En het zorgt voor een positief imago doordat de eigen ecomie van de gemeenschap wordt ondersteund met eigen circulerend geld. Het binnenkomende LETS-geld kan aangewend worden om bijvoorbeeld het personeel een extra te geven.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Wat kan het personeel daarmee doen?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Zij kunnen het besteden bij andere deelnemende partijen, particulieren en bedrijven.&lt;/p&gt;
+    </item>
+    
+    <item>
+      <title>Draft</title>
+      <link>https://reclaim.letsa.net/prepare/draft/</link>
+      <pubDate>Tue, 11 Sep 2018 14:06:28 +0200</pubDate>
+      <guid>https://reclaim.letsa.net/prepare/draft/</guid>
+      <description>&lt;p&gt;Sinds 2012 sloot ik me aan bij een LETS maar gaandeweg kwam ik er achter dat de&lt;/p&gt;
+&lt;p&gt;Buiten toegankelijkheid, draagt neutraliteit bij aan een professionele uitstraling. Zoals bepaald in &lt;em&gt;the LETSystem Design Manual&lt;/em&gt; (zie &amp;ldquo;cost of service&amp;rdquo;), draaien LETSystemen niet op vrijwilligerswerk, maar worden zij beheerd door betaalde kracht, bekostigt door het LETSysteem zelf. Bij systemen die door vrijwilligers geopereerd worden zal er in het algemeen meer neiging zijn tot ideologie.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt; is het daarmee niet eens en legt de bepalingen op aan gemeenschappen. Volgens hun &amp;ldquo;LETS-Charter&amp;rdquo; mogen enkel gemeenschappen die iedereen toelaten zich LETS noemen. Dat is fout. Het LETS concept legt geen enkele bepaling op hoe of op welke basis een gemeenschap samengesteld moet zijn.&lt;/p&gt;
+&lt;p&gt;Net kwetsbare gemeenschappen kunnen het meeste baat hebben met het opereren van een LETS voor het verwezelijken van hun doelen. Denk bijvoorbeeld aan een vrouwenbeweging, een holebi-rechten beweging enz. Als zij moeten opgenomen moeten worden in een algemene gemeenschap met democratisch bestuur zoals &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt; het stelt (), zal de specifieke stem, focus of doel verloren gaan.&lt;/p&gt;
+&lt;p&gt;The LETSystem Design Manual adviseert om LETS &lt;em&gt;licht&lt;/em&gt; te houden en stelt dat een democratisch bestuur &lt;em&gt;te zwaar&lt;/em&gt; is voor een LETS. Belangrijk hier op te merken is dat LETS geen exclusief recht is. Het maken van wetten van een land die elke burger dient na te leven is een exclusief recht. Het opereren van een LETS is dat niet. De basisregels van LETS zijn reeds een vrijheid-garantie: er is nooit enige verplichting voor de deelnemers en elk mens of gemeenschap kan vrij een LETS opstarten.&lt;/p&gt;
+&lt;p&gt;Het LETSysteem bemoeit zich ook niet met wat mensen of partijen onderling doen. Net zoals een gewone bank transacties registreert maar zich niet met de achterliggende daden van haar klanten bemoeit. (Maar dezelfde opmerking geldt hier: bepaalde gemeenschappen kunnen bepaalde regels hanteren. Maar dat maakt niet deel uit van het LETS-concept op zich) Dus het volgende is fout:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;h3 id=&#34;de-essentie-van-lets&#34;&gt;De essentie van LETS&lt;/h3&gt;
-&lt;p&gt;Dit is volgens Michael Linton, de LETS-bedenker, de essentie van LETS:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;LETS is een publieke dienst.&lt;/li&gt;
-&lt;li&gt;Het systeem opereert aan werkingskosten. Dit betekent: er is een
-vergoeding voor wie het systeem opzet en onderhoudt, het is geen
-vrijwilligerswerk).&lt;/li&gt;
-&lt;li&gt;Het systeem werkt zonder rente.&lt;/li&gt;
-&lt;li&gt;Niemand controleert een ander. Er zijn dus geen krediet- of andere
-limieten.&lt;/li&gt;
-&lt;li&gt;De meeteenheid van een LETSysteem is de nationale munteenheid.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Transacties die een mogelijk risico inhouden, horen niet in het LETS-systeem: dakwerken, werken op stellingen, grote afbraakwerken, handelingen met open vuren en dergelijke.&amp;rdquo; (het LETS starterspakket, LETS Vlaanderen vzw).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;En waar komt het geld op zo&#39;n LETS-betaalkaart dan vandaan?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Een LETS is net als een tijdbank een wederzijds kredietsysteem. Dat is de gemeenschappelijke eigenschap. Dat wil zeggen dat alle deelnemers zelf geld kunnen creëren. Bij het toetreden tot een LETS staat je account op nul. Het reflecteert wat je hebt bij de start: niets. Maar doordat je je account onder nul kan laten gaan, heb je de macht om geld te creëren. Wanneer je een betaling doet, creëert die actie op dat moment geld in het account van de tegenpartij. Het eigen gecreëerd geld is een representatie van jouw belofte om op een later tijdstip een wederdienst te verrichten aan een partij in het betreffende LETSysteem. Als het geld terug bij jou komt is de uitstaande belofte vervult en wordt het geld zo weer vernietigd. Alle deelnemers kunnen zelf geld creëren en vernietigen in wederzijds kredietsystemen. Dat staat in contrast met het wettige conventionele geld (de euro in Europa) waar alleen de erkende banken tot geldcreatie gemachtigd zijn. In een LETS hebben alle deelnemers evenveel macht om geld te creëren en wordt dit proces niet &amp;ldquo;gestuurd&amp;rdquo; terwijl in een tijdbank er een bestuur is dat gewoonlijk &amp;ldquo;bijstuurt&amp;rdquo;. Afhankelijk van de tijdbank in kwestie gebeurt dit in grote of kleine mate.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Hoe ontstaat een LETS dan als er geen bestuur is?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Een LETS is een hele lichte structuur. Het is in feite het meest eenvoudige geldsysteem ter wereld. Daarom is de oprichting een licht proces. Zeker in de huidige context waar overal internet beschikbaar is, zou het voor iedereen mogelijk moeten zijn om met een paar muisklikken (kosteloos) online LETS-transactie-systemen aan te maken net zoals je vandaag gemakkellijk Facebook of Google groepen kan aanmaken. Elke persoon of organisatie zou hiertoe in staat moeten zijn voor enig welke gemeenschap. Een gemeenschap is dan elke groep mensen die minstens één element hebben dat hen verbindt. Dat kan een plaats zijn, een hobby, een overtuiging, een doel enz. Het kan een bijvoorbeeld een fietsclub zijn, een vrouwenbeweging, een holebi activisten groep, ouders wiens kinderen naar een bepaalde school gaan, mensen met een bepaald fetisch of overtuiging. Er zijn geen uitzonderingen. Grote of kleine gemeenschappen. Eender welke gemeenschap kan LETS toepassen. Vaak zal een LETS beperkt zijn tot een locatie, omdat logisch gezien er meer kans op verbondendheid is tussen mensen op dezelfde locatie. Maar verbonden zijn door locatie is geen vereiste voor een LETS. Promotie en ontwikkeling op regionaal vlak (voor duizenden systemen) en websoftware staat los, wordt apart gefinancierd en wordt best verzorgd door een professioneel team.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarom heet het dan &amp;ldquo;Local Exchange Trading System&amp;rdquo; als een LETS niet per definitie lokaal gebonden is?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Michael Linton zegt dat LETS géén acronym is. De betekenis is &amp;ldquo;laat ons&amp;rdquo; en is dus een uitnodiging, een aanmoediging, een initiëring. En &amp;ldquo;LETSystem&amp;rdquo; wil ook zeggen dat het een systeem is dat &amp;ldquo;laat plaatsvinden&amp;rdquo; en dat het &amp;ldquo;zonder controle&amp;rdquo; is. Doch voelden mensen van in het begin de behoefte om er een acroniem van te maken en werd het &amp;ldquo;Local Exchange Trading System&amp;rdquo;. Michael Linton voelt zich daar wat ongelukkig over omdat het woord &amp;ldquo;local&amp;rdquo; heel wat verwarring teweeg heeft gebracht. Het Engelse woord &amp;ldquo;local&amp;rdquo; dient hier immers niet begrepen te worden in de betekenis van &amp;ldquo;plaatselijk&amp;rdquo;, maar wel in de tweede betekenis van &amp;ldquo;beperkt&amp;rdquo;. LETS is een gemeenschapsmunt, beperkt tot een gemeenschap, beperkt in bereik. Dat is de meer nuttige omschrijving. LETS is een antwoord op de problematische eigenschap van het conventionele geld dat geen beperking in bereik heeft. Definiëren hoe de gemeenschap samengesteld is of zou moeten zijn heeft geen nut in het licht daarvan en is overbodige ballast. De gedachte dat LETS enkel plaatselijk zou zijn is contra-productief want dat is zonder reden sterk het toepassingsgebied verengen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Wie kan deelnemen aan een LETS en waarom neemt men deel?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Iedereen die extra geld kan gebruiken kan deelnemen. En iedereen kiest de systemen waaraan hij of zij deelneemt. Het voordeel is meer soevereiniteit. Betalen met eigen gecreëerd geld is een krachtige daad van soevereiniteit. Eveneens geldt dat voor het accepteren van eigen gecreëerd geld. Dit extra geld lijkt misschien een beetje op de euro maar is door het ontwerp toch heel anders. Het heeft namelijk niet de destructieve eigenschappen van het conventionele geld die onze relaties corrumperen en onze planeet om zeep helpen. Namelijk:&lt;/p&gt;
+&lt;p&gt;Buiten toegankelijkheid, draagt neutraliteit bij aan een professionele uitstraling. Professionaliteit is voor een LETSysteem een vereiste[*cost of service]. Daar waar Tijdsbanken op vrijwilligerswerk draaien, wordt een LETSysteem professioneel beheerd met betaalde kracht en bekostigt door het LETSysteem zelf. Bij systemen die door vrijwilligers geopereerd worden zal er in het algemeen meer neiging zijn tot ideologie.&lt;/p&gt;
+&lt;p&gt;Samengevat, het LETSysteem bepaalt NIET&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Door de rentewerking van het conventionele geld onstaan ongezonde machtsconcentraties.&lt;/li&gt;
-&lt;li&gt;Door de wereldwijde schaal concurreren alle partijen op wereldvlak waardoor het geld naar (afgelegen) plaatsen gaat waar mensen uitgebuit worden en waar er minst rekening gehouden wordt met milieu en arbeidsomstandigheden.&lt;/li&gt;
-&lt;li&gt;Je kan zelf geen conventioneel geld maken. Je bent hiervoor afhankelijk van een elite.&lt;/li&gt;
+&lt;li&gt;de prijzen die partijen moeten hanteren.&lt;/li&gt;
+&lt;li&gt;hoe gemeenschappen samengesteld moeten zijn.&lt;/li&gt;
+&lt;li&gt;welke activiteiten wel en niet zijn toegestaan.&lt;/li&gt;
+&lt;li&gt;de vorm van het bestuur.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Dus hoe meer LETS-geld je integreert in het leven, hoe minder je afhankelijk bent van het destructieve spul. Het is perfect legaal en de overheid zou zich geen zorgen hoeven te maken, want zij zal meer geld ontvangen uit belastingen doordat er meer geld in omloop komt. Het LETSysteem verschaft daardoor werk en helpt  amoedebestrijding. Het zorgt ervoor dat mensen met minder geld meer aan de maatschappij kunnen deelnemen en aan de economie kunnen bijdragen als verantwoordelijke burgers. Natuurlijk, conventioneel geld is ook nodig. We kunnen het conventionele geld niet weggooien en nu alles in LETS betalen. LETS is geen alternatief. Maar het is een extra middel dat ons ter beschikking staat en waar we zonder al te veel moeilijkheden gebruik van kunnen maken.&lt;/p&gt;
+&lt;h2 id=&#34;protestactie-motivatie&#34;&gt;Protestactie motivatie&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Komaf maken met foute beeldvorming over LETS&lt;/li&gt;
+&lt;li&gt;Het verschil duidelijk maken met andere systemen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Het wereldje van gemeenschapsmunters is bevolkt met nogal wat acteurs die hun helderheid opzijzetten of werkelijkheidszin opzijzetten door ideologisch bevlogenheid en somtijds uit opportunisme zo is mijn ervaring. Temidden van het tumult schittert het LETSysteem door haar eenvoud en pragmatische aanpak. De ernstige economische situatie destijds noopte tot een praktisch en begrijpelijk systeem. Daarom kreeg het in de jaren negentig wereldwijd veel belangstelling en het geldt nog steeds&lt;/p&gt;
+&lt;p&gt;Het LETSysteem is een eenzaam krachtig in haar eenvoud in het wereldje van gemeenschapsmunten.&lt;/p&gt;
+&lt;h3 id=&#34;doel&#34;&gt;Doel&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bekendheid geven aan het echte LETSysteem.&lt;/li&gt;
+&lt;li&gt;Het verschil blootleggen met andere systemen.&lt;/li&gt;
+&lt;li&gt;Desinformatie aanklagen, m&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;actiesensen-en-instanties-wijzen-op-hun-verantwoordelijkheid&#34;&gt;Actiesensen en instanties wijzen op hun verantwoordelijkheid.&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deze website&lt;/li&gt;
+&lt;li&gt;verassingsacties&lt;/li&gt;
+&lt;li&gt;Een nieuw Charter voor LETS lanceren waarin simpelweg wordt gesteld:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;ldquo;Het oude LETS Charter is ongeldig.&amp;rdquo;
+(Het betreft hier het zogenoemd &amp;ldquo;LETS Charter&amp;rdquo; dat LETS Vlaanderen vzw in november 2016 in bijzijn van minister Sven Gatz lanceerde.)&lt;/p&gt;
+&lt;p&gt;Redenen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;LETS Vlaanderen vzw is niet gemachtigd om te bepalen wat LETS is. LETS is een concept dat los staat van deze organisatie en dat door iemand anders werd ontworpen, beschreven en bekend gemaakt.&lt;/li&gt;
+&lt;li&gt;In het oude LETS Charter staan allerlei zaken die niets met LETS te maken hebben (zoals: LETS is gebaseerd op tijd).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Lancering van het nieuwe Charter kan gepaard gaan met visueel interessante (voor de camera&amp;rsquo;s) vernietiging van het oude Charter. Voorstellen hiervoor zijn welkom en weest allen uitgenodigd om te komen tekenen.
+Noot voor de toekomst: het is onnodig om nog verder Charters te lanceren. Om te weten wat LETS is, raadpleeg the LETSystem Design Manual.&lt;/p&gt;
+&lt;p&gt;Net zoals de fiets een concept is dat niet eigendom is van de Fietsersbond, is het concept LETS niet de eigendom van LETS Vlaanderen vzw. De Fietsersbond kan niet naar eigen goeddunken gaan bepalen wat een fiets is of wie gemachtigd is om te fietsen. Nee, zij heeft de taak op zich genomen om fietsen te promoten en er zo objectief mogelijke informatie over te verstrekken. Net zo zou dat voor LETS Vlaanderen vzw moeten zijn.&lt;/p&gt;
+&lt;p&gt;Omdat LETS onbekend is bij het grote publiek kon LETS Vlaanderen vzw dit tot nu wel ongehinderd pretenderen dat LETS haar eigen kind is. Het kapen&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Een nieuw LETS Charter</title>
+      <link>https://reclaim.letsa.net/prepare/nieuw-lets-charter/</link>
+      <pubDate>Tue, 11 Sep 2018 13:56:24 +0200</pubDate>
+      <guid>https://reclaim.letsa.net/prepare/nieuw-lets-charter/</guid>
+      <description>&lt;p&gt;18 november 2016 lanceerde &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt; een &amp;ldquo;LETS Charter&amp;rdquo; in aanwezigheid van de minister van cultuur Sven Gatz. Dit Charter zou zogenaamd vertellen wat LETS is. De organisatie geeft hiermee uiting dat zij het is die bepaald wat het concept LETS zou zijn. Dat is nogal raar want LETS is een concept dat in Canada in 1982-1983 werd ontworpen en helemaal los staat van &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt;. Net zoals het concept &amp;ldquo;fiets&amp;rdquo; los staat van de Fietsersbond. Het is niet de Fietsersbond die gaat bepalen wat een fiets is.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://reclaim.letsa.net/home/</link>
+      <pubDate>Sun, 09 Sep 2018 12:48:28 +0200</pubDate>
+      <guid>https://reclaim.letsa.net/home/</guid>
+      <description>&lt;h2 id=&#34;lets-is-geen-tijdsbank&#34;&gt;LETS is geen Tijdsbank&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LETS reclaim LETS&lt;/strong&gt; is een actie om het LETSysteem bekendheid te geven en tevens een protestactie gericht tegen de organisatie &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt; die foute informatie omtrent LETS verspreidt. Namelijk, zij doet al jaren alsof LETS een soort van &lt;em&gt;Tijdsbank&lt;/em&gt; is. LETS en Tijdsbanken zijn beide concepten van gemeenschapsmunten die wel overeenkomsten vertonen maar die ook heel verschillend zijn.&lt;/p&gt;
+&lt;h2 id=&#34;lets-is-voor-alledaags-gebruik-in-de-bestaande-economie&#34;&gt;LETS is voor alledaags gebruik in de bestaande economie.&lt;/h2&gt;
+&lt;p&gt;LETS&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; werd in 1982-1983&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; ontworpen in Canada door Michael Linton. Hij beoogde een toegankelijk geldsysteem voor de kleine dagelijkse transacties. LETS is &amp;ldquo;street money&amp;rdquo; zoals hij het zelf noemt&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. Daarom dat hij de maateenheid van LETS-geld gelijk stelde aan die van het nationale geld&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;. Dat is immers waarin mensen denken en handelen in het leven van alledag. De één op één pariteit laat tevens gemakkelijke integratie toe van het LETSysteem met de bestaande economie en het bedrijfsleven. &lt;img src=&#34;images/note_1.jpg#float-right&#34; alt=&#34;euro&#34;&gt; Gecombineerde betalingen in euro&amp;rsquo;s en LETS-euro&amp;rsquo;s zijn zo mogelijk&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;. Het procentuele aandeel in LETS-euro&amp;rsquo;s vormt zo een toegevoegde component in de marktwerking. Hierover zou inzake het LETSysteem geen misverstand mogen bestaan. Vanaf het begin heeft Michael Linton het concept van LETS helder uiteengezet in verscheidene publicaties&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; en in 1994 schreef hij de definitieve gids &amp;ldquo;The LETSystem Design Manual&amp;rdquo;&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;. Deze is sinds 1995 online te vinden.&lt;/p&gt;
+&lt;h2 id=&#34;lets-vlaanderen-vzw-negeert&#34;&gt;LETS Vlaanderen vzw negeert&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt;&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;, sinds enige jaren door de Vlaamse Overheid gesubsidieerd, een organisatie die zichzelf in de media opwerpt als &amp;ldquo;expertisenetwerk inzake LETS&amp;rdquo;, negeert echter het werk van Linton. De organisatie stelt namelijk sinds jaar en dag dat LETS een soort van Tijdsbank zou zijn. Transacties in een Tijdsbank worden uitgedrukt in uren en minuten dienst die iemand verleend heeft aan een ander. Maar zulke tijds-transacties kan je niet (gemakkelijk) integreren met het bedrijfsleven of aangeven bij de fiscus. &lt;img src=&#34;images/clock_1.jpg#float&#34; alt=&#34;Tijd&#34;&gt; Bij Tijdsbanken stelt men gewoonlijk dan ook dat zij enkel bedoeld zijn voor niet-professionele uitwisselingen en slechts die handel waarop geen belasting verschuldigd is. Tijdsbanken zijn zo vrije tijdssystemen die los staan van de gangbare economie. Dat is wat &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt; beweert over LETS; dat het zich buiten de conventionele economie afspeelt. Tekenend is dat &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt; op haar website wel 
+&lt;a href=&#34;https://www.letsvlaanderen.be/portals/letsvl/Files/Documents/studies%20over%20LETS%20en%20aanverwante%20domeinen/TimeBanksHowToManual.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The Time Dollar how-to Manual&amp;rdquo;, een handboek over Tijdsbanken volgens Edgar Kahn&lt;/a&gt;
+ plaatst, maar niet 
+&lt;a href=&#34;https://manual.letsa.net/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The LETSystem Design Manual&amp;rdquo;, het werk van Michael Linton&lt;/a&gt;
+.&lt;/p&gt;
+&lt;h2 id=&#34;neutraal&#34;&gt;Neutraal&lt;/h2&gt;
+&lt;p&gt;De jarenlange foutieve propaganda van LETS in Vlaanderen heeft er toe geleid dat er ondertussen een 40-tal groepen zijn die zich LETS noemen, maar het feitelijk niet zijn. Veel van die groepen zijn opgericht met hulp van &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt; en alle voeren momenteel hetzelfde Tijdsbank-discours en praktijk. We komen de volgende absurde uitspraken tegen:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;h3 id=&#34;uitwisseling-met-euro&#34;&gt;Uitwisseling met euro&lt;/h3&gt;
-&lt;p&gt;Let wel, de maateenheid van een LETS is gelijk aan de euro (in Europa)
-Maar dat wil niet zeggen dat er algemene uitwisselbaarheid is met de
-euro. Zoiets is trouwens niet toegelaten zonder toelating van de
-Nationale Bank. Individuele partijen kunnen echter wel euro-geld
-aanbieden in ruil voor LETS-euro&#39;s. Zoals gezegd, er is geen beperking
-op wat er verhandeld wordt met LETS-geld. Dat ligt anders bij de
-tijdbanken. Euro-uitwisselingen stroken niet met de kern-economie
-gedachte van de tijdbanken. Daarom verbieden veel tijdbanken
-euro-uitwisseling en soms zelfs gecombineerde betalingen in hun
-huishoudelijk reglement. De &amp;ldquo;kern-economie&amp;rdquo; is het begrip van Edgar Cahn
-waarmee hij zorgdragende uitwisselingen tussen buren, vrienden en
-verwanten bedoelt en die in de markteconomie niet gewaardeerd worden.
-Deze uitwisselingen die wel in timebanking gewaard worden zijn essentieel
-om de wereld te bouwen die we nodig hebben, zegt hij.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;In LETS-land zijn euro&amp;rsquo;s niet van tel.&amp;rdquo; (
+&lt;a href=&#34;https://lets.gent/hoe-werkt-het&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website LETS Gent vzw&lt;/a&gt;
+, uit de &amp;ldquo;tien geboden van LETS&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;En bedenk ook, LETS&amp;rsquo;ers zijn hobbyisten, geen professionals onder elkaar.&amp;rdquo; (idem)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Binnen Lets is geld taboe. We waarderen elkaar met vlasbloemen (naam van de interne tijdsmunt), niet met euro&amp;rsquo;s.&amp;rdquo; (
+&lt;a href=&#34;https://www.letsleie.be/vlasbloemen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website LETS Leie&lt;/a&gt;
+)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Alle arbeid is gelijkwaardig.&amp;rdquo; (idem)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Een LETS-eenheid geeft aan hoeveel tijd er in een ruildienst wordt geïnvesteerd: de LETS-groep spreekt af hoeveel LETS-eenheden overeenkomen met één uur.&amp;rdquo; (
+&lt;a href=&#34;https://anzdoc.com/starterspakket-handleiding.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;het LETS starterspakket, pag. 6, uitgave LETS Vlaanderen vzw&lt;/a&gt;
+, met steun van Delhaize fonds)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Binnen het LETS-netwerk worden diensten en goederen uitgewisseld. Deze diensten en goederen worden vergoed in een systeem met een complementaire munteenheid, gebaseerd op tijd.&amp;rdquo; (Uit 
+&lt;a href=&#34;https://letszandland.be/het-lets-charter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;het LETS-Charter&lt;/a&gt;
+ van LETS Vlaanderen vzw)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Als het LETS-geld blijft circuleren in de eigen gemeenschap hoe valt dat dan te rijmen met belastingen betalen?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Belastingplicht kan enkel voldaan worden in het wettige betaalmiddel, de euro. En belastingen worden berekend op het totaal ontvangen bedrag, de combinatie van euro en LETS-euro. De ontvanger moet bekijken hoeveel percentage LETS mogelijk is zodat alle kosten in euro gedekt zijn. Daarom zijn LETS-betalingen vaak typisch gecombineerde betalingen. Dat wil niet zeggen dat betalingen die buiten het beroepsmatige vallen en waar geen belastingsplicht voor geldt uitgesloten zijn. Sommige betalingen kunnen zo 100 % in LETS verricht worden. Of er belastingplicht is wordt overigens niet bepaald door het type munteenheid van de gedane transactie, maar wel door het karakter van de onderliggende activiteit, of deze beroepsmatig is of niet. Dus, mocht je in een tijd-systeem een transactie ontvangen van &amp;ldquo;4 uur&amp;rdquo; voor schilderwerk terwijl dat je beroep is, dan moet je daar evengoed belasting op betalen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;En hoe zijn tijdbanken of timebanks ontstaan?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Er bestaat &lt;a href=&#34;https://en.wikipedia.org/wiki/Time-based_currency&#34;&gt;een hele geschiedenis van tijdgebaseerde muntsystemen&lt;/a&gt;. Maar we noemen ons nu  &amp;ldquo;tijdbank&amp;rdquo; naar de &amp;ldquo;timebanks&amp;rdquo; in the USA zoals Edgar Cahn die ontwikkeld heeft sinds 1980 en gepromoot sinds de jaren 90. Hij zag dat veel talenten en vaardigheden die intermenselijke banden verstevigen en voor warmte in onze maatschappij zorgen sterk ondergewaardeerd worden in de markteconomie. De allesoverheersende op winst beluste economie vervormt ernstig onze kijk op de wereld en maakt dat een heleboel mensen als minderwaardig of &amp;ldquo;verloren mensen&amp;rdquo; beschouwd worden. En hij bedacht dat hulporganisaties niet efficient genoeg zijn omdat ze mensen in de rol van ontvanger duwen en daardoor het etiket van hulpbehoevendheid versterkt wordt. Hij concludeerde dat vrijwilligerswerk geen éénrichtingsverkeer zou mogen zijn, want dat tast de waardigheid aan van de ontvangers. Zij worden zo objecten van liefdadigheid. Hij stelde daarom de Time Dollar voor, een nieuwe munteenheid waarbij één Time Dollar gelijk is aan 1 uur dienst voor een ander. Door de waarde in tijd uit te drukken zit hierin de filosofie vervat dat ieder dingen van waarde doet en dat ieder altijd een wederdienst kan doen voor de gemeenschap. De wederkerigheid van de timebank maakt dat niemand uitgesloten wordt als waardig actief lid van de gemeenschap. En mensen worden uit sociaal isolement gehaald. Door de tijdmunt wordt hetgene wat mensen voor elkaar doen losgekoppeld van de markteconomie. De filosofie van onze Antwerpse vereniging is hier sterk mee in overeenstemming. Het is wel zo dat we niet strikt toepassen dat alle tijd evenveel waard is, maar dat er een beperkte ruimte is voor onderhandeling. De &amp;ldquo;3 minuten dienst&amp;rdquo; waarde van onze munt, het  Antwerpse Handje is eerder een richtlijn. Zo staat in het in onze instap-gids. Het lijkt me goed dit verschil van onze tijdbank met de Amerikaanse timebanks duidelijk te maken in onze communicatie. Tussen de timebanks onderling is er overigens veel verschil in concrete werking. Er is veel of weinig begeleiding. Wel of geen professionele kracht. Veel of weinig bijsturing van de transacties. Weinig of veel gemeenschappelijk georganiseerde activiteiten. Weinig (of geen) of veel externe finaniciële middelen al dan niet in de vorm van subsidies.
-Over subsidies gesproken&amp;hellip; Volgens Michael Linton zouden LETSystemen niet afhankelijk mogen zijn van subsidies. Hij vindt afhakelijkheid van extern geld een uiting van gebrek in geloof in het eigen LETS-geld. Als de systemen zichzelf niet kunnen bekostigen hebben ze geen recht van bestaan. Het zou bewijzen dat ze inefficiënt zijn.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h3 id=&#34;aan-onze-manier-van-werken-verandert-niets&#34;&gt;Aan onze manier van werken verandert niets&lt;/h3&gt;
-&lt;p&gt;Voor alle duidelijkheid: &lt;strong&gt;enkel&lt;/strong&gt; de naam van onze vereniging verandert,
-&lt;strong&gt;LAS&lt;/strong&gt; wordt &lt;strong&gt;TAS&lt;/strong&gt;, wat staat voor &lt;strong&gt;Tijdbank Antwerpen Stad&lt;/strong&gt;.
-Voor de rest blijft alles helemaal hetzelfde.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Volgens Lets Vlaanderen is het oorspronkelijke LETSysteem overvleugeld door verschillende afgeleiden, met tijd als eenheid, en gebruiken veel landen LETS en tijdbankieren door elkaar.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Het is juist dat er verwarring bestaat over het LETSysteem. De overeenkomst tussen LETS en tijdbanken is dat het beide gemeenschapsmunten zijn die werken volgens het principe van wederzijds krediet. Maar daarbuiten zijn er veel verschillen in uitgangspunten, analyse, visie, doelstelling, ontwerp en aanpak. En ik vind dat we helderheid moeten scheppen en onderscheid maken. Zo respecteren we alle systemen en hun ontwerpers. Als wij een foute voorstelling geven van een systeem dan brengen wij de intellectuele eigendom schade toe. Michael Linton promoot zelf de grootst mogelijke diversiteit in systemen in het bredere raamwerk van &amp;ldquo;open money&amp;rdquo;. Als &amp;ldquo;open money&amp;rdquo; een set speelkaarten is, dan zijn het LETSysteem en de  tijdbank elks een bepaald spel dat gespeeld kan worden, elks met een eigen functie en eigen spelregels. &amp;ldquo;Geen controle&amp;rdquo; is een element in het LETSysteem dat voor velen moeilijk te aanvaarden of te bevatten was in het verleden. We bekijken dat in onze maatschappij gewoonlijk niet als efficiënte aanpak. The New Economics Foundation (NEF), een organisatie uit Londen, stelde al van in de jaren 80 LETS foutief voor als een recept voor verenigingsleven waarbij bestuur heel belangrijk is. Zo werd een hoop foute informatie over het LETSysteem verspreid in West Europa. Deze organisatie is hiermee gestopt nadat Michael Linton had laten verstaan dat ze zich blootstelt aan gerechtelijke stappen.  Sindsdien (eind jaren 90) helpt the New Economics Foundation de promotie van timebanks. Zo zijn er inmiddels bijna 270 timebanks in het Verenigd Koninkrijk.
-Het concept van het LETSysteem is natuurlijk vrij toe te passen door iedereen. Het behoort net zoals open source software tot de &amp;ldquo;commons&amp;rdquo;. Maar als je wijzigingen aanbrengt in het ontwerp dan moet je je systeem wel onder een andere naam promoten. Dat is wel zo netjes. Michael Linton heeft me trouwens gevraagd om de boodschap door te geven dat hij vindt dat je tijdbanken maar tijdbanken moet noemen en geen LETS.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maar wat betekent onze naamswijziging voor ons lidmaatschap bij LETS Vlaanderen vzw? Gaan we uit die koepel stappen?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Dat LETS Vlaanderen vzw een koepel zou zijn lijkt me een veelvoorkomend misverstand. Ik hoor of lees dat regelmatig. LETS Vlaanderen vzw is helemaal geen koepel (zie haar beleidsplan 2016 - 2020, pagina 25) En de systemen of groepen zijn geen lid bij haar. Alle organisaties zijn onafhankelijk van elkaar. Dus we kunnen er niet uit stappen als we er niet in zitten. Bij LETS Vlaanderen vzw weten ze trouwens allang dat het eigenlijk tijdbanken zijn. Dat vermelden ze zelf sinds jaren op diverse plaatsen in de marge. Op &lt;a href=&#34;https://www.letsvlaanderen.be/wat-is-lets/lets-systeem&#34;&gt;haar website&lt;/a&gt; staat bijvoorbeeld: ´Een voor de hand liggende en veelgebruikte mogelijkheid in Vlaanderen
-is om de waarde gelijk te maken aan een tijdgebonden gegeven (bijv. een uur werken is 20 eenheden). Dat maakt de LETS-groepen zoals wij die kennen eigenlijk tot &amp;ldquo;tijdbanken&amp;rdquo;.´&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;En blijft interLETS mogelijk?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Onze werking blijft helemaal hetzelfde, enkel de naamgeving verandert. Intersysteem verbindingen zijn vrijblijvende engagementen die onderling aangegaan worden tussen systemen. Pollekesland en Tijdbank Antwerpen Stad kunnen daar gewoon mee doorgaan als ze willen.
-Een echt LETSysteem is echter per definitie een gemeenschapsmunt. Het eigen gecreëerde geld blijft enkel circuleren in de eigen gemeenschap. Beloften die gedaan worden binnen de eigen gemeenschap worden daarbuiten niet verhandeld.  Dat zou de opzet van het LETSysteem ondermijnen.
-In de eLAND-software wordt het daarom al enige tijd de term &amp;ldquo;interSysteem&amp;rdquo; in plaats van &amp;ldquo;interLETS&amp;rdquo; gebruikt.&lt;/p&gt;
-&lt;p&gt;Christine Huyge, Maarten Vandekeybus&lt;/p&gt;
-&lt;p&gt;illustratie Steven de Rie&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/confused.jpg#float-right&#34; alt=&#34;Hmm&#34;&gt;
+LETS staat helemaal niet voor zulke ideologie. Het LETSysteem bepaalt niet van bovenaf wat iemands tijd waard is. Het is helemaal aan de partijen onderling om prijzen overeen te komen. Het kan natuurlijk dat een zekere gemeenschap eigen regels oplegt voor vergoedingen. Maar zulke bepalingen zijn dan specifiek voor die gemeenschap, en niet eigen aan het LETS-concept.&lt;/p&gt;
+&lt;p&gt;Het LETSysteem is daarentegen zo neutraal mogelijk. Dit opdat het toegankelijk zou zijn voor iedereen en elke gemeenschap. &lt;strong&gt;Eender welke gemeenschap met eender welke ideologie of doel die nut ziet in extra LETS-geld kan het systeem ongehinderd in vrijheid toepassen.&lt;/strong&gt;&lt;sup id=&#34;fnref:10&#34;&gt;&lt;a href=&#34;#fn:10&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;10&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;LETS bepaalt &lt;strong&gt;NIET&lt;/strong&gt; in tegenstelling tot wat &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt; beweert:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;de prijzen die gehanteerd moeten worden.&lt;/li&gt;
+&lt;li&gt;welk soort transacties en welke achterliggende daden toegelaten zijn.&lt;/li&gt;
+&lt;li&gt;hoe gemeenschappen samengesteld moeten zijn. Of wat hun doel of ideologie zou moeten zijn.&lt;/li&gt;
+&lt;li&gt;hoe gemeenschappen bestuurd moeten worden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;De laatste drie punten worden later nog uiteengezet in extra posts op deze site.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;protest&#34;&gt;Protest&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;images/protest.png#float&#34; alt=&#34;Protest&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Het LETSysteem is zeer simpel van opzet, doch is het vaak moeilijk om mensen te overtuigen van het nut van eigen, gratis, risicoloos, legaal, zelf gecreëerd geld. Het denken is geconditioneerd door de alomtegenwoordigheid van het voor de meeste mensen moeilijk verkrijgbare conventionele geld. De eerste reflex bij velen is dan ook dat er iets achter moet zitten of dat het te idealistisch is. LETS is dus vaak moeilijk te communiceren. En een geldsysteem kan maar slechts bestaan als er vertrouwen in is. Amateurisme wekt geen vertrouwen.&lt;/p&gt;
+&lt;p&gt;Door &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt; krijgen mensen een verkeerde voorstelling van het LETSysteem. Natuurlijk zijn de Tijdsbanken van &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt;  nuttig en sociaal; dat wordt hier niet in vraag gesteld. En er is geen enkel bezwaar tegen dat mensen of organisaties hun eigen gemeenschapsmuntconcepten bedenken en lanceren. Het zou zelfs verwelkomd moeten worden dat meer experimenten plaatsvinden. Maar het is niet netjes en worden grenzen overschreden wanneer andermans concepten geclaimd of bewust fout voorgesteld worden. Zoiets is nefast. Een heldere voorstelling van concepten en eerlijkheid is nodig. Dat houdt in dat &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt; haar eigen concept een eigen naam moet geven. Noem het simpelweg &lt;em&gt;Tijdsbank&lt;/em&gt;, &lt;em&gt;Tijdsuitwisselingsysteem&lt;/em&gt; (TUiS) of zelfs &lt;em&gt;VrijeTijdLETS&lt;/em&gt;. Wend creativiteit aan om een passende naam te bedenken.&lt;/p&gt;
+&lt;p&gt;Onafhankelijk van &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt; zette ik me sinds 2012 vrijwillig in voor LETS door software te ontwikkelen en gratis hosting te voorzien voor groepen. Ik was in het begin ook misleid. Maar geleidelijk aan kwam ik er achter dat de voorstelling van LETS in Vlaanderen niet klopt. Ik zocht de teksten van Michael Linton op en zag dat zij een verhaal vertellen dat helemaal niet strookt met wat &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt; verkondigt. Sinds november 2016 kaart ik deze misstand bij de organisatie aan in meetings, per telefoon en per e-mail maar de boodschap wordt totaal genegeerd. Daarom ga ik over tot publieke actie. Uit communicatie met bestuursleden van de vzw blijkt dat zij LETS beschouwen als &amp;ldquo;hun systeem&amp;rdquo;, waar zij autoriteit over hebben en dat het niets te maken heeft met Michael Linton. (Nochtans vermelden ze regelmatig dat &amp;ldquo;LETS begon in 1983 in Canada met Michael Linton&amp;rdquo;&lt;sup id=&#34;fnref:11&#34;&gt;&lt;a href=&#34;#fn:11&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;11&lt;/a&gt;&lt;/sup&gt; enz.) &lt;img src=&#34;linton.jpg#float-right&#34; alt=&#34;Michael Linton 1983&#34;&gt; Het claimen van LETS blijkt ook uit hun &amp;ldquo;LETS Charter&amp;rdquo;&lt;sup id=&#34;fnref:12&#34;&gt;&lt;a href=&#34;#fn:12&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;12&lt;/a&gt;&lt;/sup&gt; een document dat zij lanceerden in november 2016 in tegenwoordigheid van Vlaams minister van cultuur Sven Gatz. Dit kapen van andermans concept vind ik niet door de beugel kunnen. Temeer daar ik LETS als pragmatischer, universeler, transparanter en efficienter beoordeel dan het Tijdsbank-concept van &lt;em&gt;LETS Vlaanderen vzw&lt;/em&gt;. LETS kan in meer domeinen en segmenten in onze maatschappij ingezet worden.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jij kan meehelpen!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In de eerste plaats door niet zomaar alles aan te nemen wat je leest of wat men je zegt. Maar door jezelf te informeren. Hoe heeft Linton het LETSysteem gedefinieerd en wat zijn de achterliggende motivaties? Lees 
+&lt;a href=&#34;https://manual.letsa.net/en/1.1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the LETSystem Design Manual&lt;/a&gt;
+. Om het toegankelijker te maken vertaalde ik 
+&lt;a href=&#34;https://manual.letsa.net/nl/1.1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;het werk in het Nederlands&lt;/a&gt;
+.
+&lt;img src=&#34;lets-card.jpg#float&#34; alt=&#34;LETS&#34;&gt;&lt;/li&gt;
+&lt;li&gt;Informeer anderen.&lt;/li&gt;
+&lt;li&gt;Als je deel uitmaakt van een Tijdsbank die zich LETS noemt, stel voor om de groep een andere naam te geven.&lt;/li&gt;
+&lt;li&gt;Confronteer Tijdsbankers die zich LETS noemen met 
+&lt;a href=&#34;het-nieuwe-lets-charter.pdf&#34;&gt;Het Nieuwe LETS Charter&lt;/a&gt;
+.&lt;/li&gt;
+&lt;li&gt;Misschien is het de moeite om in je leefomgeving een echt LETSysteem op te zetten? Dat kan voor elk doel of gemeenschap, groot of klein en kan in het begin als een spel opgevat worden. Misschien ben je dra bij de pioniers in Vlaanderen?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Maarten Vandekeybus&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://manual.letsa.net/nl&#34;&gt;LETSystem Design Manual&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.context.org/iclib/ic07/linton/&#34;&gt;Een artikel van Michael Linton met een beknopte beschrijving van het LETSysteem&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/M0_KLvczF88&#34;&gt;Het Comox Valley LETSysteem in werking in 1986 (video)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://timebanks.org&#34;&gt;Timebanks USA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/ySzlmwmiHDo&#34;&gt;Edgar Cahn vertelt over het ontstaan van timebanking&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://timebanks.org/wp-content/uploads/2016/11/WEBThe-Time-Dollar-How-to-Manual.pdf&#34;&gt;The Time Dollar How-To Manual&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Gewoonlijk zegt men dat LETS een afkorting is voor Local Exchange Trading System. Volgens Michael Linton is de eerste betekenis &amp;ldquo;Let us&amp;rdquo;, een uitnodiging/aanmoediging om samen iets te ondernemen. Zie 
+&lt;a href=&#34;https://youtu.be/QSKbq4qVTO0?t=1422&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;deze video&lt;/a&gt;
+. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;lets-flyer-1982.png&#34;&gt;De eerste LETS flyer uit 1982 (die oproept om te starten in januari 1983)&lt;/a&gt;
+. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Uit persoonlijk gesprek met Linton. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Eén van de inspiratiebronnen voor LETS was het Community Exchange Trading System van David J Weston. 
+&lt;a href=&#34;http://prosperityuk.com/2003/09/david-j-weston-money-reform-activist-in-britain-and-canada/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Uit een interview (2003) met David J Weston&lt;/a&gt;
+: &amp;ldquo;&lt;em&gt;When I moved to Vancouver Island in 1979, I once again started a Community Exchange Trading System. About 10 families felt encouraged to join. We did some trading and some joint projects together. In 1982 Michael Linton, who also lived on Vancouver Island, came forward with the brilliant acronym LETS which has caught the imagination of so many world-wide. Michael also developed a computer-based recording system, whereas our group created printed notes. Michael and I differed, however, on the unit of account. He chose a Green Dollar equivalent to the Canadian dollar. I advocated Time points.&lt;/em&gt;&amp;rdquo; &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Gecombineerde betalingen van LETS en nationaal geld kan je aan het werk zien in 
+&lt;a href=&#34;https://www.youtube.com/watch?v=S8V_exZFrDY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;deze CBC-reportage uit 1986&lt;/a&gt;
+. &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.context.org/iclib/ic07/linton/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The LETSystem, a local currency that works, 1984, Context Institute&lt;/a&gt;
+ &lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://archive.lets.net/gmlets/letsplay/id-9-2.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Definition of a LETSystem, 1986&lt;/a&gt;
+: Verspreiding samen met LETS accounting software op floppy diskettes. &lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://manual.letsa.net/en/1.1.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the LETSystem Design Manual, 1994&lt;/a&gt;
+ &lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://letsvlaanderen.be&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website van LETS Vlaanderen vzw&lt;/a&gt;
+ &lt;a href=&#34;#fnref:9&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://manual.letsa.net/en/1.3.html#community&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the LETSystem Design Manual: Community&lt;/a&gt;
+ &lt;a href=&#34;#fnref:10&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://youtu.be/I0cLfevh6G4?t=133&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leen van LETS Vlaanderen vzw over het onstaan van LETS&lt;/a&gt;
+ &lt;a href=&#34;#fnref:11&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:12&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.letsvlaanderen.be/portals/letsvl/Files/Documents/2017/LETS-charter%20definitief.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Het LETS Charter van LETS Vlaanderen vzw&lt;/a&gt;
+ &lt;a href=&#34;#fnref:12&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
-     </item>
-   
- </channel>
+    </item>
+    
+    <item>
+      <title>&#34;InterLETS&#34;
+</title>
+      <link>https://reclaim.letsa.net/posts/interlets/</link>
+      <pubDate>Sat, 03 Mar 2018 18:54:18 +0100</pubDate>
+      <guid>https://reclaim.letsa.net/posts/interlets/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Ik sprak met Michael Linton over intertrading tussen LETSystemen ofwel wat men weleens &amp;ldquo;interLETS&amp;rdquo; pleegt te nemen.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Ik denk dat ik een probleem zie met &amp;ldquo;interLETS&amp;rdquo;. Wanneer je een ander systeem koppelt, wordt je economisch één groter systeem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Het hele idee van intersysteem handel heb ik verworpen gedurende bijna 30 jaar. Sinds 1986 heb ik steeds gezegd &amp;hellip; wel, dat is 30 jaar &amp;hellip; doe NIET aan zulke intersysteem handel. Het is een slecht idee, systematisch, sociaal, economisch, technisch. En het is totaal overbodig! Want, het is volstrekt eenvoudig om bijkomende systemen te creëren.  De mensen die over heel Vlaanderen handel willen drijven kunnen een over-heel-Vlaanderen-systeem hebben. En ze moeten niet hun eigen gemeenschap laten opgaan in &amp;hellip;  daar verantwoordelijk voor te zijn of verantwoordelijkheid voor te nemen.  De mensen die handel op grotere schaal willen doen, zouden grote schaal handel moeten doen, op hun voorwaarden, in die wereld. En niet trachten te preken dat mijn munt goed is want ik heb een goed netwerk en zo kunnen we handel drijven met andere netwerken die goed zijn. Heel spoedig begin je te praten over wie goed en wie slecht is. En, ah &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+&amp;hellip; Dan wordt het moeilijk. Je hebt helemaal geen invloed wat er gebeurt in een ander systeem. Je hebt veel minder controle over wat er gaande is.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+En dus is het argument: we hebben betere controlesystemen nodig, beter bestuur in deze netwerken.  We hebben normen. Mensen moeten het op DEZE manier doen. Anders maken ze geen deel uit van &amp;hellip; Dus ben je terug in een &amp;hellip; centrale bureaucratie met administatieve angsten die vooral passen bij een kerk. Dit is kerk-gedrag dat we zien bij deze &amp;ldquo;interLETS&amp;rdquo; systemen en ik vind ze &amp;hellip; intellectueel absurd, ethisch uitdagend en technisch ridicuul. Dus, ik ben niet hard voor intersysteem handel. Ik heb er sterke gevoelens over (lacht).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Technisch is het ook ingewikkeld. We hebben er heel wat over gedacht. Maar ik ben nu ook tot de conclusie gekomen, na jouw documenten gelezen te hebben vorige week, dat systemen gescheiden moeten blijven. Er moet een veelvoud &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Ja, veelvouden van initiatieven. Zo dat er ruimte is voor elke vorm, elk type, elke situatie. En we proberen niet alles te repareren met één stuk gereedschap. Eén van de grootste gevechten die plaatsvond op dit terrein waren de mensen die zeiden dat het een tijdbank moest zijn. En andere mensen zeiden, nee, het moet gebaseerd zijn op de euro of de dollar. Weet je? Geld versus tijd. En het gevecht dat in dat soort conversatie plaatsvindt neigt ernaar te eindigen met mensen die ontevreden zijn met de oplossing van de winnaar. Want het is geen winnaar. Het is gewoon een andere manier van verliezen. En we hebben dat soort van fragmentatie de vooruitgang zien blokkeren van wat essentieel de meest eenvoudige vorm van verspreiding is, wat inhoudt &amp;hellip; inloggen en een muntsysteem creëren. Of je er één wil voor dit stuk van Antwerpen of dat stuk van België. Dit stuk van Noord Europa. Deze Verzameling. De homo gemeenschap. De kinderen. De bejaarden. Vrouwen &amp;hellip; Vrouwen moeten hun eigen muntsystemen hebben. Zeker! Dat is wel één ding wat het laatste verkiezingprobleem bewezen heeft: Dat mannen niet nadenken. We moeten de mogelijkheden scheppen die andere sectoren van de maatschappij activeren.&lt;/p&gt;
+&lt;p&gt;Maarten Vandekeybus&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ontwikkeling</title>
+      <link>https://reclaim.letsa.net/posts/ontwikkeling/</link>
+      <pubDate>Wed, 15 Nov 2017 18:55:52 +0100</pubDate>
+      <guid>https://reclaim.letsa.net/posts/ontwikkeling/</guid>
+      <description>&lt;p&gt;Ontwikkeling van LETSystemen
+en financiering van ontwikkeling&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Een voormalig lid van &amp;ldquo;LETS Antwerpen Stad vzw&amp;rdquo;, Christine, had gesproken met Michael Linton en had geuit zij het moeilijk vond om deel te nemen. Waarop Michael Linton had geantwoord dat hij drie mankementen zag. Christine kon zich niet precies meer herinneren wat Michael Linton geantwoord had. Dus stelde ik hem zelf de vraag. &amp;ldquo;Wat zijn de drie mankementen die je ziet bij LETS Antwerpen Stad vzw?&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(*Inmiddels heeft LETS Antwerpen Stad vzw op haar algemene vergadering van april 2019 besloten dat de vereniging hernoemd wordt naar Tijdbank Antwerpen Stad vzw, daar het besef is gegroeid dat haar activiteit niet valt onder de definitie van een LETSysteem.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Dus, drie dingen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Kleinschaligheid&lt;/li&gt;
+&lt;li&gt;Niet de bedrijven betrekken: de restaurants, de kleinhandel, de kapsalons, de medische &amp;hellip; En de hele wereld gebruikt geld. Waarom zou de wereld geen geld gebruiken dat rondgaat en terugkomt? Ze niet betrekken is waardeloos denk ik.&lt;/li&gt;
+&lt;li&gt;Waarschijnlijk ging het over &amp;ldquo;interLETS&amp;rdquo;. Ik denk dat Christine dat ten berde bracht en ik zal waarschijnlijk hebben gezegd: Vergeet het. Dat is krankzinnig.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ik denk dat het allemaal neerkomt op: Zie je opportuniteit of zie je enkel één antwoord, één oplossing? En dat er een gevoel is dat zegt: &amp;ldquo;DIT zal werken! We gaan het ZO doen&amp;rdquo;? Wanneer mensen zo denken worden ze heel gering in hun analyse en benadering. En dat is waarschijnlijk het cruciale probleem.
+Het niet zien van de reikwijdte en de mogelijkheid wat dit inhoudt. &amp;hellip; Dat er niets is van wat we met conventioneel geld doen dat ook niet een gemeenschapsgeldnetwerk ermee verbonden kan hebben. En wij streven naar &amp;hellip; wel, ik bedoel niet echt &amp;ldquo;streven&amp;rdquo;, &amp;hellip; Wij verwachten dat geldnetwerken van het soort dat we beschrijven, eenvoudige wederzijds kredietsystemen, dat deze tot 30 procent van de economie kunnen uitmaken. Dat een stad als Antwerpen misschien 10.000 geldsoorten kan hebben, in werking in Antwerpen zelf. Misschien enkel 15 à 20 of zoiets die groot zijn, substantieel, overheersend. Die &amp;ldquo;het&amp;rdquo; geld zijn. Dit is het geld waar je gewoon aan raakt. Maar daarbuiten, al die sectoren. Al die specifiteiten. Al die tribale relaties&amp;hellip; De kudde mensen die een voetbal club volgen. Degenen die houden van die muziekgroep. De mensen die dat theater volgen. Mensen wiens kinderen op die school zitten. Al die groepen die een reden hebben om naar zichzelf te kijken &amp;hellip; Niet om anderen uit te sluiten, maar om te verbeteren wat ze met zichzelf kunnen doen.
+Dat is niet om te zeggen: wij en niet de anderen, maar om te zeggen: we kunnen het beter doen. We zouden dus iedereen in Antwerpen met Open Money accounts willen zien en zo armoede willen elimineren in Antwerpen. In noord Europa. In de wereld.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Op dit moment is het een nogal exclusief &amp;hellip; De gedachte hier is gewoonlijk min of meer dat je niet meer dan één LETSysteem in hetzelfde gebied kan hebben&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Kerk? Klinkt je dat niet als een kerk in de oren? Mij lijkt me dat een kerk.
+Weet je. Dit is hoe deze controle mechanismen en angsten over verschillen zich manifesteren. En zich vertonen als institutionele administratieve macht en controle.
+Ik ging eens naar Australië. En in het westen van Australië, in Perth, waren ongeveer 10 LETSystemen. In die stad en regio. En ik dacht: Oh, fantastisch, deze jongens zijn helemaal klaar om deel uit te maken van hun grotere netwerken en zo. Geen &amp;ldquo;interLETS&amp;rdquo;, maar een groter systeem. Waarom hebben we niet eveneens een groter systeem? En dat was wanneer we voor het eerst software hadden die dat mogelijk maakte. Het was feitelijk geschreven in &amp;lsquo;92, in Perth, Australië. Toen ik daar was zat ik naast de programmeur en ik sloeg hem tot hij het resultaat produceerde. Een goede manier! Het waren enkel DOS programma&amp;rsquo;s echter. En we probeerden die DOS programma&amp;rsquo;s over te zetten op Windows en later naar het internet. Het was echt &amp;hellip; We konden het nooit echt aantrekkelijk maken. Maar toen we daar in die omstandigheden in West Australië waren met deze 10 systemen en ik zei: Waarom werken we niet allemaal samen? Dan zeiden alle beheerders daarop nee. Het zou hun systeem beschadigen om deel uit te maken van enig iets anders dan henzelf. En er was een soort van sociale psychose onder de beheerders denk ik. Ze waren zelf-afhankelijk en zelf-bevestigend. Ze geloofden hun eigen fantasie. En het leek erop dat ik niets kon doen.
+En ik heb dit vele keren meegemaakt sindsdien. Dat, als een systeem een het een tijdje overleeft, zelfs maar een paar jaar, dat er dan de neiging bestaat dat 2 of 3 mensen het beheren, karakteriseren, definiëren en vormgeven. En ze staan erop dat het enkel zo moet zoals zij het zien. Het is natuurlijk. Het is hoe de menselijke cultuur altijd heeft geassimileerd en zich dingen toegeëigend. We trachten eerder te situatie te beheersen dan er open voor te staan. En dus denk ik dat deze gesloten gedragingen het natuurlijke gevolg zijn van een open opportuniteit. En dat is zwaar. Ik ben erg kritisch, weet je. ERG kritisch. Maar, zo lijken de dingen te zijn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Wel, misschien als het heel gemakkelijk wordt om systemen te creëren &amp;hellip; Als de software het mogelijk maakt dat je een systeem kan creëren met een muisklik &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Ja, dat is alles wat je moet doen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+&amp;hellip; Als natuurlijk gevolg zullen dan vele systemen gecreëerd worden.
+&amp;hellip; Maar dan moeten deze nog altijd bekostigd worden op de één of de andere manier. Vele systemen en gebruikers zullen gecreëerd worden.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Ik denk dat het heel wat tijd zal duren eer kosten door trafiek van zodanig belang zullen zijn dat we beginnen nadenken over gelokaliseerde installaties, load shedding, gedistribueerde centers enzovoort. Op dit moment is ons systeem niet volledig gedistribueerd.
+Het einddoel is dat je telefoon een server is. En mijn telefoon is ook een server. En dat we met elkaar kunnen communiceren met het Open Money protocol. En datgene wat in enige mate gecentraliseerd is, zijn enkel de namen van de mensen die toegang hebben tot deze geldsoort. We zouden waarschijnlijk een blockchain gebruiken om vast te leggen dat de Antwerpse munt deze mensen omvat. Of deze bedrijven. Maar dat is alles waar we de blockchain  voor hebben. Het is de enige referentie. En het zou een gelokaliseerde blockchain zijn. We gaan het enkel laten bestaan
+bij mensen voor wie het betekenis heeft,. Bijvoorbeeld de partijen in het Antwerpse systeem. Mijn telefoon, keyboard, desktop, eender wat, &amp;hellip; Mijn toestel zou dan een transactie zenden naar het jouwe. Dat zou cryptografisch geëncodeerd zijn en de transacties bestaan dan enkel tussen de twee spelers en de muntbeheerder.
+De muntbeheerder is degene die de munt geopend en gedeclareerd heeft. En er kunnen meerdere muntbeheerders zijn. Zij zien de hele transactiegeschiedenis. En dat schaft hen gelegenheid om een transactie te blokkeren, of ongedaan te maken, of een persoon te blokkeren in de munt. Maar dat is alles. Er is niet meer dat je kan doen dan te zeggen, je bent een storend element, ga weg, en mensen aldus te blokkeren.
+Maar uiteindelijk moet de situatie zijn dat de kleine gecentraliseerde belasting plaatselijk gelokaliseerd wordt en dat alle trafiek feitelijk gedragen wordt door de toestellen van gebruikers.
+We hebben de werkingskosten van LETSystemen nooit als significant beschouwd.
+De kost van ontwikkeling en propaganda is WEL significant. HEEL significant. En tenzij er een ontwikkelingsprogramma bestaat van misschien 10, 20 mensen die werken aan communicatie, publiciteit, introductie, opleiding, eender wat, &amp;hellip; zonder dat &amp;hellip; groeit het maar heel traag en heel raar. Maar anders ligt het met, zeg maar, een half dozijn mensen in Antwerpen die een degelijk ontwikkelingsprogramma managen dat bedrijven binnenhaalt. VEEL bedrijven.
+En van deze bedrijven krijg je een bijdrage. De bedrijven zullen betalen voor de opleiding om dit nieuwe geld te gebruiken. Je rekent hen niets aan om het geld te hebben. Het geld is gratis. Het systeem is gratis. De opportuniteit is gratis. Er is voor niemand enige belemmering om het systeem te gebruiken. Weze het Unilever of Philips. Zij kunnen toegang hebben tot het systeem. En we zullen niet &amp;hellip; We rekenen hen niets aan. Maar als zij de ontwikkeling willen ondersteunen, dan betalen zij een bijdrage voor de opleiding. Een bijdrage voor een Antwerpse ontwikkelingsgroep, of een Amsterdamse ontwikkelingsgroep, of een Kopenhaagse ontwikkelingsgroep, of eender waar. &amp;hellip; Er moet gelokaliseerde ontwikkeling zijn want lokaal is waar het plaatsvindt.
+En onze visie is dat dat gefinancierd kan worden en dat dat gefinancierd MOET worden en dat dat gefinancierd moet worden vanuit de interne werking. Niet vanuit overheidssubsidie of een filantropisch agentschap of durfkapitalisten of iets van die strekking. Het zou een erg eenvoudig &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Van onderuit? Want je ziet problemen wanneer het van bovenaf komt? Dat het misschien vergezeld is met een bepaald programma wanneer het van bovenaf komt?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Er is een neiging &amp;hellip; Bij voorbeeld, de mensen in Antwerpen die een subsidie hadden om software te schrijven voor dit, hebben mij nooit gecontacteerd &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Misschien was je destijds niet zo goed bereikbaar? Ok, ik veronderstel dat ze je een e-mail hadden kunnen sturen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Ja, ik was in Londen destijds. Ik was dus niet ver weg. En, &amp;hellip; maar ze hebben het niet gedaan, zie je? En dat is wat gebeurt wanneer mensen geld vinden dat van ergens komt. Oh, we hebben een subsidie. WIJ hebben een subsidie. WIJ. En ze sluiten zich af. En ze worden een kleine wereld op zichzelf. En dan worden ze gewoon een kleinzielig spelletje. En in het algemeen draait dat spelletje rond de vraag: &amp;ldquo;Wat brengt ons naar de volgende subsidie?&amp;rdquo; Dus probeer je je te schikken naar de veronderstellingen van de subsidie-verstrekker, enzovoorts. Dus, het is een erg armzalig, bekrompen model. En het is een model dat begint met de verklaring: &amp;ldquo;Ons geld heeft geen betekenis. We hebben jouw geld nodig, zodat we ons zielige spelletje kunnen spelen.&amp;rdquo; Dat is wat er echt gezegd wordt. Als we onze systemen niet effectief kunnen gebruiken en vanuit hen de middelen kunnen genereren die we nodig hebben om ze uit te breiden, te ontplooien en te verbeteren, dan werken onze systemen niet. Het is de oude theorie in software: Eat your own dog food. Gebruik je eigen software. Als je niet je eigen software gebruikt. Dan &amp;hellip; waarom? En wat betreft de kwestie van het genereren van inkomsten &amp;hellip; Als ons geld niet goed genoeg is voor ons &amp;hellip; Waar zijn we dan mee bezig? Dus ik denk dat de uitdaging die elke serieuze ontwikkelingsgroep op zich moet nemen, is te kijken hoe dit middel te gebruiken om om zichzelf op te starten.
+En we hebben onze visie hierop gepubliceerd. En onze implementaties vele malen gedemonstreerd. Maar buiten de stad  &amp;hellip; We zijn hier 4 uur verwijderd van Vancouver en 3 uur van Victoria &amp;hellip; Dat zijn onze twee grote steden &amp;hellip; Dat maakt het heel duur om het daar te proberen en een kantoor te openen, een proces op te starten, een ontwikkeling op poten te zetten. We hebben zo vier pogingen gedaan om in een stad te zijn. En we gingen telkens helemaal blut.
+En in mijn eigen lokale plaatsje &amp;hellip; Hoewel het ons niets kost om het hier te doen. Weet je, ik woon hier. Ik moet geen kamer hebben om in te werken en een kamer om in te slapen. Wel, ik HEB een kamer om in te werken en om in te slapen. (lacht) Deze plaats is dus goedkoop. Maar ze is ook &amp;hellip; We hebben gedurende 30 jaar gesproken hier in dit plaatsje. Wat betekent dat gedurende 30 jaar mensen ons genegeerd hebben. En ze zullen het nog een tiental jaren doen. We hebben dus een probleem dat we middelen kunnen ontwikkelen op deze rare plaats die we niet echt kunnen gebruiken. En onze taak is om elders mensen te vinden die deze gereedschappen kunnen gebruiken. Mensen die ze kunnen begrijpen &amp;hellip; om ze tot significant genererende eenheden te maken in hun wereld.&lt;/p&gt;
+&lt;p&gt;Maarten Vandekeybus&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Charter</title>
+      <link>https://reclaim.letsa.net/posts/charter/</link>
+      <pubDate>Fri, 05 May 2017 18:54:36 +0100</pubDate>
+      <guid>https://reclaim.letsa.net/posts/charter/</guid>
+      <description>&lt;h2 id=&#34;het-charter-van-lets-vlaanderen-vzw&#34;&gt;Het Charter van LETS Vlaanderen vzw&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;In november 2016 lanceerde LETS Vlaanderen vzw haar zogenaamde &amp;ldquo;LETS Charter&amp;rdquo;. Een week voor dit evenement sprak ik hierover met Michael Linton.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Vandaag de dag wordt LETS hier in Vlaanderen anders bekeken dan wat ik gelezen heb in uw handboek.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Ja.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Volgende week gaan ze een manifest maken, &amp;hellip; deze organisatie waar ik je over verteld heb &amp;hellip; waarin ze bijvoorbeeld zeggen: &amp;ldquo;LETS is gebaseerd op tijd.&amp;rdquo; (Michael lacht) Het is een Charter dat ze samen gaan tekenen in Brussel in aanwezigheid van de minister van cultuur (Sven Gatz). Ik vertel ze dan: &amp;ldquo;Waarom doen jullie dit? Het is niet jullie concept. Het is een concept dat reeds lang geleden werd uitgebracht door Michael Linton&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Ja, dit is ons eerste &amp;ldquo;handboek&amp;rdquo; (toont flyer uit 1982). Onze bekendmaking was gewoon één pagina. Dit is het, weet je. Dit was alles wat we hadden om het LETSysteem uit te leggen, twee pagina&amp;rsquo;s. En wat we zeiden was dat wederzijds krediet uitgedrukt kan worden in eender wat. Of &amp;hellip; zou uitgedrukt kunnen worden in eender wat. Er zouden tijdbanken moeten zijn. Er zouden op dollar gebaseerde systemen moeten zijn. Er zouden systemen moeten zijn die gebaseerd kunnen zijn op &amp;hellip; oh, ik weet niet &amp;hellip; de toekomstige prijs van suiker, als je het ingewikkeld wil maken op de één of andere manier. En er is geen enkele specifieke weerstand tegen enige van deze, behalve dat wij zeiden dat het LETSysteem, en we zijn heel specifiek over het LETSysteem, &amp;hellip; we zeiden dat het LETSysteem:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dat het een publieke dienst is.&lt;/li&gt;
+&lt;li&gt;Het opereert aan werkingskosten.&lt;/li&gt;
+&lt;li&gt;Er wordt geen rente geheven.&lt;/li&gt;
+&lt;li&gt;Niemand controleert een ander. Dus er zijn geen kredietlimieten of eender wat in die aard.&lt;/li&gt;
+&lt;li&gt;En fundamenteel meten we in de standaard nationale munteenheid.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Een LETSysteem is bedoeld als &amp;ldquo;straatgeld&amp;rdquo;: het kleine bedrijf, het huishouden, de familie. Het is hetgene dat je leert kennen als lokaal-is-dit-ons-geld. En we wilden dat het duidelijk was dat het &amp;ldquo;geld&amp;rdquo; was en duidelijk dat LETSystemen GEEN tijdbanken zijn.&lt;/p&gt;
+&lt;p&gt;Nu, Open Moneyiv omvat alles. Je kan dus tijdbanken hebben in Open Money. En dat kan je duidelijk apart houden van de bedrijfsgebaseerde en de interactief gebaseerde LETSystemen &amp;hellip;
+Ik denk dat &amp;ldquo;tijd&amp;rdquo; prachtig is als geabstraheerd principe. Het is een prachtig iets om te doen maar het zal de relevantie van het systeem beperken tot 1 of 2 procent van de gemeenschap, 1 of 2 procent van de mensen hun leven er doorheen. 98 procent van de mensen en 98 procent van de mensen die tijdbanken gebruiken zullen nog steeds conventioneel geld gebruiken en nog altijd hun leven leiden op exact dezelfde wijze als zij altijd voorheen gedaan hebben.
+Dus denk ik dat het een klassieker is. En als je kans hebt om dit over te brengen aan de groep die het Charter maakt: Noem het de BELLETS [cfr. België]. Noem het geen LETSystemen. Noem het wat je verdomme leuk vindt. Maar niet &amp;hellip; niet &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Ja, dat dacht ik ook. Ik had hier geen goed gevoel over.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Wel, dank je. Ik appreciëer je gevoelens. Het zijn ook de mijne. Het IS niet juist. Het is volstrekte bullshit. En ik belet hen niet om tijdbanken te creëren. Noem ze gewoon tijdbanken.&lt;/p&gt;
+&lt;p&gt;Maarten Vandekeybus&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wat met Mensen die sterven in je LETSysteem?</title>
+      <link>https://reclaim.letsa.net/posts/account/</link>
+      <pubDate>Wed, 22 Mar 2017 09:51:12 +0100</pubDate>
+      <guid>https://reclaim.letsa.net/posts/account/</guid>
+      <description>&lt;p&gt;Dat is de vraag die ik stelde aan Michael Linton.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Wat te doen met mensen die je systeem verlaten met een account onder nul? Of, mensen die sterven?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Ja! Begraaf ze! Begraaf ze, dat is de hoofdzaak. &amp;hellip; Ken je ons LETSplay spel? Heb je het spel gezien?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Ik heb het vluchtig bekeken maar niet gespeeld of zo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Wel, het is &amp;hellip; (neemt het spel) &amp;hellip; het is een heel goed spel om mensen wakker te maken. Dit is het spel. (Toont papier met het spel) Juist? 200 dollar Monopoly geld en een stuk papier. &lt;img src=&#34;https://reclaim.letsa.net/images/e-letsplay.png&#34; alt=&#34;LETSplay&#34;&gt; En, het is een goed spel voor rond de tafel, met 10 mensen, 20 mensen &amp;hellip; 200 mensen! Maar we hebben het ook online op &lt;a href=&#34;http://openmoney.ca/letsplay&#34;&gt;http://openmoney.ca/letsplay&lt;/a&gt; Je vind daar een online spel. &amp;hellip; Nu, wat dit spel doet, is dat het je toont wat je moet doen met mensen die sterven &amp;hellip; en mensen die bedriegen en mensen die zwendelaars zijn en mensen die idioten zijn. En het legt uit hoe het systeem zich daar geen zorgen om hoeft te maken &amp;hellip; En iedereen doet het. Iedereen denkt, ow het systeem kan niet werken als er mensen zijn die idioten zijn of die bedriegers zijn of ze zijn &amp;hellip;  of ze sterven. Maar eigenlijk is het geen probleem. En dat is het verschil tussen &amp;ldquo;netwerk-geld&amp;rdquo; en &amp;ldquo;bezits-geld&amp;rdquo;. Al onze geldsystemen waar we gewoon aan zijn is &amp;ldquo;bezits-geld&amp;rdquo;. Dus, het is een hoop spul. Je hebt dat spul. En wanneer je het uitgeeft, heb je het niet meer. Je moet meer hopen spul hebben, nietwaar? Zo, dat zijn onze vaten in een waterval. Het water stroomt in het vat. Het water stroomt uit het vat. Zo werkt het. Nu, in deze systemen is bedrog werkelijk destructief &amp;hellip; Iemand die dat geld steelt maakt iemand anders onmiddelijk arm. Het is een geweldadige daad. Beschadigend. Het is anti-sociaal. Het is diefstal. Het is fraude. En er zijn goede redenen waarom het een probleem is. Maar de redenen waarom het een probleem is is vanwege de aard van het geld. In een wederzijds krediet netwerk, als daar iemand stopt met handel drijven,  ofwel ze een negatief saldo of een heel positief saldo hebben, of een nul saldo &amp;hellip; dat ze stoppen met handel drijven betekent gewoon dat in dat network van oscillatie, één oscillator bevrozen is. &amp;hellip; Bevrozen. Misschien hoog bevrozen, misschien laag bevrozen, misschien op nul bevrozen. Het is niet aan het meespelen. Maar er zijn nog honderd of tweehonderd of tweeduizend knooppunten eromheen die gewoon geld overmaken. Dus het netwerk gaat door als een netwerk. En ofschoon deze persoon misschien een piano gekocht heeft, 3000 euro of zo in een account gestort heeft en verder nooit iets gedaan heeft, breekt dat niet het geldsysteem. Het betekent dat een piano weg is. En dat is niet goed. Maar het geldsysteem is niet aangetast door het feit dat deze persoon niet hier is.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+En wat doe je met het account?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Laat het. Laat het gewoon bevrozen. Het maakt deel uit van de registratie van de realiteit en het maakt &amp;hellip; het laat de persoon toe om eens in het systeem terug te komen en af te lossen, om zich beter te gedragen. Maar wat we niet doen is hen proberen te laten betalen, mensen te achtervolgen, toezicht op hen te houden, hen te controleren. Van zodra je daarmee begint, start je een nieuw politiesysteem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Maar representeren de accounts niet de beloften van mensen? En als de beloften er niet meer zijn, vertegenwoordigen de accounts dan nog de realiteit?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Ze doen het. En inderdaad als je het probeert en een systeem neemt en het op nul probeert te brengen, juist? We gaan allemaal terugkomen naar nul. Dus, iedereen die geld heeft, moet het uitgeven en de negatieven moeten het verdienen. Dan zal je een afwijking hebben. Want die kerel ging naar Rio de Janeiro. Hij is niet meer hier. Een andere stierf, weet je? Allemaal van dat soort dingen. Dus, als je probeert een systeem te stoppen en na te kijken of het degelijk is, dat is zoals het stoppen van een vliegtuig in de lucht om te kijken of het vliegt. Dat is het NIET wanneer je het stopt. En als je evenzo één van deze systemen brengt in &amp;ldquo;laten we controleren of iedereen wel goed is&amp;rdquo;, dan zal je tot de bevinding komen dat niet iedereen goed is en dat is het bewijs. Maar aan de andere kant, als je negeert, is er geen probleem. Zie je, wat een LETSysteem of wederzijds krediet-systeem echt is, ben ik die dit doet (beweegt hand op en neer). Dit ben ik. Ik ga op en neer. &amp;ldquo;Ik&amp;rdquo; ga op en neer. Ik verdien, ik geef uit, ik verdien, ik geef uit. Ik ga gewoon op en neer. Verdienen en uitgeven, verdienen en uitgeven. Wat gebeurt er met dat geld? Wel, het gaat weg en rond in deze lussen buiten mijn bevattingsvermogen. Ik weet niet wat er gebeurt. Ik geef geld uit. Het gaat weg en cirkelt rond en iemand huurt me. Als ik me zorgen begin te maken over wat daarbuiten gebeurt, dan vestig ik mijn aandacht op zaken waar ik geen zaken mee heb. Mijn taak is om rechtschapen en effectief te zijn in wat ik verdien en uitgeef. Ik ben in het centrum van deze draaikolk, deze kring, rookkring, en het is een rookkring. Dat is echt wat het is. Ik geef uit en het spul stroomt in het rond en komt weer bij mij als een inkomen. En mijn taak is om mezelf te zijn. Me met mijn eigen zaken bezig houden. En als ik me met mijn eigen zaken bezig hou, dat zal het systeem goed voor me werken. Dan moet ik er niet mee inzitten of iemand een dwaas of een idioot is geweest. Want ik ben het niet. Maar van zodra dat we denken dat het systeem vereist dat we allemaal vrienden zijn, van elkaar houden, we elkaar allemaal vertrouwen, we geen v &amp;hellip; Weet je &amp;hellip; Van zodra je in die mentale trip zit &amp;hellip; ben je fout! Het hele
+ding is dan afgegleden naar een heel ander oord. En wat we moeten doen is verantwoordelijke individuen zijn in deze netwerken. Dan zal het netwerk werken. Als we blijven proberen het te controleren en trachten te voorkomen dat het verkeerd gaat en dat mensen geen slechte dingen doen of dat mensen &amp;hellip; Eender wat we proberen op te leggen of op te dringen gaat zich wreken. Het gaat precies datgene bewerkstelligen wat we vrezen. Dus, daarom zeggen we &amp;ldquo;LETSysteem&amp;rdquo;. Daarom zeggen we &amp;ldquo;Open Money&amp;rdquo;. Daarom zeggen we dat het geld in deze netwerken mijn persoonlijke belofte en aflossing is in mijn eigen gemeenschap. Het is &amp;ldquo;ik&amp;rdquo;! Elk systeem waar ik in ben, ben &amp;ldquo;ik&amp;rdquo;. Is alleen ik. En het is alle andere &amp;ldquo;ik&amp;rsquo;s&amp;rdquo;, maar iedereen moet zichzelf zijn natuurlijk. En daaruit ontstaat een netwerk. Terwijl als we aan de andere kant zeggen dat we het allemaal op de juiste manier gaan doen en we gaan een vereniging vormen, de vereniging is dit, er is een bestuur, er zijn regels, er zijn &amp;hellip; Weet je &amp;hellip; (Schudt het hoofd) &amp;hellip; Zucht &amp;hellip; Je probeert te vliegen met een bus. De bus zal niet vliegen. Als je wil vliegen, bouw dan een vliegtuig.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Betekent dat ook dat je de gemeenschap nooit kan verlaten? Je zal er altijd deel van uitmaken, zodra je toetreedt?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Ik denk het. Ik denk dat het zinnig is hier te beseffen dat dit mij een verslag biedt van wie ik ben en wat ik ben in mijn wereld. Een verslag dat ik zelf schrijf. En dat anderen aan mij schrijven. Iemand zegt, goed werk, Michael, hier heb je veertig dollar of vier honderd dit of dat. Dat is een bevestiging vanwege een ander persoon van mijn waarde. Dus het bevindt zich allemaal op mijn verslag, oftewel mijn waarderingen van anderen en anderen hun waarderingen van mij. Dat is het. En, in twintig verschillende munteenheden. Mijn lokale, mijn technische, mijn voetbal club, mijn kerk, eender wat. Elk van deze is een verslag dat meer of minder publiek zichtbaar kan zijn. Ik denk zeker niet dat accounts publiek gemaakt zouden moeten worden. Ik denk dat dat één van de dingen was die Christine zei, dat alle accounts publiek zijn en iedereen alles kan zien. Nee! (schudt het hoofd)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Publieke accounts, niet eens binnenin de groep, bedoel je?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Nee, niet noodzakelijk. Ik bedoel, wanneer ik naar mijn bank ga &amp;hellip; Of stel dat ik je wat geld wil sturen, Maarten, dan geef jij mij een rekeningnummer. Je geeft me een SWIFT code, een account. Maar ik kan niet naar je bank gaan en zeggen geef me alle namen van de accounts, asjeblieft. En wat is hun rekeningstand? Dat zou een absurde inbreuk zijn van hetgene wat we als privé en persoonlijk beschouwen. En ik zie niet waarom het LETSysteem zou moeten denken dat het publiek is. Nee, wat we willen doen is &amp;hellip; We willen de grafiek van het LETSplay ding beginnen te gebruiken. De distributie van stippen &amp;hellip; is een belangrijke statistiek. Het is een belangrijk stuk data. Maar we zullen niet identificeren wie wie is in die stippenverzameling. Je moet weten wie jij bent in die stippen. Maar je moet niet weten wie al de rest is.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+(krabt het hoofd)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Juist! Nu, ja, er zullen sommige systemen zijn &amp;hellip; Als je een groot vastgoed project doet in het centrum van Antwerpen en er zijn miljoenen en miljoenen euro&amp;rsquo;s bij betrokken, dan zal elke transactie in een gemeenschapsmunt die deel uitmaakt van dat project natuurlijk heel publiek zichtbaar zijn aan de spelers. Ik zal deze transactie niet toelaten totdat ik instem dat ze consistent is met ons gemeenschappelijk doel in dat project. Weet je, dus ja, sommige dingen zullen geheel publiek zijn. Geheel goedgekeurd. Misschien moet iedereen tekenen voor deze ene transactie alvorens ze uitgevoerd kan worden. Maar in de straat, &amp;hellip; Nah, in de straat, en waar het ook is, ben ik &amp;ldquo;ik&amp;rdquo;. &lt;img src=&#34;https://reclaim.letsa.net/images/8.jpg#float-right&#34; alt=&#34;Michael Linton&#34;&gt; Ik koop en verkoop en verdien en speel en geef en krijg. Dat is het leven. En het is MIJN leven en het is privé.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Nodigt dat niet bepaalde mensen uit om enkel maar te genieten van de diensten en goederen van andere mensen?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Ze zullen heel snel zichtbaar zijn. In het bijzonder in kleine systemen. Nu, in een groter en groter systeem zullen ze minder evident zijn en zal er meer fraude zijn. Dus, als je een systeem hebt dat heel Vlaanderen omvat en je hebt, weet je, 3 miljoen mensen erin betrokken, dan zal er een hele hoop onzin zijn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Maar je kan niet mensen hun saldo en transacties zien? Je kan niet zien wat ze doen?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Niet meteen. Je kan een benadering van het systeem zien als geheel en dat zal tonen dat sommige mensen zich apart bevinden aan de negatieve kant, extreem. Zij zullen &amp;hellip; Zij zullen reactie krijgen van de munt-beheerders. Zij zullen reactie krijgen van andere mensen. Dingen zullen gebeuren, maar moeten niet afgedwongen worden. En, het is veel beter van niet. Het is veel, veel beter om gewoon dit zelfbegrip van dat netwerk &amp;hellip; zijn eigen extremen te laten beheren. Nu, in een klein systeem zal dat heel snel gebeuren. Met honderd mensen &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Maar gewoon iemand&amp;rsquo;s saldo zien is nog geen dwang, nietwaar? Het is gewoon informatie &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Dat is juist. En wij willen graag de saldi anoniem tonen &amp;hellip; en in de context van alles. Ja. Het LETSplay spel is de beste manier om feitelijk te ervaren wat dit betekent. En het moet ongeveer op dezelfde manier ervaren worden als we ervaren hoe we fietsen vooraleer we een fiets hebben. Weet je, je kan niet denken over fietsen of erover lezen en erop leren rijden door een boek. De enige manier om op een fiets te rijden is, is door het te doen. En wat je leert is niet verbaal. Het is fysisch. En gelijkaardig hebben mensen de vreemdste ideeën over geld en geen manier om ze te verkennen en er iets zinning van te maken. Het LETSplay spel &amp;hellip; is een beetje saai en vervelend. Het is niet bepaald een amusant spel. Alhoewel het leuk is als je twintig mensen in één kamer hebt. Dat is leuk; het is gegiechel. Maar, wat het spelen van het spel doet is dat het in mijn geest deze grafiek brengt (toont de LETSplay grafiek). Weet je? En deze grafiek is heel belangrijk. Het maakt alles begrijpelijk. En zonder die grafiek denk je met de woorden van andere mensen. En proberen iets uit te leggen aan iemand dat is &amp;hellip; systematisch &amp;hellip; En het in woorden proberen te doen. Nah, dat is inderdaad heel heel moeilijk. En beste dat je dikwijls krijgt is dat ze je woorden gehoord hebben en dat je denkt dat ze met je instemmen. Later kom je erachter dat je ze woorden gehoord hebben, maar wat ze voor ogen hadden niet hetgene was waarover je sprak. Want je bracht het ten berde zonder een grafiek. Maar als mensen dit spel spelen, dan wordt de eenvoudige daad van bewegen en markeren met de pen op het papier ingebed in mijn geest. En die inbedding is hetzelfde voor iedereen die het spel speelt. Dus, we hebben begin gemaakt van een gemeenschappelijke taal. Een taal waarin we de slechte handelaar kunnen beschrijven. En uitzoeken, hoe slecht is hij eigenlijk? Welk probleem geeft hij ons? Wel, hij geeft ons geen probleem van zodra we hem hebben opgemerkt en hem negeren. Het is een probleem, ja, als we hem niet opmerken en hij blijft uit het systeem putten en hij verzwakt het en steelt ervan op bepaalde manieren. Maar, &amp;hellip; is het niet aan ons om het op te merken? eh? En in een klein systeem wordt hij snel gevonden. En het zal voor hem dan mogelijk zijn om zijn reputatie te herstellen. Wel, dat is een groot verschil. In de conventionele wereld, als je failliet gaat is het HEEL moeilijk om je situatie te herstellen. Heel moeilijk. Daartegenover in één van deze systemen, als een kerel min 5000 is en niets gedaan heeft, wel, die 5000 maken deel uit van de economie. Alles wat hij maar moet doen is bereid zijn het te verdienen en hij kan het. Dus als er bereidwilligheid is, is er opportuniteit. Terwijl in de gewone economie kan ik bereid zijn mijn schuld te vereffenen. Ik zou graag mijn schuld vereffenen. Ik zou niet graag failliet zijn. Er niets wat ik eraan kan doen. Er is dus een enorm verschil. En het is gewaagd voor mensen om hun weg te vinden vanuit één verzameling van ingebouwde veronderstellingen en inzichten waarmee ze hun hele leven geleefd hebben. Ze begrijpen geld. We begrijpen allemaal geld. Het is dit gevaarlijke spul. Het maakt je kapot. Het is &amp;hellip; grote problemen. En, nu hebben een geldsoort die er ongeveer hetzelfde uitziet en zich hetzelfde gedraagt. Het bevindt zich op een bankkaart of bestaat misschien als papiergeld of misschien gebruiken we munten. We gebruiken houten munten in één van onze systemen, prachtig! Heerlijke kleine dingen, laser gegraveerde munten op een klein dun stukje fineerhout. Ze voelden er zich erg door aangetrokken. Mensen houden ervan. Het doet er niet toe wat het speeltje is. Wat je doet is monetair kopen en verkopen van elkaar met wat we noemen het Rondgaand Geld (Money-Go-Round). Money-Go-Round is onze merknaam voor dit. Het andere geld gaat weg. Elk ander geld op de planeet is een Ga-Geld, Geld-Verdwenen, Geld-Weg. Dat is wat het doet. Dat is hoe het werkt. En alle wederzijds krediet-geldsoorten zijn Money-Go-Rounds. &lt;img src=&#34;https://reclaim.letsa.net/images/4.jpg#float-right&#34; alt=&#34;Michael Linton&#34;&gt; Allemaal. Maak je keuze. Je kan beide hebben. In feite, je zou beide moeten hebben. We zeggen niet, je moet dat wegdoen en hierbij komen. We zeggen, wat is het probleem met met hebben van meer geld dat rondgaat? En, oh God, de problemen die mensen bedenken zijn verbazingwekkend. God zou er niet van houden. Ik weet niet. Het is &amp;hellip; Mensen zijn vijandig ten opzichte van opportuniteit. En dus moet je de opportuniteit aan hen heel zachtjes voorstellen. Het is dat ze zich bedreigd of uitgedaagd voelen of &amp;hellip; Ze denken dat je zegt dat ze idioot zijn (schudt het hoofd) &amp;hellip; Mensen houden er niet van wanneer ze denken dat je zegt dat ze idioot zijn.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maarten&lt;/strong&gt;&lt;br&gt;
+Ik begrijp het.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Michael&lt;/strong&gt;&lt;br&gt;
+Ja! We zijn &amp;hellip; We zijn idioot. Het woord idioot is eigenlijk geen afspiegeling van mijn brein. Het is een reflectie dat ik koplampen in mijn aangezicht heb en dat ik niet kan zien. Want het is zo &amp;hellip; Het heeft me te pakken. Ik ben verbijsterd door de situatie. En eigenlijk is onze hele maatschappij verbijsterd. We zijn idioot. We zitten vast. En we weten er niets van en we hebben idee wat te doen. Maar, er is Open Money (glimlacht).&lt;/p&gt;
+&lt;p&gt;Maarten Vandekeybus&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
 </rss>

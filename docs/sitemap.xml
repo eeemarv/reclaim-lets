@@ -3,43 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://reclaim.letsa.net/posts/ontwikkeling/</loc>
-    <lastmod>2020-01-22T18:55:52+01:00</lastmod>
+    <loc>https://reclaim.letsa.net/posts/las-wordt-tas/</loc>
+    <lastmod>2020-01-17T22:54:59+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://reclaim.letsa.net/</loc>
-    <lastmod>2020-01-22T18:55:52+01:00</lastmod>
+    <lastmod>2020-01-17T22:54:59+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://reclaim.letsa.net/posts/</loc>
-    <lastmod>2020-01-22T18:55:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reclaim.letsa.net/posts/charter/</loc>
-    <lastmod>2020-01-22T18:54:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reclaim.letsa.net/posts/interlets/</loc>
-    <lastmod>2020-01-22T18:54:18+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reclaim.letsa.net/posts/account/</loc>
-    <lastmod>2020-01-22T09:51:12+01:00</lastmod>
+    <lastmod>2020-01-17T22:54:59+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://reclaim.letsa.net/posts/open-money-en-democratie/</loc>
-    <lastmod>2020-01-18T18:19:41+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://reclaim.letsa.net/posts/las-wordt-tas/</loc>
-    <lastmod>2020-01-17T22:54:59+01:00</lastmod>
+    <lastmod>2019-03-30T18:19:41+01:00</lastmod>
   </url>
   
   <url>
@@ -58,12 +38,40 @@
   </url>
   
   <url>
-    <loc>https://reclaim.letsa.net/__index/</loc>
+    <loc>https://reclaim.letsa.net/home/</loc>
     <lastmod>2018-09-09T12:48:28+02:00</lastmod>
   </url>
   
   <url>
+    <loc>https://reclaim.letsa.net/posts/interlets/</loc>
+    <lastmod>2018-03-03T18:54:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reclaim.letsa.net/posts/ontwikkeling/</loc>
+    <lastmod>2017-11-15T18:55:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reclaim.letsa.net/posts/charter/</loc>
+    <lastmod>2017-05-05T18:54:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reclaim.letsa.net/posts/account/</loc>
+    <lastmod>2017-03-22T09:51:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reclaim.letsa.net/authors/</loc>
+  </url>
+  
+  <url>
     <loc>https://reclaim.letsa.net/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://reclaim.letsa.net/publication_types/</loc>
   </url>
   
   <url>

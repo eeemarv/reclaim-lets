@@ -2,8 +2,10 @@ baseURL: https://reclaim.letsa.net/
 languageCode: nl-be
 defaultContentLanguage: nl
 title: Open Money en LETS
-theme: kiera
-# publishDir: docs
+theme:
+  - academic
+  - kiera
+publishDir: docs
 params:
   tagline: Informatie over Open Money en LETS
 author:
