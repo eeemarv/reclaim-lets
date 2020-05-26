@@ -42,7 +42,7 @@ En ofschoon deze persoon misschien een piano gekocht heeft, 3000 euro of zo in e
 En wat doe je met het account?
 
 **Michael**\
-Laat het. Laat het gewoon bevrozen. Het maakt deel uit van de registratie van de realiteit en ... het laat de persoon toe om eens in het systeem terug te komen en af te lossen, om zich beter te gedragen.
+Laat het. Laat het gewoon bevrozen. Het maakt deel uit van de registratie van de realiteit en ... het laat de persoon toe om eens in het systeem terug te keren en af te lossen, om zich beter te gedragen.
 
 Maar wat we niet doen is hen proberen te laten betalen, mensen te achtervolgen, toezicht op hen te houden, hen te controleren. Van zodra je daarmee begint, start je een nieuw politiesysteem.
 
@@ -68,7 +68,7 @@ Dus, daarom zeggen we "LETSystem". Daarom zeggen we "Open Money". Daarom zeggen 
 
 Het is "ik"! Elk systeem waar ik in ben, ben "ik". Is alleen ik. En het is alle andere "ik's", maar iedereen moet zichzelf zijn natuurlijk. En daaruit ontstaat een netwerk.
 
-Terwijl als we aan de andere kant zeggen dat we het allemaal op de juiste manier gaan doen en we gaan een vereniging vormen. De vereniging is dit. Er is een bestuur. Er zijn regels. Er zijn ... Weet je ... (Schudt het hoofd) ... Zucht ... Dan probeer je te vliegen met een bus. De bus zal niet vliegen. Als je wil vliegen, bouw dan een vliegtuig.
+Terwijl als we aan de andere kant zeggen dat we het allemaal op de juiste manier gaan doen en dat we een vereniging vormen... De vereniging is dit. Er is een bestuur. Er zijn regels. Er zijn ... Weet je ... (Schudt het hoofd) ... Zucht ... Dan probeer je te vliegen met een bus. De bus zal niet vliegen. Als je wil vliegen, bouw dan een vliegtuig.
 
 **Maarten**\
 Betekent dat ook dat je de gemeenschap nooit kan verlaten? Je zal er altijd deel van uitmaken, zodra je toetreedt?
@@ -138,7 +138,7 @@ En het zal voor hem dan mogelijk zijn om zijn reputatie te herstellen. Wel, dat 
 
 In de conventionele wereld, als je failliet gaat is het HEEL moeilijk om je situatie te herstellen. Heel moeilijk. Daartegenover in één van deze systemen, als een kerel min 5000 is en niets gedaan heeft, wel, die 5000 maken deel uit van de economie. Alles wat hij maar moet doen is bereid zijn het te verdienen en hij kan het. Dus als er bereidwilligheid is, is er opportuniteit.
 
-Terwijl in de gewone economie kan ik bereid zijn mijn schuld te vereffenen. Ik zou graag mijn schuld vereffenen. Ik zou niet graag failliet zijn. Er niets wat ik eraan kan doen. Er is dus een enorm verschil.
+Terwijl in de gewone economie kan ik bereid zijn mijn schuld te vereffenen. Ik zou graag mijn schuld vereffenen. Ik zou niet graag failliet zijn. Maar er is niets wat ik eraan kan doen. Er is dus een enorm verschil.
 
 En het is gewaagd voor mensen om hun weg te vinden vanuit één verzameling van ingebouwde veronderstellingen en inzichten waarmee ze hun hele leven geleefd hebben.
 
@@ -164,6 +164,6 @@ Ik begrijp het.
 **Michael**\
 Ja! We zijn ... We zijn idioot. Het woord idioot is eigenlijk geen afspiegeling van mijn brein. Het is een reflectie dat ik koplampen in mijn aangezicht heb en dat ik niet kan zien. Want het is zo ... Het heeft me te pakken. Ik ben verbijsterd door de situatie.
 
-En eigenlijk is onze hele maatschappij verbijsterd. We zijn idioot. We zitten vast. En we weten er niets van en we hebben idee wat te doen. Maar, er is Open Money (glimlacht).
+En eigenlijk is onze hele maatschappij verbijsterd. We zijn idioot. We zitten vast. En we weten er niets van en we hebben geen idee wat te doen. Maar, er is Open Money (glimlacht).
 
 Maarten Vandekeybus
