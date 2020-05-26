@@ -7,7 +7,7 @@ title = "Posts"
 
 [content]
 page_type = "posts"
-count = 5
+count = 10
 offset = 0
 order = "desc"
 [content.filters]
