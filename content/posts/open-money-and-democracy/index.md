@@ -140,7 +140,10 @@ Ja, machtsystemen neigen ertoe systemen te creëren die machtsystemen beschermen
 En geld als het hoofdzakelijke mechanisme van onze sociaal-economische commerciële wereld is daarvan de grote trots.
 Degenen die het geld controleren, lijken de overheid te controleren. Degenen die de overheid controleren, lijken het geld te controleren.
 En 90% van ons bevinden zich buiten de kern van het spel. En te veel van ons proberen er in te geraken.
-Dat maakt deel uit van de dogmatische ideeën. 80% van de maatschappij lijkt wanhopig begerig om bij het feestje te geraken eerder dan voor hun thuis te zorgen. Het draait niet om economie. Het draait om opwinding en winnen. En dat geldt net zo voor de poltiek. ![Open Money](/images/open-money-inv.png#float-right)
+Dat maakt deel uit van de dogmatische ideeën. 80% van de maatschappij lijkt wanhopig begerig om bij het feestje te geraken eerder dan voor hun thuis te zorgen. Het draait niet om economie. Het draait om opwinding en winnen. En dat geldt net zo voor de poltiek.
+
+{{< figure src="open-money-inv.png" class="float-right w-50">}}
+
 Dus ik denk dat er geen hoop is voor de democratie, de echte democratie, tenzij er zich een verschuiving voordoet in het geld-kader. De wandelgangen van de macht zijn bezet en niemand wil er weg.
 
 **Ernie**\

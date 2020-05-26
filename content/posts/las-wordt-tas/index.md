@@ -14,7 +14,7 @@ _**LETS Antwerpen Stad vzw** (LAS) heeft op de algemene vergadering van april 20
 
 {{% alert note %}}
 
-Een ingekorte versie van dit artikel verscheen in het ledenmagazine "Nestel", nummer 48
+Een ingekorte versie van dit artikel verscheen in het ledenmagazine ["Nestel", nummer 48](https://s3.eu-central-1.amazonaws.com/letsa/las_d_8d25899c05c6517e0434ca68.pdf)
 
 {{% /alert %}}
 
@@ -141,7 +141,7 @@ Natuurlijk, conventioneel geld is ook nodig. We kunnen het conventionele geld ni
 
 Let wel, de maateenheid van een LETS is gelijk aan de euro (in Europa)
 Maar dat wil niet zeggen dat er algemene uitwisselbaarheid is met de
-euro. Zoiets is trouwens niet toegelaten zonder toelating van de
+euro. Zoiets mag trouwens niet zonder toelating van de
 Nationale Bank.
 
 Individuele partijen kunnen echter wel euro-geld
@@ -176,7 +176,7 @@ Er bestaat [een hele geschiedenis van tijdgebaseerde muntsystemen](https://en.wi
 
 Hij zag dat veel talenten en vaardigheden die intermenselijke banden verstevigen en voor warmte in onze maatschappij zorgen sterk ondergewaardeerd worden in de markteconomie.
 
-{{< figure src="time_and_euro.png" title="Tijd en euro" lightbox="true" class="float-right w-50" >}}
+{{< figure src="time_and_euro.png" title="Tijd en euro" class="float-right w-50" >}}
 
 De allesoverheersende op winst beluste economie vervormt ernstig onze kijk op de wereld en maakt dat een heleboel mensen als minderwaardig of "verloren mensen" beschouwd worden. En hij bedacht dat hulporganisaties niet efficient genoeg zijn omdat ze mensen in de rol van ontvanger duwen en daardoor het etiket van hulpbehoevendheid versterkt wordt.
 
