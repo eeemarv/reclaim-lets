@@ -1,5 +1,5 @@
 ---
-widget: 'blank'
+widget: blank
 weight: 20
 title: Open Money en LETS
 ---
@@ -18,6 +18,6 @@ Maarten Vandekeybus
 
 ---
 
-- [Open money](http://subsol.c3.hu/subsol_2/contributors0/lintontext.html) Michael Linton and Ernie Yacub
+- [Open money](http://subsol.c3.hu/subsol_2/contributors0/lintontext.html) Michael Linton and Ernie Yacub, 2003
 - [LETSystem Design Manual](https://manual.letsa.net/nl) Michael Linton and Angus Soutar, 1994 (Vertaling)
 - [The LETSystem](https://www.context.org/iclib/ic07/linton/) Micheal Linton, 1984
