@@ -1,7 +1,7 @@
 ---
 widget: blank
 weight: 20
-title: Open Money en LETS
+title: "Niet-elitair geld: open money en LETS"
 ---
 
 Geld is een grote ontwrichtende kracht in de wereld. Nochtans is geld gewoon een praktische sociale afspraak van virtuele representatie van waarde. Een accounting systeem geeft inzicht, een geschiedenis van wie wat heeft bijgedragen aan wie en hoe dat gewaardeerd werd.
