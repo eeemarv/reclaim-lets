@@ -20,7 +20,7 @@ Het hele idee van intersysteem handel heb ik verworpen gedurende bijna 30 jaar. 
 ... Dan wordt het moeilijk. Je hebt helemaal geen invloed wat er gebeurt in een ander systeem. Je hebt veel minder controle over wat er gaande is.
 
 **Michael**\
-En dus is het argument: we hebben betere controlesystemen nodig, beter bestuur in deze netwerken.  We hebben normen. Mensen moeten het op DEZE manier doen. Anders maken ze geen deel uit van ... Dus ben je terug in een ... centrale bureaucratie met administatieve angsten die vooral passen bij een kerk. Dit is kerk-gedrag dat we zien bij deze "interLETS" systemen en ik vind ze ... intellectueel absurd, ethisch uitdagend en technisch ridicuul. Dus, ik ben niet hard voor intersysteem handel. Ik heb er sterke gevoelens over (lacht).
+En dus is het argument: we hebben betere controlesystemen nodig, beter bestuur in deze netwerken.  We hebben normen. Mensen moeten het op DEZE manier doen. Anders maken ze geen deel uit van ... Dus ben je terug in een ... centrale bureaucratie met administatieve angsten die vooral passen bij een kerk. Dit is kerk-gedrag dat we zien bij deze "interLETS" systemen en ik vind ze ... intellectueel absurd, ethisch onverantwoord en technisch ridicuul. Dus, ik ben niet te vinden voor intersysteem handel. Ik heb er sterke gevoelens over (lacht).
 
 **Maarten**\
 Technisch is het ook ingewikkeld. We hebben er heel wat over gedacht. Maar ik ben nu ook tot de conclusie gekomen, na jouw documenten gelezen te hebben vorige week, dat systemen gescheiden moeten blijven. Er moet een veelvoud ...

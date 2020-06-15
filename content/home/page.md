@@ -8,7 +8,7 @@ Geld is een grote ontwrichtende kracht in de wereld. Nochtans is geld gewoon een
 
 Maar een geldsysteem heeft ontwerpregels. En als die ontwerpregels dicteren dat de creatie van geld in handen is van een kleine elite dan wordt geld een machtssysteem dat mens en maatschappij corrumpeert. Door schaarste gaat men elkaar beconcurreren en ontstaat een verwrongen kijk op geld; men verwart de virtuele representatie met de waarde zelf.
 
-Mocht daarentegen iedereen evenveel macht hebben om geld te creëren dan kan er een meer gezonde kijk op geld ontstaan. We zouden nog steeds accounting geschiedenissen kunnen creëren van onze waarderingen aan elkaar, maar nu in vrijheid en met herwonnen soevereiniteit. Zulke "open money" accounting systemen dragen bij aan inzicht en coherentie in onze maatschappij.
+Mocht daarentegen iedereen evenveel macht hebben om geld te creëren dan kan een meer gezonde kijk op geld ontstaan. We zouden nog steeds accounting geschiedenissen kunnen creëren van onze waarderingen aan elkaar, maar nu in vrijheid en met herwonnen soevereiniteit. Zulke "open money" accounting systemen dragen bij aan inzicht en coherentie in onze maatschappij.
 
 De ontwerper van LETSystems, Michael Linton, lanceerde eind jaren 90 de term "open money" als verzamelterm van niet-elitaire geldsoorten. Hij was waarschijnlijk geïnspireerd door de term "open source" software die toen in zwang geraakte. Open source is voor software wat open money is voor geld. Het staat ter beschikking voor allen die het kunnen gebruiken; en wordt niet gecontroleerd door een elite.
 
