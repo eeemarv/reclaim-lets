@@ -8,7 +8,7 @@ categories: []
 draft: false
 ---
 
-_Ik sprak met Michael Linton over intertrading tussen LETSystemen ofwel wat men weleens "interLETS" pleegt te nemen._
+_Ik sprak met Michael Linton over intertrading tussen LETSystemen ofwel wat men weleens "interLETS" pleegt te noemen._
 
 **Maarten**\
 Ik denk dat ik een probleem zie met "interLETS". Wanneer je een ander systeem koppelt, wordt je economisch één groter systeem.
